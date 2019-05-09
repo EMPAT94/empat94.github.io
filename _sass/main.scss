@@ -1,3 +1,62 @@
-.current {
-  color: greenyellow;
+html, body {
+  margin: 0px;
+  padding: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1rem;
 }
+
+a {
+  text-decoration: none;
+}
+
+
+/**/
+.container {
+  display: grid;
+  grid-template-columns: 20% auto;
+  grid-template-areas: 
+    "navBar mainContent";
+}
+
+@media only screen and (max-width:720px) {
+  .container {
+    grid-template-columns: auto;
+  }
+  .navBar {
+    display: none;
+  }
+}
+
+
+/****************************
+***** NAVIGATION BAR ********
+*****************************/
+
+.navBar {
+  grid-area: "navBar";
+  background-color: black;
+  min-height: 100vh;
+  max-height: 100vh;
+  color: white;
+}
+
+.navBar > h1 { // Name Header
+  text-align: center;
+}
+
+.navBar > a { // Menu Items
+  display: block;
+  color: white;
+}
+.navBar > a:hover {
+  color: grey;
+}
+.navBar > a.current {
+  color: grey;
+}
+
+/****/
+.mainContent {
+  grid-area: "mainContent";
+}
+
