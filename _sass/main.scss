@@ -1,8 +1,11 @@
-html, body {
+html,
+body {
   margin: 0px;
   padding: 0px;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 1rem;
+  background-color: black;
+  color: darkgrey;
 }
 
 a {
@@ -13,15 +16,15 @@ a {
 /**/
 .container {
   display: grid;
-  grid-template-columns: 20% auto;
-  grid-template-areas: 
-    "navBar mainContent";
+  grid-template-areas:
+    "navBar""mainContent";
 }
 
 @media only screen and (max-width:720px) {
   .container {
     grid-template-columns: auto;
   }
+
   .navBar {
     display: none;
   }
@@ -32,31 +35,62 @@ a {
 ***** NAVIGATION BAR ********
 *****************************/
 
-.navBar {
+nav {
+
+  padding: 1em;
   grid-area: "navBar";
   background-color: black;
-  min-height: 100vh;
-  max-height: 100vh;
   color: white;
+  border-bottom: 2px solid white;
+
+  h1 {
+    display: inline-block;
+
+    a {
+      color: wheat;
+    }
+  }
+
+  .menuBar {
+
+    text-align: right;
+    display: inline;
+
+    a {
+
+      display: inline-block;
+      color: white;
+      margin-left: 1em;
+
+      .current {
+        color: grey;
+      }
+
+    }
+
+    a:hover {
+      color: grey;
+    }
+  }
+
 }
 
-.navBar > h1 { // Name Header
-  text-align: center;
-}
-
-.navBar > a { // Menu Items
-  display: block;
-  color: white;
-}
-.navBar > a:hover {
-  color: grey;
-}
-.navBar > a.current {
-  color: grey;
-}
 
 /****/
 .mainContent {
   grid-area: "mainContent";
-}
+  padding: 2%;
 
+  .postList {
+    a {
+      color: aliceblue;
+    }
+    a:hover {
+      color: cornflowerblue;
+    }
+  }
+
+  .postBody {
+    color:rebeccapurple;
+  }
+}
