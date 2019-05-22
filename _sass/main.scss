@@ -1,11 +1,37 @@
+@font-face {
+  font-family: Roboto;
+  src: url("fonts/Roboto-Regular.ttf");
+}
+
+@font-face {
+  font-family: Roboto-Thin;
+  src: url("fonts/Roboto-Thin.ttf");
+}
+
+@font-face {
+  font-family: Roboto-Medium;
+  src: url("fonts/Roboto-Medium.ttf");
+}
+
+@font-face {
+  font-family: Roboto-Bold;
+  src: url("fonts/Roboto-Bold.ttf");
+}
+
+@font-face {
+  font-family: Roboto-Black;
+  src: url("fonts/Roboto-Black.ttf");
+}
+
+
 html,
 body {
   margin: 0px;
   padding: 0px;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 1rem;
   background-color: black;
-  color: darkgrey;
+  color: lightgrey;
+  font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
 }
 
 a {
@@ -21,13 +47,7 @@ a {
 }
 
 @media only screen and (max-width:720px) {
-  .container {
-    grid-template-columns: auto;
-  }
 
-  .navBar {
-    display: none;
-  }
 }
 
 
@@ -37,14 +57,22 @@ a {
 
 nav {
 
-  padding: 1em;
+  display: grid;
+  grid-template-areas: "logo menuBar";
+  grid-template-columns: 30% 70%;
+
+  padding-left: 1em;
   grid-area: "navBar";
   background-color: black;
   color: white;
   border-bottom: 2px solid white;
+  font-size: 1.5em;
 
   h1 {
+    grid-area: "logo";
+    margin: 0.5em;
     display: inline-block;
+    font-family: "Roboto-Black", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
     a {
       color: wheat;
@@ -53,14 +81,17 @@ nav {
 
   .menuBar {
 
+    grid-area: "menuBar";
+    margin: 1em;
     text-align: right;
-    display: inline;
+    display: inline-block;
 
     a {
 
       display: inline-block;
       color: white;
       margin-left: 1em;
+      font-family: 'Roboto-Medium', Verdana, Geneva, Tahoma, sans-serif;
 
       .current {
         color: grey;
@@ -85,12 +116,10 @@ nav {
     a {
       color: aliceblue;
     }
+
     a:hover {
       color: cornflowerblue;
     }
   }
 
-  .postBody {
-    color:rebeccapurple;
-  }
 }

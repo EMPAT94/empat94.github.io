@@ -1,5 +1,9 @@
 ---
 title: Pritesh Tupe | Fate of Arda
 ---
-
-Under Construction
+{{ foa }}
+{% for part in foa.parts %}
+ <li>
+   <h2><a href="{{ part.url }}">{{ part.title }}</a></h2>
+ </li>
+{% endfor %}
