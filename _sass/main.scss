@@ -45,19 +45,13 @@ a {
   grid-template-areas: "navBar" "mainContent";
 }
 
-@media only screen and (max-width: 720px) {
-}
-
 /****************************
 ***** NAVIGATION BAR ********
 *****************************/
 
 nav {
   display: grid;
-  grid-template-areas: "logo menuBar";
-  grid-template-columns: 30% 70%;
-
-  padding-left: 1em;
+  grid-template-areas: "logo" "menuBar";
   grid-area: "navBar";
   background-color: black;
   color: white;
@@ -69,6 +63,7 @@ nav {
     margin: 0.5em;
     display: inline-block;
     font-family: "Roboto-Black", Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    text-align: center;
 
     a {
       color: wheat;
@@ -78,7 +73,7 @@ nav {
   .menuBar {
     grid-area: "menuBar";
     margin: 1em;
-    text-align: right;
+    text-align: center;
     display: inline-block;
 
     a {
@@ -96,12 +91,38 @@ nav {
       color: grey;
     }
   }
+
+  .mobileMenuBar {
+    display: none;
+    grid-area: "mobileMenuBar";
+  }
+
+  #mobileMenu {
+    display: none;
+    ul {
+      margin-top: 0;
+      li {
+        list-style-type: none;
+        text-align: right;
+        a {
+          display: inline-block;
+          color: white;
+          margin: 0.5em;
+          font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
+
+          .current {
+            color: grey;
+          }
+        }
+      }
+    }
+  }
 }
 
 /****/
 .mainContent {
   grid-area: "mainContent";
-  padding: 2%;
+  padding: 5% 15% 15% 15%;
 
   .postList {
     a {
@@ -111,5 +132,24 @@ nav {
     a:hover {
       color: cornflowerblue;
     }
+  }
+}
+
+@media only screen and (max-width: 720px) {
+  nav {
+    grid-area: "logo mobileMenuBar";
+    grid-template-columns: 90% 10%;
+
+    .menuBar {
+      display: none;
+    }
+    .mobileMenuBar {
+      display: block;
+      margin-top: 50%;
+    }
+  }
+
+  .mainContent {
+    padding: 5% 5% 5% 5%;
   }
 }

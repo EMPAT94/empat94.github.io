@@ -1,10 +1,33 @@
 <nav>
 
-  <h1> <a href="/"> PRITESH&nbsp;&nbsp;TUPE </a> </h1>
+  <h1> <a href="/"> PRITESH&nbsp;TUPE </a> </h1>
 
+  <!-- only on screens > 720px wide -->
   <div class="menuBar">
     <a href="/about">About</a>
     <a href="/foa"> Fate of Arda</a>
   </div>
 
+  <!-- only on screens < 720px wide -->
+  <div class="mobileMenuBar" onclick="toggleMenu()">&#9776;</div>
+  <div id="mobileMenu">
+    <ul>
+      <li><a href="/about">About</a></li>
+      <li><a href="/foa"> Fate of Arda</a></li>
+    </ul>
+  </div>
+
 </nav>
+
+<script>
+  function toggleMenu() {
+
+    let mobileMenu = document.getElementById("mobileMenu");
+    let currentDisplay = mobileMenu.style.display;
+
+    currentDisplay === "none" || !currentDisplay
+      ? mobileMenu.style.display = "block"
+      : mobileMenu.style.display = "none";
+
+  }
+</script>
