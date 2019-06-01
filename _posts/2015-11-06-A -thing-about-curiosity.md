@@ -1,8 +1,6 @@
----
- date: 6th October 2015
----
+# A Thing about Curiosity
 
-It's been a very long time since anything that I heard in the classroom excited me...
+_It's been a very long time since anything that I heard in the classroom excited me..._
 
 I remember listening about Dalton's theory for the first time in my Science class ages ago, and I remember how I visualised every thing around us being the same, just being arranged differently. I was seeing the world in a whole new way; the theories of sub-atomic particles that followed further reinforced my new perspective and boy, the thoughts running through my head whilst these things were being taught!
 

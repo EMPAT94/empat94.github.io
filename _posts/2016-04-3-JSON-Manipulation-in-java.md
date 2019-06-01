@@ -1,15 +1,13 @@
----
-date: 3rd April 2016
----
-JSON Manipulation In Java 
-Prerequisites : 
+# JSON Manipulation In Java
+
+## Prerequisites :
 
 1. An IDE (I'm doing in Netbeans v8.1)
 2. json simple jar
 (Download at http://mvnrepository.com/artifact/com.googlecode.json-simple/json-simple/1.1.1)
 3. Patience
 
-Problem Statement :
+## Problem Statement :
 
 The example I've used is extraction of info from Twitter Data-set that was in json format. This is a program similar to a mini project that I once did. The program crawls through each tweet and extracts following entities:
 
@@ -26,47 +24,57 @@ These entities are stored in linked-lists and copies of these linked lists are u
 
 Where n is User Defined at Run-Time.
 
-Code Explanation :
+## Code Explanation :
 
-1. Setup
+### Setup
 
-a. In Netbeans, create a new project and add the jar file by right clicking on "Libraries" and then "Add Jar"
+  a. In Netbeans, create a new project and add the jar file by right clicking on "Libraries" and then "Add Jar"
 
-b. import following -
+  b. import following -
+
+```java
 import java.io.*;
 import java.util.*;
 import org.json.simple.*;
 import org.json.simple.parser.*;
+```
 
 Note :- I won't be explaining the entire code, but just for the hashtag parameter. Rest is easily understandable.
 
-2. Create a new JSON Parser object along with variables for parameter processing -
+### Create a new JSON Parser object along with variables for parameter processing -
 
+```java
 JSONParser parser = new JSONParser();
 
 LinkedList<String> hashtags = new LinkedList();
 ArrayList<Integer> count_hash = new ArrayList();
 String topHashtags[];
 int topHashtagsCount[];
+```
 
-3. Input your file into the parser (File must be filename.json i.e. in pure json format)
+### Input your file into the parser (File must be filename.json i.e. in pure json format)
 
+```java
 JSONArray a = (JSONArray) parser.parse(new FileReader("src\\bdaminiproject\\twitterData.json"));
-
+```
 
 Note :- I've initialized a JSONArray to parse the file because all my tweets are objects inside an array.
-Like this -
-[ {tweet1}, {tweet2}, {tweet3}, ..., {tweetn} ]
+Like this - [ {tweet1}, {tweet2}, {tweet3}, ..., {tweetn} ]
+
 Your json may be just an object instead of array, adjust accordingly.
 
-4. Now, for each tweet inside the array, create a new JSONObject of the tweet so as to access the information inside.
+### Now, for each tweet inside the array, create a new JSONObject of the tweet so as to access the information inside.
 
+```java
 for (Object o : a) {
-                JSONObject x = (JSONObject) o;
-                ...
+    JSONObject x = (JSONObject) o;
+    ...
 }
+```
 
-5. Now, to extract information, we must know the structure of our object. My tweet object is like this (note that text is italics is modified to protect privacy) -
+### Now, to extract information, we must know the structure of our object. My tweet object is like this (note that text is italics is modified to protect privacy) -
+
+```json
 {
     ....
     "user": {
@@ -89,11 +97,13 @@ for (Object o : a) {
     },
     ...
 }
+```
 
 So, "hashtags" is an array of values inside object "entities" inside each tweet object x.
 
-6. Extract each hashtag and store it in the linked list while adding a new count in arraylist. If the list already contains the hashtag, then increment the corresponding count in arraylist. Given that neither "entities" nor "hashtags" is null.
+### Extract each hashtag and store it in the linked list while adding a new count in arraylist. If the list already contains the hashtag, then increment the corresponding count in arraylist. Given that neither "entities" nor "hashtags" is null.
 
+```java
 if (x.get("entities") != null) {
     JSONObject entity = (JSONObject) x.get("entities");
     if (entity.get("hashtags") != null) {
@@ -111,6 +121,7 @@ if (x.get("entities") != null) {
         }
     }
 }
+```
 
 a. x = tweet object => x.get("entities") means get entities object from x
 b. create  a new JSONObject of "entities"
@@ -120,26 +131,30 @@ e. create a JSONObject y of each "text" and get its value using y.get("text"); n
 f. if the value doesn't exist, add it to linkedlist and add a count to arraylist
 g. if the value exists, find its index in linkedlist and increment the corresponding index in arraylist.
 
-7. To display top n hastags, get user input for n and initialize the above declared top arrays to value n.
+### To display top n hastags, get user input for n and initialize the above declared top arrays to value n.
 
+```java
 System.out.print("\nGet top n Hashtags, set n to : ");
 n = ent.nextInt();
 topHashtagsCount = new int[n];
 topHashtags = new String[n];
+```
 
-8. Create copies of hashtag and count lists as new linkedlists l and arraylist a
+### Create copies of hashtag and count lists as new linkedlists l and arraylist a
 
+```java
 LinkedList l = new LinkedList();
 l.addAll(hashtags Linkedlist);
 ArrayList a = new ArrayList();
 a.addAll(count Arraylist);
+```
 
-9.  for iterations from 0 to n (Since top n)
-        a. Get index of max value in arraylist a, add it to topHashtagsCount
-        b. Get corresponding indexed item (hashtag) from linkedlist l, add it to topHashtags.
-        c. remove values corresponding to that index from both a and l
+for iterations from 0 to n (Since top n)
+    a. Get index of max value in arraylist a, add it to topHashtagsCount
+    b. Get corresponding indexed item (hashtag) from linkedlist l, add it to topHashtags.
+    c. remove values corresponding to that index from both a and l
 
-10. Display arrays topHashtags and topHashtagsCount from 0 to n
+### Display arrays topHashtags and topHashtagsCount from 0 to n
 
 
 That's all folks.. Simple, right? ;)
@@ -148,6 +163,7 @@ To those who just want the code, here it is :
 
 Code :-
 
+```java
 package bdaminiproject;
 
 import java.io.*;
@@ -351,3 +367,4 @@ public class tweet {
     }
 
 }
+```

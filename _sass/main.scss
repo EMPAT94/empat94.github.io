@@ -23,40 +23,35 @@
   src: url("fonts/Roboto-Black.ttf");
 }
 
-
 html,
 body {
   margin: 0px;
   padding: 0px;
-  font-size: 1rem;
-  background-color: black;
-  color: lightgrey;
-  font-family: 'Roboto', Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 1.08rem;
+  line-height: 1.4em;
+  background-color: rgb(30, 30, 30);
+  color: white;
+  font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
 }
 
 a {
   text-decoration: none;
 }
 
-
 /**/
 .container {
   display: grid;
-  grid-template-areas:
-    "navBar""mainContent";
+  grid-template-areas: "navBar" "mainContent";
 }
 
-@media only screen and (max-width:720px) {
-
+@media only screen and (max-width: 720px) {
 }
-
 
 /****************************
 ***** NAVIGATION BAR ********
 *****************************/
 
 nav {
-
   display: grid;
   grid-template-areas: "logo menuBar";
   grid-template-columns: 30% 70%;
@@ -72,7 +67,7 @@ nav {
     grid-area: "logo";
     margin: 0.5em;
     display: inline-block;
-    font-family: "Roboto-Black", Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: "Roboto-Black", Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
 
     a {
       color: wheat;
@@ -80,32 +75,27 @@ nav {
   }
 
   .menuBar {
-
     grid-area: "menuBar";
     margin: 1em;
     text-align: right;
     display: inline-block;
 
     a {
-
       display: inline-block;
       color: white;
       margin-left: 1em;
-      font-family: 'Roboto-Medium', Verdana, Geneva, Tahoma, sans-serif;
+      font-family: "Roboto-Medium", Verdana, Geneva, Tahoma, sans-serif;
 
       .current {
         color: grey;
       }
-
     }
 
     a:hover {
       color: grey;
     }
   }
-
 }
-
 
 /****/
 .mainContent {
@@ -121,5 +111,4 @@ nav {
       color: cornflowerblue;
     }
   }
-
 }

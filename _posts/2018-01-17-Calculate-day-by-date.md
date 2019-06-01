@@ -1,43 +1,42 @@
-Simple way to calculate the day for any date 
+# Simple way to calculate the day for any date 
 
+_Disclaimer : I found this method on YouTube; I merely wrote it down for convenience (so I can make a program someday) and thought I should share it with you all._
 
-Disclaimer : I found this method on YouTube; I merely wrote it down for convenience (so I can make a java program someday) and thought I should share it with you all. Here's the source : Video Link 
+_Here's the source : [Video Link](https://www.youtube.com/watch?v=714LTMNJy5M)_
 
- 
-***** Prerequisites *****
+## Prerequisites
 
 1. Let Sunday = 0, Monday = 1 .... Saturday = 6
 
 2. Doomsdays -
 
-The day shared by specific dates (day changes by year, dates remain same)
-
-Jan/3(4th in Leap), Feb/28th (29th in leap), Mar/14th, Apr/4th ... can be written as
-
-1/3(4), 2/28(29), 3/14, 4/4, 5/9, 6/6, 7/11, 8/8, 9/5, 10/10, 11/7, 12/12
-
-For even months, it's same date as the month (expect Feb)
-For Feb it's the last day (29 or 28 depending on leap or not)
-For odd months : working 9/5 on 7/11 (reverse holds true), Pie 3/14, Jan is 3rd or 4th (Leap)
-
-Eg : 2018's doomsdays are all Wednesdays
+    The day shared by specific dates (day changes by year, dates remain same)
+    
+    Jan/3(4th in Leap), Feb/28th (29th in leap), Mar/14th, Apr/4th ... can be written as
+    
+    1/3(4), 2/28(29), 3/14, 4/4, 5/9, 6/6, 7/11, 8/8, 9/5, 10/10, 11/7, 12/12
+    
+    For even months, it's same date as the month (expect Feb)
+    For Feb it's the last day (29 or 28 depending on leap or not)
+    For odd months : working 9/5 on 7/11 (reverse holds true), Pie 3/14, Jan is 3rd or 4th (Leap)
+    
+    Eg : 2018's doomsdays are all Wednesdays
 
 3. Century Code -
 
-In gregorian calendar, dates repeat every 400 years. so only 4 century codes possible/required
+    In gregorian calendar, dates repeat every 400 years. so only 4 century codes possible/required
+    
+    ...
+    1500 1600 1700 1800
+    1900 2000 2100 2200
+    2300 2400 2500 2600
+    ...
+    
+    3(Wed) 2(Tue) 0(Sun) 5(Fri)
+    
+    Eg : 2000's doomsday = Tuesday => 2000's code = 2
 
-...
-1500 1600 1700 1800
-1900 2000 2100 2200
-2300 2400 2500 2600
-...
-
-3(Wed) 2(Tue) 0(Sun) 5(Fri)
-
-Eg : 2000's doomsday = Tuesday => 2000's code = 2
-
-
-***** Algorithm *****
+## Algorithm
 
 Input = dd/mm/yyyy
 
@@ -50,8 +49,7 @@ Input = dd/mm/yyyy
 7. | dd - Y | / 7 = Quotient + Remainder (T)
 8. (D + T) / 7 = Quotient + Remainder (Output/Answer)
 
-
-***** Notes *****
+## Notes
 
 -> Variable assignment :
     Quotient (A) + Remainder (B) means A = Quotient and B = Remainder
@@ -65,8 +63,7 @@ Input = dd/mm/yyyy
 
 -> For more (visual) explanation, please refer to the video
 
-
-***** Examples ******
+## Examples
 
 Eg 1 : Day on 6th Dec 2030
 
@@ -89,4 +86,3 @@ Eg 2 : Day on 23rd Sept 1105
 6. Y = 5
 7. | 23 - 5 | / 7 = 1 + 4 => T = 4
 8. (2 + 4) / 7 = 0 + 6 => Ans = 6 = Saturday
-Posted 17th January 2018 by Pritesh Tupe

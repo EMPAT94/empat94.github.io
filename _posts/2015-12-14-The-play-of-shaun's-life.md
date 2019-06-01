@@ -1,14 +1,16 @@
----
-date: 14th December 2015
----
+# The Play of Shaun's Life
 
-# The Play of Shaun's Life 
+&nbsp;
+&nbsp;
 
 ## Act I - Innocence
 
 Shaun always liked when people called him 'good boy'; He liked being a good boy, because then, mommy would smile and daddy would give a pat on his back or ruffle his hair. Sometimes, it meant a chocolate treat. Sometimes, just a peck on cheek by some stranger. He was so happy. At age 7, Shaun was showing great progress in studies. Always at the top of his class, all teachers praised him, each expecting him to go high up in life. 
 
 One day, as he was watching Pokemon, his mom sat by his side and said "Shaun, you're gonna have a sister!" Confused for a moment, he looked at his mom for clues as to how to react and seeing her smile, he started smiling too. He soon told all his friends from school about his baby sister's coming. Everyone, including mom, dad, aunt Cassie and his grandpa were happy, and so was Shaun.
+
+&nbsp;
+&nbsp;
 
 ## Act II - Fate Strikes
 
@@ -18,7 +20,10 @@ When he went home, he saw his neighbors and mom's friends from office. All looki
 
 Shaun was aged 12 when he lost his Dad and little sister to a road accident. They had died on the spot when their car spiraled out of control and collided against a stout tree.
 
-## Act III - Expectations 
+&nbsp;
+&nbsp;
+
+## Act III - Expectations
 
 Stacy was the sort of girl that you see most of the time, but rarely notice. A demure expression always clouded her beautiful face, the clothes she wore did no justice to her body and she had a firm yet soft voice that could make a mockingbird mourn, because it couldn't replicate a sound so sweet as hers. She had a kind heart, and empathy to match her good nature, yet for all that, she wasn't blessed with brains for academia. So she asked for help from the topper of her class, and thus met Shaun and Stacy. And this time around, Shaun did notice her.
 
@@ -28,12 +33,17 @@ After one such study session, after Stacy went home, Shaun's mom called him in a
 
 "Son, remember I visited the Doctor Hollis the day before? Well, he said I'm suffering form Heat Syncope. It means my blood vessels dilate in hot environments and all the blood moves to my legs. So... We have to move to your grandpa's place up North..." After much consternation, and some more discussions, he realized he had no choice. He felt his heart drop when he thought of Stacy.
 
+&nbsp;
+&nbsp;
 
 ## Act VI - Suffering
 
 He was now officially an Adult, but that gave him no more pleasure for all it could entail. As he sat there on this dead grandpa's sofa all alone, he reminisced about the life he had lived. Images of him playing with his little sister and dad, his mom cooking up his favorite dish, all his friends giving him a surprise birthday bash, the day when he found out about the accident, how his mom had cried.. and later fought. All the pains she had gone through to take care of him, making sure he never felt wanting, how his grandpa cracked funny jokes, the funeral of his grandpa whom he had come to love and respect in the year he had stayed at his place, how he felt his mom breaking down - piece by piece, held together barely by forces he knew not. Her illness, how the damned doctor had misinterpreted the diagnosis. All the loans he had taken to remedy that mistake and provide her with all the medical attention he could. Yet here he was today, with nothing to show for it all, for all that he did, people still died around him. He thought of Stacy, of how she might be and how it could've been. But more than anything else, his thoughts returned to his mom. The wrinkles of burden on her soft face and how beautiful she looked when she smiled; the last time he had seen her, she was so weak that he could see her skin stretched over the bones. The doctors said there was nothing else they could do. He remembered getting the call, saying she was no more. The emptiness he felt, knowing that she went without seeing his face. That he wasn't there to say goodbye. They assured him it was peaceful, she died in her sleep. But even then, that emptiness was like a storm in his heart. he felt himself shrinking, the world around him becoming unbearably suffocating, trying to choke him till he broke.
 
 Such thoughts assailed him while he waited for aunt Cassie to come; she was going to make the arrangements for his mom's funeral.
+
+&nbsp;
+&nbsp;
 
 ## Act V - Salvation
 
