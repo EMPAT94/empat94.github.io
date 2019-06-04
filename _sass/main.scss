@@ -1,3 +1,7 @@
+/*************************
+********** FONTS *********
+**************************/
+
 @font-face {
   font-family: Roboto;
   src: url("fonts/Roboto-Regular.ttf");
@@ -23,6 +27,10 @@
   src: url("fonts/Roboto-Black.ttf");
 }
 
+/*************************
+********* GLOBAL *********
+**************************/
+
 html,
 body {
   margin: 0px;
@@ -39,27 +47,55 @@ a {
   text-decoration: none;
 }
 
-/**/
+/*************************
+********* LAYOUT *********
+**************************/
+
+/* Default */
+
 .container {
   display: grid;
   grid-template-areas: "navBar" "mainContent";
+
+  .navBar {
+    grid-area: navBar;
+  }
+  .mainContent {
+    grid-area: mainContent;
+  }
+}
+
+/* About Me */
+
+.aboutMe {
+  display: grid;
+  grid-template-areas: "contactMe myStory";
+  grid-template-columns: 30% 70%;
+  .contactMe {
+    grid-area: contactMe;
+  }
+  .myStory {
+    grid-area: myStory;
+  }
 }
 
 /****************************
-***** NAVIGATION BAR ********
+***** COMPONENT STYLES ******
 *****************************/
+
+/* Navigation Bar */
 
 nav {
   display: grid;
   grid-template-areas: "logo" "menuBar";
-  grid-area: "navBar";
+
   background-color: black;
   color: white;
   border-bottom: 2px solid white;
   font-size: 1.5em;
 
   h1 {
-    grid-area: "logo";
+    grid-area: logo;
     margin: 0.5em;
     display: inline-block;
     font-family: "Roboto-Black", Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
@@ -71,7 +107,7 @@ nav {
   }
 
   .menuBar {
-    grid-area: "menuBar";
+    grid-area: menuBar;
     margin: 1em;
     text-align: center;
     display: inline-block;
@@ -92,9 +128,9 @@ nav {
     }
   }
 
-  .mobileMenuBar {
+  .menuToggleBtn {
     display: none;
-    grid-area: "mobileMenuBar";
+    grid-area: menuToggleBtn;
   }
 
   #mobileMenu {
@@ -119,9 +155,9 @@ nav {
   }
 }
 
-/****/
+/* Content Area */
+
 .mainContent {
-  grid-area: "mainContent";
   padding: 5% 15% 15% 15%;
 
   .postList {
@@ -135,21 +171,38 @@ nav {
   }
 }
 
-@media only screen and (max-width: 720px) {
-  nav {
-    grid-area: "logo mobileMenuBar";
-    grid-template-columns: 90% 10%;
+/* Contact Me */
 
-    .menuBar {
-      display: none;
-    }
-    .mobileMenuBar {
-      display: block;
-      margin-top: 50%;
-    }
+.contactMe {
+  img {
+    width: 100px;
   }
+  svg {
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+  }
+}
 
-  .mainContent {
-    padding: 5% 5% 5% 5%;
+/*****************************
+*********** MOBILE ***********
+******************************/
+
+@media only screen and (max-width: 720px) {
+  .container {
+    nav {
+      grid-template-areas: "logo menuToggleBtn";
+      grid-template-columns: 90% 10%;
+      .menuBar {
+        display: none;
+      }
+      .menuToggleBtn {
+        display: block;
+        padding-top: 40%;
+      }
+    }
+    .mainContent {
+      padding: 5% 5% 5% 5%;
+    }
   }
 }
