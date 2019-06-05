@@ -1,4 +1,6 @@
-# An Experiment
+---
+title: An Experiment
+---
 
 I believe this is what they call free association writing - you just "start writing" without any idea of what you are going to write about. What am I writing about? I have no clue, hopefully though, I'll find a flow soon since writing a whole lot of stuff about nothing in particular is a peculiar way to expose your creativity. So, let me just note down some of the thoughts that run around in my head, like an empty train going from nothing to nowhere.
 

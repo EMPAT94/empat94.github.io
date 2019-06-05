@@ -1,4 +1,6 @@
-# A Thing about Curiosity
+---
+title: A Thing about Curiosity
+---
 
 _It's been a very long time since anything that I heard in the classroom excited me..._
 

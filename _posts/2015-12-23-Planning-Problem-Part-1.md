@@ -1,5 +1,6 @@
-
-# Planning Problem using Backward Chaining in Java Part 1 
+---
+title: Planning Problem using Backward Chaining in Java Part 1 
+---
 
 _So, I had this subject called Intelligent Systems for my last semester and we had several hands-on practicals for various modules of this subject. One of those modules was - Planning Problem. We had to implement a simple problem with specific inputs that gave a certain output (see - Spare Tyre Problem). But that was too easy, and didn't really explore the aspect of the module we were expected to learn. So, one fine evening when I had too much time on my hands, I decided to create a code wherein ANY planning problem could be given and a solution for it would be given as output. And for processing, I used the Backward Chaining Technique. The few people who saw the program in action and those who saw the code, all wanted to know how it worked. Now, it's not so easy to give a comprehensive explanation of such a complex code in half a minute. That is the reason why I'm writing this post. A step-by-step implementation of Planning Problem using Backward Chaining in Java. Note that I'm not an advanced programmer or anything, you might find better codes elsewhere. This here is just my two cents. So, here we go._
 

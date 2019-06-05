@@ -1,4 +1,6 @@
-# Who YOU are...
+---
+title: Who YOU are...
+---
 
 _The title of this post represents the epitome of human understanding of self, or the lack thereof... outside of the purpose of our existence. Here, I try to present what I have learnt about my own self that I believe is generic to everyone... including you. So are you ready to dive deep into yourself? If so, let's proceed._
 

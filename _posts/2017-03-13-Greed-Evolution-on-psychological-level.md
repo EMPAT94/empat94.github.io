@@ -1,4 +1,6 @@
-# Greed - Evolution on a psychological level
+---
+title: Greed - Evolution on a psychological level
+---
 
 _My intent behind writing this post is to offer a perspective on the role "greed" plays in the larger picture of human kind and how it may have evolved into what we know it as today. I must admit I am no expert on these matters and implore you to take this with a grain of salt. Nonetheless, I hope you enjoy reading this as much as I did while writing it. Without further ado, let's dive into : In my honest opinion - Greed (Evolution on a psychological level)._
 

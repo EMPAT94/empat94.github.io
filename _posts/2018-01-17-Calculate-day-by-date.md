@@ -1,4 +1,6 @@
-# Simple way to calculate the day for any date 
+---
+title: Simple way to calculate the day for any date 
+---
 
 _Disclaimer : I found this method on YouTube; I merely wrote it down for convenience (so I can make a program someday) and thought I should share it with you all._
 

@@ -5,5 +5,16 @@ collections:
 defaults:
   - scope:
       path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "foa"
     values:
       layout: "default"

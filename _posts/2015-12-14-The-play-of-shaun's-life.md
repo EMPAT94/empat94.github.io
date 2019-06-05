@@ -1,7 +1,6 @@
-# The Play of Shaun's Life
-
-&nbsp;
-&nbsp;
+---
+title: The Play of Shaun's Life
+---
 
 ## Act I - Innocence
 

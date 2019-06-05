@@ -1,4 +1,6 @@
-# Time Travel
+---
+title: Time Travel
+---
 
 _Yesterday I saw a game/movie called "Quantum Break" on YouTube and I was hooked till the end. It revolves around a literal "End of Time" scenario with main characters having strange superhuman abilities and has time travel thrown in the mix. It was pretty exciting to watch, and as good movies (or games) tend to have that lasting effect, I kept on thinking about the "how" and "what-if's" of the concept until I slept. This post contains a few of my thoughts concerning the entire episode that I thought I'd share with you guys. I am in no way an expert in this field, just a wide-eyed kid with too much free time on his hands :) So, I present to you : In My Honest Opinion - Time Travel._
 

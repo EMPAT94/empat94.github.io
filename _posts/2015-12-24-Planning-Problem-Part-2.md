@@ -1,4 +1,6 @@
-# Planning Problem Part 2
+---
+title: Planning Problem Part 2
+---
 
 _So, in the last post, we left of with a bit of code that took input for initial_states, actions and a goal. Here on, we will be adding and modifying the same code. Just a warning, it might get too complicated for those who are not familiar with coding. So, let's go._
 

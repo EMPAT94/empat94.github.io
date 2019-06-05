@@ -1,4 +1,6 @@
-# All is Fair...
+---
+title: All is Fair...
+---
 
 _"I should have told her, I should have told her how much..." he sobbed away into silence. Those were the last words he ever spoke._
 
