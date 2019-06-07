@@ -18,3 +18,12 @@ defaults:
       type: "foa"
     values:
       layout: "default"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - octopress-minify-html
+
+sass:
+  style: compressed
