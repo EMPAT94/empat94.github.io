@@ -52,6 +52,13 @@ a {
   text-decoration: none;
 }
 
+code {
+  padding: 1em;
+  display: block;
+  background-color: rgb(40, 40, 40);
+  overflow-x: scroll;
+}
+
 /*************************
 ********* LAYOUT *********
 **************************/
@@ -194,6 +201,10 @@ nav {
 ******************************/
 
 @media only screen and (max-width: 720px) {
+  code {
+    max-width: 19em;
+  }
+
   .container {
     nav {
       grid-template-areas: "logo menuToggleBtn";

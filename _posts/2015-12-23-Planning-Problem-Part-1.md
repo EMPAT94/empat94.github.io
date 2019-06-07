@@ -53,9 +53,9 @@ What I did to obtain this sequence was :
 
     5.1. If Condition is an Initial State, Check next Condition.
 
-          5.1.1. If Next Condition Exists, Repeat from 5.
+    5.1.1. If Next Condition Exists, Repeat from 5.
 
-          5.1.2. If No Next Condition, Go To 6.
+    5.1.2. If No Next Condition, Go To 6.
 
     5.2. If Condition is NOT an Initial State, Repeat from 2.
 
