@@ -1,4 +1,6 @@
+title: "Pritesh Tupe"
 url: "https://www.priteshtupe.com"
+author: "Pritesh Tupe"
 
 collections:
   foa:
@@ -26,8 +28,7 @@ plugins:
   - jekyll-sitemap
 
 jekyll-minifier:
-  uglifier_args:
-    harmony: true
+  exclude: "*"
 
 sass:
   style: compressed
