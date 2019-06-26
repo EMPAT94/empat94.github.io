@@ -187,12 +187,16 @@ nav {
 
 .contactMe {
   img {
-    width: 100px;
+    border-radius: 1em;
   }
-  svg {
-    width: 50px;
-    height: 50px;
-    padding: 10px;
+
+  a {
+    text-decoration: blueviolet;
+    color: lightgray;
+    div {
+      margin: 20px;
+      font-size: 0.8em;
+    }
   }
 }
 
@@ -202,7 +206,7 @@ nav {
 
 @media only screen and (max-width: 720px) {
   code {
-    max-width: 19em;
+    max-width: 20em;
   }
 
   .container {
@@ -219,6 +223,15 @@ nav {
     }
     .mainContent {
       padding: 5% 5% 5% 5%;
+    }
+    .aboutMe {
+      display: grid;
+      grid-template-areas: "contactMe" "myStory";
+      grid-template-columns: auto;
+
+      .contactMe {
+        text-align: center;
+      }
     }
   }
 }
