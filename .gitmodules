@@ -1,0 +1,6 @@
+[submodule "creatures"]
+	path = creatures
+	url = https://github.com/EMPAT94/creatures.git
+[submodule "binary-clock"]
+	path = binary-clock
+	url = https://github.com/EMPAT94/binary-clock.git
