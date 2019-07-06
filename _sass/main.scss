@@ -38,6 +38,7 @@
 
 html,
 body {
+  max-width: 100%;
   margin: 0px;
   padding: 0px;
   font-size: 1.099rem;
@@ -57,6 +58,12 @@ code {
   display: block;
   background-color: rgb(40, 40, 40);
   overflow-x: scroll;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 5% 0;
 }
 
 /*************************
@@ -222,7 +229,7 @@ nav {
       }
     }
     .mainContent {
-      padding: 5% 5% 5% 5%;
+      padding: 5%;
     }
     .aboutMe {
       display: grid;
