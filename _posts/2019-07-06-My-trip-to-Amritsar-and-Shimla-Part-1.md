@@ -39,4 +39,4 @@ We left for Attari border. The climate had changed - suddenly storm clouds brewe
 
 ![Attari Border](/assets/imgs/attari_border.jpg)
 
-_continued on Part 2, coming soon_
+_continued on Part 2_
