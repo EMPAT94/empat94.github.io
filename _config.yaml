@@ -24,6 +24,7 @@ defaults:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
 
 jekyll-minifier:
   uglifier_args:
@@ -31,3 +32,6 @@ jekyll-minifier:
 
 sass:
   style: compressed
+
+include:
+  - node_modules/uglifier/index.js
