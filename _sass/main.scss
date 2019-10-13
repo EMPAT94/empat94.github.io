@@ -43,7 +43,7 @@ body {
   padding: 0px;
   font-size: 1.099rem;
   line-height: 1.4em;
-  letter-spacing: 0.09em;
+  letter-spacing: 0.08em;
   background-color: rgb(30, 30, 30);
   color: white;
   font-family: "Roboto-Thin", Verdana, Geneva, Tahoma, sans-serif;
@@ -51,6 +51,7 @@ body {
 
 a {
   text-decoration: none;
+  cursor: pointer;
 }
 
 code {
@@ -81,6 +82,8 @@ img {
   }
   .mainContent {
     grid-area: mainContent;
+    line-height: 2;
+    font-size: 1.1em;
   }
 }
 
@@ -117,12 +120,14 @@ nav {
     grid-area: logo;
     margin: 0.5em;
     display: inline-block;
-    font-family: "Roboto-Black", Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-family: "Roboto-Thin", Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
     text-align: center;
+    letter-spacing: 0.3em;
 
     a {
-      color: wheat;
+      color: teal;
     }
+
   }
 
   .menuBar {
@@ -201,7 +206,6 @@ nav {
     text-decoration: blueviolet;
     color: lightgray;
     div {
-      margin: 20px;
       font-size: 0.8em;
     }
   }
