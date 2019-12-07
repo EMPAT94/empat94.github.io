@@ -1,38 +1,4 @@
 /*************************
-********** FONTS *********
-**************************/
-
-@font-face {
-  font-family: Roboto;
-  font-display: auto;
-  src: url("fonts/Roboto-Regular.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: Roboto-Thin;
-  font-display: auto;
-  src: url("fonts/Roboto-Thin.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: Roboto-Medium;
-  font-display: auto;
-  src: url("fonts/Roboto-Medium.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: Roboto-Bold;
-  font-display: auto;
-  src: url("fonts/Roboto-Bold.woff2") format("woff2");
-}
-
-@font-face {
-  font-family: Roboto-Black;
-  font-display: auto;
-  src: url("fonts/Roboto-Black.woff2") format("woff2");
-}
-
-/*************************
 ********* GLOBAL *********
 **************************/
 
@@ -46,7 +12,7 @@ body {
   letter-spacing: 0.08em;
   background-color: rgb(30, 30, 30);
   color: white;
-  font-family: "Roboto-Thin", Verdana, Geneva, Tahoma, sans-serif;
+  font-family: 'Gentium Basic', serif;
 }
 
 a {
@@ -101,6 +67,24 @@ img {
   }
 }
 
+div#personalMessage {
+  font-family: 'Homemade Apple', cursive;
+  color: grey;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Jura', sans-serif;
+  font-weight: bold;
+}
+
+h1 {
+  color: cornflowerblue;
+}
+
+h2 {
+  color: violet;
+}
+
 /****************************
 ***** COMPONENT STYLES ******
 *****************************/
@@ -120,7 +104,7 @@ nav {
     grid-area: logo;
     margin: 0.5em;
     display: inline-block;
-    font-family: "Roboto-Thin", Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-family: 'Fredericka the Great', cursive;
     text-align: center;
     letter-spacing: 0.3em;
 
@@ -140,7 +124,7 @@ nav {
       display: inline-block;
       color: white;
       margin-left: 1em;
-      font-family: "Roboto-Medium", Verdana, Geneva, Tahoma, sans-serif;
+      font-family: 'Jura', sans-serif;
 
       .current {
         color: grey;
@@ -168,7 +152,6 @@ nav {
           display: inline-block;
           color: white;
           margin: 0.5em;
-          font-family: "Roboto", Verdana, Geneva, Tahoma, sans-serif;
 
           .current {
             color: grey;
@@ -259,3 +242,4 @@ nav {
     }
   }
 }
+
