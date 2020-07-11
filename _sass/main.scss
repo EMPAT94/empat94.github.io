@@ -10,8 +10,8 @@ body {
   font-size: 1.099rem;
   line-height: 1.4em;
   letter-spacing: 0.08em;
-  background-color: rgb(30, 30, 30);
-  color: white;
+  // background-color: rgb(30, 30, 30);
+  color: grey;
   font-family: 'Gentium Basic', serif;
 }
 
@@ -68,7 +68,7 @@ img {
 }
 
 div#personalMessage {
-  font-family: 'Homemade Apple', cursive;
+  font-family: cursive;
   color: grey;
 }
 
@@ -82,7 +82,7 @@ h1 {
 }
 
 h2 {
-  color: rgb(155, 66, 155);
+  color: rgb(220, 86, 220);
 }
 
 /****************************
@@ -96,20 +96,21 @@ nav {
   grid-template-areas: "logo" "menuBar";
 
   background-color: black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 30px 0 rgba(0, 0, 0, 0.4);
   color: white;
-  border-bottom: 2px solid white;
+  // border-bottom: 1px solid rgba(0,0,0,0);
   font-size: 1.5em;
 
   h1 {
     grid-area: logo;
     margin: 0.5em;
     display: inline-block;
-    font-family: 'Fredericka the Great', cursive;
+    // font-family: 'Fredericka the Great', cursive;
     text-align: center;
     letter-spacing: 0.3em;
 
     a {
-      color: teal;
+      color: darkorange;
     }
 
   }
@@ -165,14 +166,15 @@ nav {
 /* Content Area */
 
 .mainContent {
-  padding: 5% 15% 15% 15%;
+  padding: 5% 15% 5% 15%;
 
   .postList {
     a {
-      color: aliceblue;
+      color: rgba(0, 0, 0, 0.8);
     }
 
     a:hover {
+      text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
       color: cornflowerblue;
     }
   }
@@ -184,7 +186,7 @@ nav {
   margin-top: 40px;
   border-top: 1px solid grey;
   border-bottom: 1px solid grey;
-  padding: 10px;
+  // padding: 10px;
 
   a {
     color: green;

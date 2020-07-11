@@ -29,16 +29,16 @@
 
         <div class="postFooter">
           {% if page.previous %}
-          <a rel="prev" href="{{ page.previous.url }}">Previous</a> | 
+          <a rel="prev" href="{{ page.previous.url }}">&nbsp;Previous&nbsp;</a> | 
           {% endif %}
 
           {% if page.title != "Pritesh Tupe | Home" %}
-          <a rel="home" href="/">Home</a> |
+          <a rel="home" href="/">&nbsp;Home&nbsp;</a> |
           {% endif %}
 
-          <a rel="top" href="#">Top</a>
+          <a rel="top" href="#">&nbsp;Top&nbsp;</a>
 
-          {% if page.next %} | <a rel="next" href="{{ page.next.url }}">Next</a>
+          {% if page.next %} | <a rel="next" href="{{ page.next.url }}">&nbsp;Next&nbsp;</a>
           {% endif %}
         </div>
       </div>
