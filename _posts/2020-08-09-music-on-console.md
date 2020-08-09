@@ -2,7 +2,7 @@
 title: Music on Console
 ---
 
-I recently tried out a new music play - a _terminal based_ music player!
+I recently tried out a new music player - a *terminal based* music player!
 
 For context, my OS is macOS Catalina and I have been using a music player called VOX for the longest time (ofcourse, I did try many other alternatives, which for one reason or another, didn't stick). What drove me to seek out another music player? Plain curiosity, nothing else.
 
@@ -18,7 +18,7 @@ $brew install jack mocp
 
 That's it.
 
-If you don't have homebrew, you should. Look up here [brew.sh](https://brew.sh/)
+If you don't have homebrew, you should. Look it up here [brew.sh](https://brew.sh/)
 
 ## Usage
 
@@ -53,9 +53,9 @@ Now running **mocp** again gave me :
 
 ## Customization
 
-I did tweak it a bit to get to the state shown in the image. In my case, it is set to a hot-key in [iTerm](https://iterm2.com/) that automatically opens a window dedicated to music player and run it. The player is also configured with custom keymaps and config. I copied them over from my brew installation folder to **~/.moc/** folder.
+I did tweak it a bit to get to the state shown in the image. In my case, it is set to a hot-key in [iTerm](https://iterm2.com/) that automatically opens a window dedicated to music player and run it (with set background and fonts). The player is also configured with custom keymaps and config. I copied them over from my brew installation folder to **~/.moc/** folder.
 
-Next on my todo list is to bind the mac keyboard's next/play/pause button to mocp commands. Then, I'll have a fully function music player that barely consumes any resources and works on single key strokes. 
+Next on my todo list is to bind the mac keyboard's next/play/pause button to mocp commands. Then, I'll have a fully function music player that barely consumes any resources and works on global single key strokes. 
 
 Oh, did I mention that uninstalling VOX cleaned up about 800 MBs worth of space?
 
