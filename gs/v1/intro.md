@@ -14,7 +14,7 @@ One of people standing about, a tall wiry-thin blonde woman, quickly asked "Wher
 
 The blonde had her mouth hanging open. I noticed that, after I managed to gather my own slack jaws. Before anyone else could ask anything else, I spoke up - "How do we get back home?". Betty's eyes, which were trained on the blonde so far, now bore into me. They seemed devoid of life for some reason. She spoke in her eerie voice again "To get out of the Tutorial, and the Simulation as whole, you must be deleted; in other word, you must die." Not only did our mouths hang open again like a sink hole, I felt several heart skip a beat, or perhaps just mine skipping more than once. We all looked at each other, but no one spoke for a while.
 
-"Anoo... How are you flying?" a black haired youth on my left asked. He had been gawking at Betty for a while. 'Quite the silver-lining kind of guy we have here; also she is not flying, just floating' I argued in my mind. Betty turned to him in her mechanical manner - I was glad she wasn't staring at me anymore, and answered "It is a spell that inverses gravity until the mass of my body is balanced off by the pull in either direction at height of 2.73 meters off the ground". While that was a lot to chew on, I immediately caught on something - 'float SPELL?'. Apparently the silver-lining kid did as well - he was practically shaking with excitement. "*You can do magic?*" he asked her. She replied again - perhaps it was only me, but it looked like she was expecting this question, "Why yes! Everyone in the Simulation can cast spells and do magic. Even you! Some classes are restricted to only using said spells while other classes can actively tweak other spells or create new ones entirely!". 'Classes? Magic? What...?'
+"Anoo... How are you flying?" a black haired youth on my left asked. He had been gawking at Betty for a while. 'Quite the silver-lining kind of guy we have here; also she is not flying, just floating' I argued in my mind. Betty turned to him in her mechanical manner - I was glad she wasn't staring at me anymore, and answered "It is a spell that inverses gravity until the mass of my body is balanced off by the pull in either direction at an elevation of 2.73 meters off the ground". While that was a lot to chew on, I immediately caught on something - 'float SPELL?'. Apparently the silver-lining kid did as well - he was practically shaking with excitement. "*You can do magic?*" he asked her. She replied again - perhaps it was only me, but it looked like she was expecting this question, "Why yes! Everyone in the Simulation can cast spells and do magic. Even you! Some classes are restricted to only using said spells while other classes can actively tweak other spells or create new ones entirely!". 'Classes? Magic? What...?'
 
 "Ummm... Is there any other way of getting out of this... Simulation. Besides, you know, dying?" a fair doe-eyed girl asked from beside the blonde. "I'm afraid there isn't", Betty replied, and continued eyeing the poor girl as if mocking her. While everyone digested that, I put in another question, "What are we supposed to do here?". To which Betty replied after setting her glare on me, "First, you must complete the Tutorial to get to the base level of adults in the Simulation; once you finish the Tutorial and enter the Simulation, you are free to do as you wish".
 
@@ -116,7 +116,7 @@ Now dragged out of our concentration from admiring the Status Windows, another b
 
 No one asked anything. Apparently, Betty was going to stick around, or rather float around, for quite a while. We all went back to our Status Windows to read the Class Descriptions.
 
-## Class Selection
+## Chapter 2 - Class Selection
 
 I clicked on Select Class text. Nothing happened. My hand went through the window. I looked at the interface for a while. I tried clicking the tilde symbol. Same nothing. I looked about and saw others going through similar ordeals. Eventually, Taro whined impatiently at Betty "Nothing is happening, my finger goes through it! How do I click on this?" Betty immediately answered, "Physical interaction with the Status Window was phased out 254 major versions ago, to 'click' on an item, simply focus on same. While a bit unwieldy at first, stats show that such interaction is 28 times more efficient than previous medium."
 
@@ -154,26 +154,34 @@ Ha... My Class was set a while ago when Betty described them for the first time.
 
 ---
 
-Mage - Base Class - Level 0 [Novice]
+**[Novice] Mage - Level 0**
 
-Health: 100
-Mana: 800
-Stamina: 100
+|  Status      |  Points  |
+| ------------ | -------- |
+|  Health      |  100     |
+|  Mana        |  800     |
+|  Stamina     |  100     |
+|  Experience  |  0/100   |
 
-Intelligence:  8
-Strength:      1
-Dexterity:     1
-Agility:       1
-Stealth:       1
+|  Attributes    |  Points  |
+|  --------      |  ------  |
+|  Strength      |  1       |
+|  Vitality      |  1       |
+|  Agility       |  1       |
+|  Dexterity     |  1       |
+|  Intelligence  |  9       |
+|  Perception    |  2       |
+|  Wisdom        |  2       |
 
-*Special Effects*
-    1. Intelligence to mana conversion is boosted by 25%
+*Special Effects:*
+
+  1. Intelligence Boost - Extra intelligence point on every Class Up
 
 ---
 
 I was feeling quite good about myself. I looked around to see that others were still absorbed in their screens. I waited a minute, then another. After 5 min, I was quite sure something was amiss. I asked Betty about the tutorial to while away time. According to her, there were 25 levels going down until the 'Exit Protal' at the bottom. We were currently on level 0. You couldn't enter a higher level unless you matched that level. She mentioned that the tutorial was tailored to get us to level 25, which was apparently the baseline of adult humans in this (well, outer) world. She wouldn't go in depth about the environment of each level and other details, so I figured it was more 'explore-and-see' kind of thing the creators were going for. She wouldn't answer who the creators where, what or who the test was for, or absolutely anything that had nothing to do with the Simulation. I tried several different variations but she her lips were sealed tight.
 
-This back and forth went on for another 20 minutes I reckon, when people started coming to. I looked around to hear what each had chosen. Hopefully, not everyone had chosen the Mage class. 
+This back and forth went on for another 15 minutes I reckon, when people started coming to. I looked around to hear what each had chosen. Hopefully, not everyone had chosen the Mage class.
 
 ---
 
@@ -183,6 +191,45 @@ This back and forth went on for another 20 minutes I reckon, when people started
 
 "I chose Knight" he said - as if it should have been obvious, and looked at me expectantly.
 
-"Ummm, what do you mean when you say the Mage class is nerfed? And what's this about attribute distribution?" I asked them instead. To which Taro replied, "Well, if you focused on getting detailed info about a certain Class, you could see in-depth information about their capabilities and roles and growth potentials. I say Mage is nerfed because that class does not get any skills like other classes do. They have to create spells on their own to use magic. Why would anyone want to do research here?", with a pause, he continued, "Also, all the attributes were lowest I could see compared to others - even craftsmen had a good 3 on most, except for very high intelligence. What's the point of starting off with lots of mana when you can't even use it, right? And I don't even know how one would go about building customized spells - sounds like a lot of work to me." Taro concluded. All I could think of was - 'Well... sh*t'
+"Ummm, what do you mean when you say the Mage class is nerfed? And what's this about attribute distribution?" I asked them instead. To which Taro replied, "Well, if you focused on getting detailed info about a certain Class, you could see in-depth information about their capabilities, roles and growth potentials. I say Mage is nerfed because that class does not get any skills like other classes do. They have to create spells on their own to use magic. Why would anyone want to do research here?", with a pause, he continued, "Also, all the attributes were lowest I could see compared to others - even craftsmen had a good 3 on most, except for very high intelligence. What's the point of starting off with lots of mana when you can't even use it, right? And I don't even know how one would go about building customized spells - sounds like a lot of work to me." Taro concluded. All I could think of was - 'Well... sh*t'
 
 Carol chimed in, "Yeah, I even got 3 special effects for my class. I believe Mage had only one. How many did you get for the Knight, Taro...". The conversation continued; eventually, the rest of the girls joined in. Arya took the Healer class, Julie the Archer. Finally, Divin joined in too. Apparently, he had taken the Kinght class as well. There was a bit of hubbub over there not being any Craftsman, but I was too engaged in cursing my own stupidity and impatience to notice much of what was being said at the moment.
+
+---
+
+After a while, I told them that I had taken the Mage class. Thankfully, all I got were a few confused looks. It seems that the attributes were also depended on class. As such, the Knight class had a 'Vigor' attribute that regulated HP regeneration, while the Scout had 'Stealth' attribute - I had neither. Arya apparently had an 'Attunement' that affected the rate of healing applied to others. I realised I had no clue what effects attributes had, so I excused myself and took another look at the Status Window, this time willing it to show me attribute description.
+
+---
+
+| Attribute    | Affects |
+| ------------ | ------ |
+| STRENGTH     | Physical attack damage dealt and received |
+| VITALITY     | Health Points |
+| AGILITY      | Movement Speed |
+| DEXTERITY    | Movement Range |
+| INTELLIGENCE | Mana Points |
+| PERCEPTION   | Magical attack range |
+| WISDOM       | Magical attack defence |
+
+---
+
+I see. I have no special health regeneration; and every monster and their mother would notice me without the stealth attribute. Others also had a 'skills' section below special effects with one skill each already. While I was reading the attribute description, Carol was trying out a skill to silent her footsteps. With magic. And here I was - a Mage, twiddling my thumbs. Yeah, I was pretty pissed off at myself.
+
+## Chapter 3 - Level 0
+
+Dream is only a dream, after you wake up. While you are dreaming, it becomes your reality. I believe all of us here had taken being kidnapped quite well, considering everything. At least no one broke down. I could tell Carol was putting up a brave front. Taro was actively enjoying it. Julie was still on the fence about whether to laugh or cry, but she was distracting herself by taking control of things. Arya was silently sulking. I couldn't get a read on Divin though. As for me? I was wondering what my folks at home would be up to, they must've lost it by now. I decided to ask the Betty about it, not expecting an answer, "Hey, what about the people back on our planet, surely they would've noticed us missing?" Surprisingly, I got a response. "The Simulation is not subject to the space-time constrains of your world; just like the Tutorial is separate from the Simulation, the Simulation is separate from your reality." 'Ah, makes sense. It is like time has stopped there, eh?'
+
+We gathered around Betty, ready to go where fate would lead us. Julie was just about to say something when Betty spoke up again - "So, you have all got your Classes, allow me to lend your starting equipment!" So saying, she raised her hand and down came a stream of light in front of each of us. Two swords in front of Taro and Divin, a bow and quiver full of arrows in front of Julie, a dagger for Carol and staff for Arya. I got nothing. "Ummm, my equipment seems to be missing?" I queried. "Mages don't need a physical weapon to attack", she said. 'What, are you kidding me?'. "At least, give me a dagger or something, just in case!" I begged. "I'm afraid I cannot". I looked around and got only sympathetic looks. I didn't give up though, "But I do not know any magic spells. How am I supposed to defend myself?". "Novice Mages have one free slot in which they can utilize their customized spell, I'd recommend creating one" she said. "I didn't really go to Hogwards, you know. I have absolutely no clue how to go about making or using a spell!" I bit back. "While I do not have the data of how you should create your spell, I am certain you must use your Status Window to create one. For reference, allow me to upload my floating spell into your repository..."
+
+I opened up my Status Window again and immediately noticed that the tilde (~) symbol at the bottom was bold. I focused on it and a terminal like screen opened up. It was blank save for one line:
+
+`float self = while (self.elevation < 2.73) *****.gravity--`
+
+I was dumbstruck. 'Sh*t...It's a god damned program. True, it looks like an unholy union of Haskell and Javascript, with bits of redacted code; but I recognize it nonetheless. And I actually have a shell to work on? F*cking A!' I almost did a small victory celebration but contained myself hastily. My smile did betray me however, as Arya had a weird look in her eyes as if there was something on my face.
+
+"Perhaps we should get going now?" Julie broke the awkward silence and looked at Betty. Betty didn't move a muscle. Seems like she meant it literally when she said she will be *following* us, not *guiding* us. Another moment later, Julie huffed a bit, shouldering her bow and arrows, and lead the way out of the Spawn Point clearing. Just as we stepped out of the choke point leading out onto a wide road, Betty turned from Cleopatra to Will-'O-the-Wisp. It was Carol who spoke up, "Why'd ya turn into a ball of light?" to wish Betty replied, "It is easier to split into multiple entities in this form, and it is also lighter on resource consumption" 'Ah, she did say she would follow us all even after we went individually. So this is how. Weird, but logical.' Apparently, Carol thought so too, because she didn't have any follow-up questions.
+
+---
+
+The unremarkable road eventually lead us to an unremarkable field. It was wide enough to fill couple of football stadiums. Albeit barren, it was sprouting something oozy. Wait, are these slimes? "What is this, what _are_ those?" Julie enquired, motioning in the general direction of the slimes. Betty the wisp spoke up, "This is Level 0 of the Dungeon - The Slime Field" 'Clever naming sense there' "The entrance to Level 1 is on the opposite side of our current position; you must cross this field and reach level 1 before you can proceed further"
+
