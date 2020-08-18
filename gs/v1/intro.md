@@ -231,5 +231,5 @@ I was dumbstruck. 'Sh*t...It's a god damned program. True, it looks like an unho
 
 ---
 
-The unremarkable road eventually lead us to an unremarkable field. It was wide enough to fill couple of football stadiums. Albeit barren, it was sprouting something oozy. Wait, are these slimes? "What is this, what _are_ those?" Julie enquired, motioning in the general direction of the slimes. Betty the wisp spoke up, "This is Level 0 of the Dungeon - The Slime Field" 'Clever naming sense there' "The entrance to Level 1 is on the opposite side of our current position; you must cross this field and reach level 1 before you can proceed further"
+The unremarkable road eventually lead us to an unremarkable field. It was big enough to fill couple of football stadiums. Albeit barren of any fauna, it was sprouting something oozy in large quantities. Wait, are these slimes? "What is this, what _are_ those?" Julie enquired, motioning in the general direction of the slimes. Betty the wisp spoke up, "This is Level 0 of the Tutorial Dungeon - The Slime Field" 'Clever naming sense there' "The entrance to Level 1 is on the opposite side of our current position; you must cross this field and reach level 1 before you can proceed further"
 
