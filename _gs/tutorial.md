@@ -1,8 +1,10 @@
+---
+---
 # Volume 1 - Tutorial
 
 ## Prologue
 
-I opened my eyes to a dark sky. 'Not a cloud in sight, must be late at night. Oh, no stars even in this dark, interesting...' I thought; 'Wait... Why am I looking for stars? Where the hell am I?'. There was diffused lighting about, the kind you wouldd get on a late sunny evening, but I couldn't pinpoint a source. My wandering hands found hold of dry grass beside my prone body. Now I was worried. I quickly got up and looked around. Some sort of plain landscape surrounded by what looked to be high cliffs on all sides but one. There were some people gathered there, so that was where I made my way.
+I opened my eyes to a dark sky. 'Not a cloud in sight, must be late at night. Oh, no stars even in this dark, interesting...' I thought; 'Wait... Why am I looking for stars? Where the hell am I?'. There was diffused lighting about, the kind you would get on a late sunny evening, but I couldn't pinpoint a source. My wandering hands found hold of dry grass beside my prone body. Now I was worried. I quickly got up and looked around. Some sort of plain landscape surrounded by what looked to be high cliffs on all sides but one. There were some people gathered there, so that was where I made my way.
 
 As I sauntered over to the group, I saw a figure floating in the air. I did a quick double take. 'What the hell!?!' There was a woman in Egyptian-esque costume floating off the ground, her eyes closed. Surrounded by 5 more people. Thankfully, the people were quite grounded - and looked as confusing as I felt. From the looks of it, they had gathered quite recently as well. Just as I was about to ask what the f+ck was going on, the floating woman opened here eyes, looked over us all as if making sure we were paying attention, then exclaimed -
 
@@ -18,7 +20,7 @@ The blonde had her mouth hanging open. I noticed that after I managed to gather 
 
 "Ummm... Is there any other way of getting out of this... Simulation. Besides, you know, dying?" a fair doe-eyed girl asked from beside the blonde. "I'm afraid there isn't", Betty replied, and continued eyeing the poor girl as if mocking her. While everyone digested that, I put in another question, "What are we supposed to do here?". To which Betty replied after setting her glare on me, "First, you must complete the Tutorial to get to the base level of human adults in the Simulation; once you finish the Tutorial and enter the Simulation, you are free to do as you wish".
 
-...
+···
 
 Betty wasn't going anywhere soon; the blonde had confirmed that with her. So here we were, introducing ourselves at blondie's insistence; she went first -
 
@@ -183,7 +185,7 @@ I was feeling quite good about myself. I looked around to see that others were s
 
 This back and forth went on for another 15 minutes I reckon, when people started coming to. I looked around to hear what each had chosen. Hopefully, not everyone had chosen the Mage class.
 
-...
+···
 
 "Man, the Mage class is so nerfed! And here I was, foolishly looking forward to it." Taro exclaimed. 'Wait... What?'
 
@@ -195,7 +197,7 @@ This back and forth went on for another 15 minutes I reckon, when people started
 
 Carol chimed in, "Yeah, I even got 3 special effects for my class. I believe Mage had only one. What skills did you get for the Knight, Taro...". The conversation continued; eventually, the rest of the girls joined in. Arya took the Healer class, Julie the Archer. Finally, Divin joined in too. Apparently, he had taken the Kinght class as well. There was a bit of hubbub over there not being any Craftsman, but I was too engaged in cursing my own stupidity and impatience to notice much of what was being said at the moment.
 
-...
+···
 
 After a while, I told them that I had taken the Mage class. Thankfully, all I got were a few confused looks. It seems that the attributes were also depended on class. As such, the Knight class had a 'Vigor' attribute that resulted in extra HP regeneration, while the Scout had 'Stealth' attribute - I had neither. Arya apparently had an 'Attunement' that affected the rate of healing applied to others. I realised I had no clue what effects attributes had, so I excused myself and took another look at the Status Window, this time willing it to show me attribute description.
 
@@ -229,7 +231,7 @@ I was dumbstruck. 'Sh+t...It's a god damned program. True, it looks like an unho
 
 "Perhaps we should get going now?" Julie broke the awkward silence and looked at Betty. Betty didn't move a muscle. Seems like she meant it literally when she said she will be *following* us. Another moment later, Julie huffed a bit, shouldered her bow and arrows, and lead the way out of the Spawn Point clearing. Just as we stepped out of the choke point leading out onto a wide road, Betty turned from Cleopatra to Will-'O-the-Wisp. It was Carol who spoke up, "Why'd ya turn into a ball of light?" to which Betty replied, "It is easier to split into multiple entities in this form, and it is also lighter on resource consumption" 'Ah, she did say she would follow us all even after we went individually. So this is how. Weird, but logical.' Apparently, Carol thought so too, because she didn't have any follow-up questions.
 
-...
+···
 
 The unremarkable road eventually lead us to an unremarkable field. It was big enough to fill couple of football stadiums. Albeit barren of any fauna, it was sprouting something oozy in large quantities. Wait, are these slimes? "What is this, what *are* those?" Julie enquired, motioning in the general direction of the slimes. Betty the wisp spoke up, "This is Level 0 of the Tutorial Dungeon - The Slime Field" 'Clever naming sense there' "The entrance to Level 1 is on the opposite side of our current position; you must cross this field and reach level 1 before you can proceed further"
 
@@ -239,7 +241,7 @@ Julie let loose an arrow, which zoomed in quite rapidly towards a particularly l
 
 The other slimes were now closer and surrounding Taro & Carol. Some others were headed in our direction, probably due to Julie digging up dirt near them with her arrows. Suddenly, a blue slime jumped out of the crowd and slammed into Taro's chest. He fell on his bottom. Carol came to him and gave her his hand when another yellow slime smashed into her back. Thankfully, she braced herself somehow. Both of them ran back to where we were standing. Julie also stopped shooting. The crowd of slimes was now considerable, and headed in our direction like an avalanche. We hightailed it out of there and almost came back to the Spawn Point itself.
 
-...
+···
 
 "Well, that sucked!" Julie started, "I am down to half my arrows" she moaned.
 

@@ -10,8 +10,7 @@ body {
   font-size: 1.099rem;
   line-height: 1.4em;
   letter-spacing: 0.08em;
-  // background-color: rgb(30, 30, 30);
-  color: grey;
+  color: #666;
   font-family: 'Gentium Basic', serif;
 }
 
@@ -22,8 +21,9 @@ a {
 
 code {
   padding: 1em;
-  display: block;
-  background-color: rgb(40, 40, 40);
+  display: inline-block;
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #eeeeee;
   overflow-x: scroll;
 }
 
@@ -31,6 +31,19 @@ img {
   max-width: 100%;
   height: auto;
   margin: 5% 0;
+}
+
+table{
+    border-collapse: collapse;
+    border-spacing: 0;
+    border:1px solid #4a4a4a;
+    margin: 1em;
+    padding: 1em;
+
+    th, td {
+      padding: 0.3em;
+      border: 0.5px solid #ccc;
+    }
 }
 
 /*************************
@@ -98,14 +111,12 @@ nav {
   background-color: black;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 30px 0 rgba(0, 0, 0, 0.4);
   color: white;
-  // border-bottom: 1px solid rgba(0,0,0,0);
   font-size: 1.5em;
 
   h1 {
     grid-area: logo;
     margin: 0.5em;
     display: inline-block;
-    // font-family: 'Fredericka the Great', cursive;
     text-align: center;
     letter-spacing: 0.3em;
 

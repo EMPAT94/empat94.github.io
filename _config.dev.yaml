@@ -5,6 +5,8 @@ author: "Pritesh Tupe"
 collections:
   foa:
     output: true
+  gs:
+    output: true
 
 defaults:
   - scope:
