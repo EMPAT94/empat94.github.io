@@ -158,12 +158,12 @@ Ha... My Class was set a while ago when Betty mentioned them for the first time.
 
 #### [Novice] Mage - Level 0
 
-|  Status      |  Points  |
+| Status       | Points   |
 | ------------ | -------- |
-|  Health      |  100     |
-|  Mana        |  800     |
-|  Stamina     |  100     |
-|  Experience  |  0/100   |
+| Health       | 100/100  |
+| Mana         | 800/800  |
+| Stamina      | 100/100  |
+| Experience   | 0/100    |
 
 |  Attributes    |  Points  |
 |  --------      |  ------  |
@@ -177,7 +177,7 @@ Ha... My Class was set a while ago when Betty mentioned them for the first time.
 
 *Special Effects:*
 
-  1. Intelligence Boost - Extra intelligence point on every Class Upgrade
+* Intelligence Boost - Extra intelligence point on every Class Upgrade
 
 ---
 
@@ -195,7 +195,7 @@ This back and forth went on for another 15 minutes I reckon, when people started
 
 "Ummm, what do you mean when you say the Mage class is nerfed? And what's this about attribute distribution?" I asked them instead. To which Taro replied, "Well, if you focused on getting detailed info about a certain Class, you could see in-depth information about their capabilities, roles and growth potentials. I say Mage is nerfed because that class does not get any skills like other classes do. They have to create spells on their own to use magic. Why would anyone want to do research here?", with a pause, he continued, "Also, all the attributes were lowest I could see compared to others - even craftsmen had a good 3 on most, except for intelligence. What's the point of starting off with lots of mana when you can't even use it, right? And I don't even know how one would go about building customized spells - sounds like a lot of work to me." Taro concluded. All I could think of was - 'Well... sh+t'
 
-Carol chimed in, "Yeah, I even got 3 special effects for my class. I believe Mage had only one. What skills did you get for the Knight, Taro...". The conversation continued; eventually, the rest of the girls joined in. Arya took the Healer class, Julie the Archer. Finally, Divin joined in too. Apparently, he had taken the Kinght class as well. There was a bit of hubbub over there not being any Craftsman, but I was too engaged in cursing my own stupidity and impatience to notice much of what was being said at the moment.
+Carol chimed in, "Yeah, I even got 3 special effects for my class. I believe Mage had only one. What skills did you get for the Knight, Taro...". The conversation continued; eventually, the rest of the girls joined in. Arya took the Healer class, Julie the Archer. Finally, Divin joined in too. Apparently, he had taken the Knight class as well. There was a bit of hubbub over there not being any Craftsman, but I was too engaged in cursing my own stupidity and impatience to notice much of what was being said at the moment.
 
 ···
 
@@ -203,15 +203,15 @@ After a while, I told them that I had taken the Mage class. Thankfully, all I go
 
 ---
 
-| Attribute    | Affects |
-| ------------ | ------ |
+| Attribute    | Affects                                   |
+|--------------|-------------------------------------------|
 | STRENGTH     | Physical attack damage dealt and received |
-| VITALITY     | Health Points |
-| AGILITY      | Movement Speed |
-| DEXTERITY    | Movement Range |
-| INTELLIGENCE | Mana Points |
-| PERCEPTION   | Magical attack range |
-| WISDOM       | Magical attack defence |
+| VITALITY     | Health Points                             |
+| AGILITY      | Movement Speed                            |
+| DEXTERITY    | Movement Range                            |
+| INTELLIGENCE | Mana Points                               |
+| PERCEPTION   | Magical attack range                      |
+| WISDOM       | Magical attack defence                    |
 
 ---
 
@@ -225,9 +225,9 @@ We gathered around Betty, ready to go where fate would lead us. Julie was just a
 
 I opened up my Status Window again and immediately noticed that the tilde (~) symbol at the bottom was bold. I focused on it and a terminal like screen opened up. It was blank save for one line:
 
-`float self = while (self.elevation < 2.73) _______.gravity--`
+`float o = (while (o.elevation < 2.73) _____.gravity--)`
 
-I was dumbstruck. 'Sh+t...It's a god damned program. True, it looks like an unholy union of Haskell and Javascript, with bits of redacted code in between; but I recognize it nonetheless. And I actually have a shell to work on? F+cking A!' I almost did a small victory dance but contained myself hastily. My smile must have betrayed me however, as Arya had a weird look in her eyes.
+I was dumbstruck. 'Sh+t...It's a god damned program. True, it looks like an unholy union of Haskell and Javascript, with bits of Lisp and redacted code in between; but I recognize it nonetheless. And I actually have a shell to work on? F+cking A!' I almost did a small victory dance but contained myself hastily. My smile must have betrayed me however, as Arya had a weird look in her eyes.
 
 "Perhaps we should get going now?" Julie broke the awkward silence and looked at Betty. Betty didn't move a muscle. Seems like she meant it literally when she said she will be *following* us. Another moment later, Julie huffed a bit, shouldered her bow and arrows, and lead the way out of the Spawn Point clearing. Just as we stepped out of the choke point leading out onto a wide road, Betty turned from Cleopatra to Will-'O-the-Wisp. It was Carol who spoke up, "Why'd ya turn into a ball of light?" to which Betty replied, "It is easier to split into multiple entities in this form, and it is also lighter on resource consumption" 'Ah, she did say she would follow us all even after we went individually. So this is how. Weird, but logical.' Apparently, Carol thought so too, because she didn't have any follow-up questions.
 
@@ -235,9 +235,9 @@ I was dumbstruck. 'Sh+t...It's a god damned program. True, it looks like an unho
 
 The unremarkable road eventually lead us to an unremarkable field. It was big enough to fill couple of football stadiums. Albeit barren of any fauna, it was sprouting something oozy in large quantities. Wait, are these slimes? "What is this, what *are* those?" Julie enquired, motioning in the general direction of the slimes. Betty the wisp spoke up, "This is Level 0 of the Tutorial Dungeon - The Slime Field" 'Clever naming sense there' "The entrance to Level 1 is on the opposite side of our current position; you must cross this field and reach level 1 before you can proceed further"
 
-I looked around the field. If was filled with slimes of all sizes and colors. The one thing they all had in common was how lazily they were ambling towards nowhere in particular. I was quite absorbed in taking in the view, so I missed the moment when Taro and Julie made their move. Taro moved ahead, sword held up in both hands in front of him, while Julie took out her bow and noctched an arrow. This was when I noticed their actions, and thought to myself 'We should have made a plan first. Even a signal would've been appreciated'.
+I looked around the field. If was filled with slimes of all sizes and colors. The one thing they all had in common was how lazily they were ambling towards nowhere in particular. I was quite absorbed in taking in the view, so I missed the moment when Taro and Julie made their move. Taro moved ahead, sword held up in both hands in front of him, while Julie took out her bow and notched an arrow. This was when I noticed their actions, and thought to myself 'We should have made a plan first. Even a signal would've been appreciated'.
 
-Julie let loose an arrow, which zoomed in quite rapidly towards a particularly large green slimeball. I was impressed - until it harmlessly hit the ground. Taro wasn't faring any better. He tried slashing his sword into a smaller blue slime, but the creature brushed it off and bounced back. The attack had caused a commotion and three more slimes were headed to Taro's location. Another arrow, another slash - no effect. The slimes were gathering. Carol had joined in at some point, covering Taro's flank. Divin, Arya and myself were standing a distance away, behind Julie.
+Julie let loose an arrow, which zoomed in quite rapidly towards a particularly large green slime ball. I was impressed - until it harmlessly hit the ground. Taro wasn't faring any better. He tried slashing his sword into a smaller blue slime, but the creature brushed it off and bounced back. The attack had caused a commotion and three more slimes were headed to Taro's location. Another arrow, another slash - no effect. The slimes were gathering. Carol had joined in at some point, covering Taro's flank. Divin, Arya and myself were standing a distance away, behind Julie.
 
 The other slimes were now closer and surrounding Taro & Carol. Some others were headed in our direction, probably due to Julie digging up dirt near them with her arrows. Suddenly, a blue slime jumped out of the crowd and slammed into Taro's chest. He fell on his bottom. Carol came to him and gave her his hand when another yellow slime smashed into her back. Thankfully, she braced herself somehow. Both of them ran back to where we were standing. Julie also stopped shooting. The crowd of slimes was now considerable, and headed in our direction like an avalanche. We hightailed it out of there and almost came back to the Spawn Point itself.
 
@@ -263,7 +263,76 @@ Holy Sh+t! Is this awesome or what? Editing with literal thoughts. These guys ha
 
 It took me a minute to wrap my head around this, but eventually I calmed down. I looked at the float spell again. It took an argument of 'self'. Perhaps I could give a target to the fireball with an argument? How do I actually throw a ball of fire anyway? Wish there was a manual page I could refer to - man, do I miss the internet! Oh wait, I have a literal AI chat bot by my side. Let's see if we can scrape something out of her. It is only a matter of asking the right questions!
 
-"Hey Betty, do you know how I can create a fireball spell?" I asked a straight question, not expecting an answer. I wasn't dissapointed. "I'm afraid I do not" she said. "So, how do I interact with the environment?" I continued. "You must use the environment variables" she replied. 'Ok good, got something' "How do I list the environment variables?" I asked. "I'm afraid I cannot answer that". 'Hmmm... would've been nice if you could' I decided to change the phrasing slightly, "How do I *use* the environment variables?". "You can modify the environment variables in your spell by focusing your intent inside the Status Window". 'Damn, no luck. Wait, how did she pass an argument to her float spell?' like a light bulb went off in my head, I was almost giddy when I asked her "Can you show me how you cast the float spell?" In retrospect, this should've been my first question, but I wasn't going to demean myself. While I was wondering aboutmy shortcomings, she changed from her wisp form back to Cleopatra. I leveled a hard stare, not willing to miss a single twitch or whisper out of her. And then, she cast the float spell.
+"Hey Betty, do you know how I can create a fireball spell?" I asked a straight question, not expecting an answer. I wasn't disappointed. "I'm afraid I do not" she said. "So, how do I interact with the environment?" I continued. "You must use the environment variables" she replied. 'OK good, got something' "How do I list the environment variables?" I asked. "I'm afraid I cannot answer that". 'Hmm... Would've been nice if you could' I decided to change the phrasing slightly, "How do I *use* the environment variables?". "You can modify the environment variables in your spell by focusing your intent inside the Status Window". 'Damn, no luck. Wait, how did she pass an argument to her float spell?' like a light bulb went off in my head, I was almost giddy when I asked her "Can you show me how you cast the float spell?" In retrospect, this should have been my first question, but I wasn't going to demean myself. While I was wondering about my shortcomings, she changed from her wisp form back to Cleopatra. I leveled a hard stare, not willing to miss a single twitch or whisper out of her. And then, she cast the float spell.
 
 ## Chapter 4 - Gesture Input
+
+Betty took a few step away from me. Raise her hands with palms towards her torso, then spoke in a clear voice - 'float'. As she rose from the ground, it seemed as if cobwebs were clearing in my mind. I gaped at her as she stabilized herself, but my thoughts were far away.
+
+'Is this how a spell is cast then? You choose your target with your hands as an argument, then call the function - err spell, by name... She passed her own body as the argument, and now she is floating!'
+
+I quickly opened my Status Window and got into the terminal. I erased the float spell with a thought. With another, I modified my fireball spell.
+
+`fireball x = x.`
+
+Well, I still didn't know how to call fire. I could chose any target into x and ignite it. 'Hmm.. Environment variables she says? How about I just raise the temperature of  target to make it seem like it is on fire? Yeah, that could work' After another quick edit,
+
+`fireball x = (x.temperature++)`
+
+'Wait, increasing temperature by a degree would barely make the thing feverish. I need it to BURNNN. How about I square it?'
+
+`fireball x = (x.temperature = x.temperature * x.temperature)`
+
+'If I cast it on a normal human who is at say, 30 degrees, then their temperature would jump to 30 * 30... 900 degrees!!! Wow, that is HOT with a capital T'
+
+I was itching to test it on something; so I closed my Status Window. Betty was back in her wisp form already. I looked at the ball of light - what if... No. It would be a tragically funny joke if a powerful Chat Bot went Rambo on me right now. I instead chose a patch of grass about 10 meters away. While the grass was dry, it was thankfully, sparse. I could fireball it without needing a fire extinguisher. Taking a deep breath, I raised my hand. My palm was pointing towards a clump of particularly dense patch. I spoke out as serenely as I could - 'fireball'. Nothing happened.
+
+While the test was technically a failure, I did notice one important thing. When I raised my hand to "select" the clump of grass, I could somehow tell that it was too far away. Perhaps my perception was too low? I lowered my hand, now pointing to a blade of grass a couple meters away. No sooner had I spoken the magic word that the blade seemed to swoon. Its color had also gotten a bit darker. Test Successful! I cast fireball again on the same blade and its color went pitch black. Even in the dark evening-like ambience, it stood out from its peers. A slight breeze disintegrated it before my eyes.
+
+As I noticed that, another crazy idea popped into my nugget. Why stop at square? Why not cube it? Heck, I could call it recursively until my target is vaporized! Man, I don't care what others say, but the Mage class is not nerfed AT ALL. In fact, it is way too over powered! Who cares about some attributes or special effects when you can simply smite stuff into oblivion? I immediately added one more multiplier to my spell and cast it on another unfortunate blade of grass nearby. My expectations of utter destruction were betrayed however, as this time, nothing happened at all. Not even a small change in color. I reopened my Status Window and checked to see if I hadn't made any typos with my mind, but the code looked good. 'Oh wait, what is this?'
+
+I had failed to notice it in my excitement earlier, but my Mana Point was down to 240 from original 800. Did I just use up 560 points of mana to burn a blade of grass? As for why the last spell didn't work, I simply didn't have enough mana left. Guess Mages ain't so OP after all.
+
+As I was resting to recover my mana - which according to Betty was quicker for Mages, I thought about the spell I just cast. Impressive as it was, it certainly wasn't what I expected. No literal fiery balls were shot around. How would one go about that, I wondered? Not that it mattered much, I now had an actual attack. Misnomer though it was. Hell, why not change it? It didn't take me long to come up with a pretty original and totally not stolen name -
+
+`incendio x = (x.temperature = x.temperature * x.temperature * x.temperature)`
+
+I was quite proud of myself, as I decided to write another function that went the other way, with a similar naming scheme.
+
+`pertificus_totalus x = (x.temperature = ((x.temperature / x.temperature) - 1))`
+
+'Boom! Freeze mofo, all the way down to zero!!!'
+
+While waiting for my mana to top off, I tried to remember all sorts of spells that Harry - err, that I could come up with on my own.
+
+···
+
+After maybe an hour or so, I headed back to where the others were. I spent the entire time testing out my abilities and limitations. Twice, I had to wait for my mana to recover. Apparently, it was supposed to be slower than Stamina regen but faster than Health regen. For a Mage, it inched quite close to Stamina. All according to Betty, of course. I couldn't get my Status Window to show actual values. In fact, I had trimmed it further. Removed all attributes - I could feel their effects anyway, and rearranged the status points. I also added a list of spells I had in my repository.
+
+---
+
+### [Novice] Mage - Level 0
+
+| HP      | MP      | SP      | XP    |
+|---------|---------|---------|-------|
+| 100/100 | 786/800 | 100/100 | 0/100 |
+
+*Spells*
+
+* Incendio
+* Petrificus Totalus
+
+*Special Effects*
+
+* Intelligence Boost - Extra intelligence point on every Class Upgrade
+
+---
+
+Yep, I decided to have only two spells for now. Not that I couldn't come up with others, but since I didn't have a way to comment out stuff, it seemed a bit hazardous to have untested lethal contraptions ready to release on a word always available.
+
+I also learnt quite a few things about magic and spell casting. One couldn't directly change the core stats and attributes of a target. Setting HP to zero in one spell would've turned me into One Spell Man. Too bad. Also, my range was around 3 meters in radius with me at the center. Depending on the factors involved, I could either fully cast a spell or not cast it at all. No half measures. I tried freezing a large region of land as an Area of Effect attack. No luck. Good thing though, all spells took exactly the same amount of mana, irrespective of the target, given that they could be affected. A blade of grass, piece of boulder and a grain of sand - all took 280 MP on Incendio, even though the effects were dramatically different on each.
+
+As I exited the choke point and traveled across the bridge, I eventually sighted what my counterpart. A few colored puddles were splashed about as if a painter upended their paints in frustration. Up ahead, I saw one unlucky slime being whaled on by Taro, Divin and Carol with their respective blades. Julie was standing back with the bow in one hand and a loose arrow in another, staring intently but with no apparent intention of firing. Wise choice I suppose, given her aim. Arya was standing beside Julie watching the spectacle. She noticed me was I made my way over and waved her hand awkwardly. I stood silently by their side, as a part of the audience. "Any luck with the spell?" she asked. "Oh, you have no idea!" I replied with a smirk.
+
+## Chapter 5 - Slime Fest
 
