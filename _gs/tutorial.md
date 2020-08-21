@@ -307,7 +307,7 @@ While waiting for my mana to top off, I tried to remember all sorts of spells th
 
 ···
 
-After maybe an hour or so, I headed back to where the others were. I spent the entire time testing out my abilities and limitations. Twice, I had to wait for my mana to recover. Apparently, it was supposed to be slower than Stamina regen but faster than Health regen. For a Mage, it inched quite close to Stamina. All according to Betty, of course. I couldn't get my Status Window to show actual values. In fact, I had trimmed it further. Removed all attributes - I could feel their effects anyway, and rearranged the status points. I also added a list of spells I had in my repository.
+After maybe an hour or so, I headed back to where the others were. I spent the entire time testing out my abilities and limitations. In between, I had to wait for my mana to recover. Apparently, it was supposed to be slower than Stamina regen of seconds to minutes but faster than Health regen of hours to days. For a Mage, it inched quite close to Stamina. All according to Betty, of course. I couldn't get my Status Window to show actual values. In fact, I had trimmed it further. Removed all attributes - I could feel their effects anyway, and rearranged the status points. I also added a list of spells I had in my repository.
 
 ---
 
@@ -330,9 +330,72 @@ After maybe an hour or so, I headed back to where the others were. I spent the e
 
 Yep, I decided to have only two spells for now. Not that I couldn't come up with others, but since I didn't have a way to comment out stuff, it seemed a bit hazardous to have untested lethal contraptions ready to release on a word always available.
 
-I also learnt quite a few things about magic and spell casting. One couldn't directly change the core stats and attributes of a target. Setting HP to zero in one spell would've turned me into One Spell Man. Too bad. Also, my range was around 3 meters in radius with me at the center. Depending on the factors involved, I could either fully cast a spell or not cast it at all. No half measures. I tried freezing a large region of land as an Area of Effect attack. No luck. Good thing though, all spells took exactly the same amount of mana, irrespective of the target, given that they could be affected. A blade of grass, piece of boulder and a grain of sand - all took 280 MP on Incendio, even though the effects were dramatically different on each.
+I also learnt quite a few things about magic and spell casting. One couldn't directly change the core stats and attributes of a target. Setting HP to zero in one spell would've turned me into the fabled One Spell Man. Too bad. Also, my range was 3 meters around myself. Depending on the factors involved, I could either fully cast a spell or not cast it at all. No half measures. I tried freezing a large region of land as an Area of Effect attack. No luck. Good thing though, all spells took exactly the same amount of mana, irrespective of the target, given that they could be affected. A blade of grass, piece of boulder and a grain of sand - all took 280 MP on Incendio, even though the effects were dramatically different on each.
 
 As I exited the choke point and traveled across the bridge, I eventually sighted what my counterpart. A few colored puddles were splashed about as if a painter upended their paints in frustration. Up ahead, I saw one unlucky slime being whaled on by Taro, Divin and Carol with their respective blades. Julie was standing back with the bow in one hand and a loose arrow in another, staring intently but with no apparent intention of firing. Wise choice I suppose, given her aim. Arya was standing beside Julie watching the spectacle. She noticed me was I made my way over and waved her hand awkwardly. I stood silently by their side, as a part of the audience. "Any luck with the spell?" she asked. "Oh, you have no idea!" I replied with a smirk.
 
 ## Chapter 5 - Slime Fest
 
+While seemingly magical, slimes were no better than beasts when it came to intellect. They were attracted by noise (or vibrations, to be precise) and attacked in a variety of ways, usually depending on their size. The golf ball sized ones tried to trip you by spreading at your feet. Mostly though, they fled confrontation. The slightly larger ones - about the size of baseballs, bounced at you every now and then while fleeting in and out of your range. The larger ones, the size of large dogs and over, simply tried to crush everything in their path. Perhaps consume the target with the intention of suffocating them. We hadn't encountered anything larger than a pony. The most dangerous ones of the bunch were the bouncy balls, their speed and hit were no joke. At least the larger ones were sluggish and smaller ones inconsequential. Thankfully, we hadn't encountered any actual magical slimes. Like fire-wielding ones. Hell, there weren't any acidic or poisonous ones either. All they had was physical attacks. Pure XP grind.
+
+The slimes were also immune to physical damage. Until you hit their "core", that is. Their death transformed them into puddles. No one had yet tried pure magic on them; magical skills though, did seem to damage them. Divin had a skill that did freeze damage with a slash of his sword. It was currently the groups trump card to slowing a slime down just enough to allow Taro to pierce its heart. Julie laid bait, Carol ran interference. Surprisingly, Arya was the busiest of all! After our small chat, having recovered her mana, she dived back into the slaughter and spread her hands in front of Taro. A glowing light around his bruised elbow indicated she was healing him.
+
+Just as the healing stopped, Carol pushed the slime in Divin's direction. He froze it with a large swing. Taro took the opportunity to crack the fist sized core and add a new pinkish puddle to the palette. They all came back, probably to recover their stamina while Julie went on to collect her arrows. I decided to have a go at the next slime.
+
+···
+
+"Damn, how many did you get already?" (Me, admiring the polychrome ground after everyone had gathered around)
+
+"Oh, quite a few. Got some experience points as well!" (Carol, with an knowing smile)
+
+"Not enough though. The points are spread among all four of us and one slime doesn't give out that much in the first place." (Julie, with a sigh)
+
+"Four of you...?" (Me, confused)
+
+"Yeah, I don't attack the slimes. I mostly heal others." (Arya, looking ashamed for some reason)
+
+"And yet you have the most experience points of any of us!" (Taro exclaimed)
+
+"Well, as I said, that is simply because I am doing so much healing; all on my own too!" (Arya defended)
+
+"Out of curiosity, how much point have you guys gained?" (Me)
+
+"I've got 36" (Taro) "32 here" (Carol) "29 for me" (Julie) "35" (Divin, after a while)
+
+"..." (Everyone staring at Arya again)
+
+"Oh, fine already. Jeez. I've got 67 now, OK?" (Arya)
+
+"And I'm zero" (Me, in a slightly lower voice, mostly to myself) "Hey, how did you figure out how to heal?" (directed at Arya)
+
+"Oh, it's a skill I have. Named 'Heal', haha" (Arya, chuckling) "I kinda just figured it out" 
+
+"Interesting. How much mana does it take?" (Me, slightly sullen)
+
+"Oh, about 80. I can cast 3 in a row then I need to recover" (Arya)
+
+"I see. Anyway guys, I was wondering if I can have a go at the next slime first? Wanna try out a couple of spells" (Me, looking around)
+
+"Sure" "OK" "Hmm" (Positive grumbles all about)
+
+···
+
+Betty had merged back into one. Julie was standing at the front, looking for a suitable slime to bait. I was a couple meters behind her. Taro, Carol and Divin were spread out behind me. Arya was at the end. Betty's light was visible beyond Arya's head, giving her a halo.
+
+Soon enough, Julie released her bowstring. An arrow went and landed beside a smallish slime. Big enough to fit five tennis balls, I suppose. It rolled towards the arrow. As it was about to reach it, Julie let out another one, this one about halfway between the first and us. Another couple arrows brought the slime within our striking distance. Julie retreated while I and the three behind me took her place.
+
+Mana? Check. Raised my palm to the slime headed for my legs. Target selected? Check. Exhaled out stale air and filled my lungs with fresh oxygen. "Incendio" - a slight whisper, no more. Perhaps the slime heard me? It stopped moving for a second. It then twitched and seemed to swell to twice its size. And then it popped. Even made a "pop" sound. Its core exposed to the world, still rolling on the ground towards us due to momentum. The rest of its remains lay steaming on the ground.
+
+I was dumbstruck. The others were no better off. They were looking at the core with mouths agape, shell shocked. I looked at my Status Window to make sure it really was my spell that did the trick. It was. All my mana was gone. Cubing the temperature rarely worked on anything bigger than a cat-sized object and it sucked all 800 points of my mana. Even on smaller object, it was a hit and miss. True gamble, to be honest. Yet against the ill-fated slime, it was a perfect. ' Whilst immune to physical damage, they are extra vulnerable to magical attacks, huh?' I surmised.
+
+"Um, shouldn't we break the core?" I eventually asked around. Carol moved as if in a daze and stabbed it with a dagger. My Status Window showed I had earned 11 experience points. Everyone seems to wake up from their dreams, with varied expressions on their face.
+
+"Man, what was that? Incendio? OP skill man, how much mana does it take?", Taro was excited beyond words. "It takes all the considerable mana I have. It's not a skill though, more of a spell" I replied, arguing semantics for no reason. "Still, it was awesome!". 'I agree, it was.' "Now we don't have to stab one a billion times to kill it. That is some nice spell" Julie interjected. 'I agree, it is'. "Did you all get experience points from that one as well?" I asked. "Nah, only I got 'em", Carol said, "only 3 though. Since you did the most damage. You gotta contribute to the fight somehow to get some, even if you don't directly hit any. You get points according to your contribution." she concluded. "So, you guys still have to fight then" I wondered aloud. "Yes" Divin said, "but it is different. First, we all will take shots at it. Then you pop it. Much more efficient". I was of the same mind. That being said, I can't be out of the fight after a single spell - one that may or may not even work. I decided to revert back to my temperature square for the time being. If I paced myself properly, I could fight continuously for however long my mana and stamina held. 'Perhaps one spell every couple minutes. Yeah, that would work.'
+
+···
+
+With that, we all went on a rampage. While Incendio popped the smaller ones, it turned the mid sized ones into a more liquidy state from their semi solid sludge one. The larger ones seemed to shrug if off though. But I had another spell. I had tweaked this one as well; reducing temperature to zero worked even less than cubing it. I simply halved it instead. It did not freeze them, but slowed them all considerably. We were never swamped. Julie lured in bunch of slimes at once, we fought on multiple fronts and gained experience at an accelerated pace.
+
+No one knew how much time went by. The sky was still dusky. We weren't hungry or thirsty, let alone sleepy. Whenever we felt a bit tired, we took time out and capped of our stamina points. Then back into the fight. Julie could now hit a slime once every 5 tries. Divin and Taro's slashes were getting slight more precise, as if they had gotten hang of the sword's weight. Carol was getting slightly better at avoiding slimes while kiting them. Arya had managed to find a good pace of healing, that required least amount of rest in between. The bouncy balls did most damange, but it was limited to small bruises. Must have been several hours at least. Some of the earlier puddles had vanished. We only noticed it because there were patches of brown grass where supposed colorful puddles were meant to be. I hadn't experimented with any more spells so far. While not exhausting in a physical manner, it was draining in an entirely different way. If we had a 'mental capacity' point, we would all be very low on it. It was in this situation that Arya suddenly exclaimed - "Guys? I just leveled up"
+
+## Chapter 6 - Level Up
