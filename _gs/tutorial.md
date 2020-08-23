@@ -279,27 +279,25 @@ Well, I still didn't know how to call fire. I could chose any target into x and 
 
 `fireball x = (x.temperature++)`
 
-'Wait, increasing temperature by a degree would barely make the thing feverish. I need it to BURNNN. How about I square it?'
+'Wait, increasing temperature by a degree would barely make the thing feverish. I need it to BURNNN. How about I double it?'
 
-`fireball x = (x.temperature = x.temperature * x.temperature)`
-
-'If I cast it on a normal human who is at say, 30 degrees, then their temperature would jump to 30 * 30... 900 degrees!!! Wow, that is HOT with a capital T'
+`fireball x = (x.temperature = x.temperature * 2)`
 
 I was itching to test it on something; so I closed my Status Window. Betty was back in her wisp form already. I looked at the ball of light - what if... No. It would be a tragically funny joke if a powerful Chat Bot went Rambo on me right now. I instead chose a patch of grass about 10 meters away. While the grass was dry, it was thankfully, sparse. I could fireball it without needing a fire extinguisher. Taking a deep breath, I raised my hand. My palm was pointing towards a clump of particularly dense patch. I spoke out as serenely as I could - 'fireball'. Nothing happened.
 
 While the test was technically a failure, I did notice one important thing. When I raised my hand to "select" the clump of grass, I could somehow tell that it was too far away. Perhaps my perception was too low? I lowered my hand, now pointing to a blade of grass a couple meters away. No sooner had I spoken the magic word that the blade seemed to swoon. Its color had also gotten a bit darker. Test Successful! I cast fireball again on the same blade and its color went pitch black. Even in the dark evening-like ambience, it stood out from its peers. A slight breeze disintegrated it before my eyes.
 
-As I noticed that, another crazy idea popped into my nugget. Why stop at square? Why not cube it? Heck, I could call it recursively until my target is vaporized! Man, I don't care what others say, but the Mage class is not nerfed AT ALL. In fact, it is way too over powered! Who cares about some attributes or special effects when you can simply smite stuff into oblivion? I immediately added one more multiplier to my spell and cast it on another unfortunate blade of grass nearby. My expectations of utter destruction were betrayed however, as this time, nothing happened at all. Not even a small change in color. I reopened my Status Window and checked to see if I hadn't made any typos with my mind, but the code looked good. 'Oh wait, what is this?'
+As I noticed that, another crazy idea popped into my nugget. Why stop at double? Why not square it? Heck, I could call it recursively until my target is vaporized! Man, I don't care what others say, but the Mage class is not nerfed AT ALL. In fact, it is way too over powered! Who cares about some attributes or special effects when you can simply smite stuff into oblivion? I immediately my multiplier in my spell and cast it on another unfortunate blade of grass nearby. My expectations of utter destruction were betrayed however, as this time, nothing happened at all. Not even a small change in color. I reopened my Status Window and checked to see if I hadn't made any typos with my mind, but the code looked good. 'Oh wait, what is this?'
 
 I had failed to notice it in my excitement earlier, but my Mana Point was down to 240 from original 800. Did I just use up 560 points of mana to burn a blade of grass? As for why the last spell didn't work, I simply didn't have enough mana left. Guess Mages ain't so OP after all.
 
 As I was resting to recover my mana - which according to Betty was quicker for Mages, I thought about the spell I just cast. Impressive as it was, it certainly wasn't what I expected. No literal fiery balls were shot around. How would one go about that, I wondered? Not that it mattered much, I now had an actual attack. Misnomer though it was. Hell, why not change it? It didn't take me long to come up with a pretty original and totally not stolen name -
 
-`incendio x = (x.temperature = x.temperature * x.temperature * x.temperature)`
+`incendio x = (x.temperature = x.temperature * x.temperature)`
 
 I was quite proud of myself, as I decided to write another function that went the other way, with a similar naming scheme.
 
-`pertificus_totalus x = (x.temperature = ((x.temperature / x.temperature) - 1))`
+`petrificus_totalus x = (x.temperature = ((x.temperature / x.temperature) - 1))`
 
 'Boom! Freeze mofo, all the way down to zero!!!'
 
@@ -390,7 +388,7 @@ I was dumbstruck. The others were no better off. They were looking at the core w
 
 "Um, shouldn't we break the core?" I eventually asked around. Carol moved as if in a daze and stabbed it with a dagger. My Status Window showed I had earned 11 experience points. Everyone seems to wake up from their dreams, with varied expressions on their face.
 
-"Man, what was that? Incendio? OP skill man, how much mana does it take?", Taro was excited beyond words. "It takes all the considerable mana I have. It's not a skill though, more of a spell" I replied, arguing semantics for no reason. "Still, it was awesome!". 'I agree, it was.' "Now we don't have to stab one a billion times to kill it. That is some nice spell" Julie interjected. 'I agree, it is'. "Did you all get experience points from that one as well?" I asked. "Nah, only I got 'em", Carol said, "only 3 though. Since you did the most damage. You gotta contribute to the fight somehow to get some, even if you don't directly hit any. You get points according to your contribution." she concluded. "So, you guys still have to fight then" I wondered aloud. "Yes" Divin said, "but it is different. First, we all will take shots at it. Then you pop it. Much more efficient". I was of the same mind. That being said, I can't be out of the fight after a single spell - one that may or may not even work. I decided to revert back to my temperature square for the time being. If I paced myself properly, I could fight continuously for however long my mana and stamina held. 'Perhaps one spell every couple minutes. Yeah, that would work.'
+"Man, what was that? Incendio? OP skill man, how much mana does it take?", Taro was excited beyond words. "It takes all the considerable mana I have. It's not a skill though, more of a spell" I replied, arguing semantics for no reason. "Still, it was awesome!". 'I agree, it was.' "Now we don't have to stab one a billion times to kill it. That is some nice spell" Julie interjected. 'I agree, it is'. "Did you all get experience points from that one as well?" I asked. "Nah, only I got 'em", Carol said, "only 3 though. Since you did the most damage. You gotta contribute to the fight somehow to get some, even if you don't directly hit any. You get points according to your contribution." she concluded. "So, you guys still have to fight then" I wondered aloud. "Yes" Divin said, "but it is different. First, we all will take shots at it. Then you pop it. Much more efficient". I was of the same mind. That being said, I can't be out of the fight after a single spell - one that may or may not even work. I decided to revert back to my temperature double for the time being. If I paced myself properly, I could fight continuously for however long my mana and stamina held. 'Perhaps one spell every couple minutes. Yeah, that would work.'
 
 ···
 
