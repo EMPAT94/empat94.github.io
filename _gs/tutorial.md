@@ -177,7 +177,7 @@ Ha... My Class was set a while ago when Betty mentioned them for the first time.
 
 *Special Effects:*
 
-* Intelligence Boost - Extra intelligence point on every Class Upgrade
+* Magic Boost - You get extra intelligence, perception and/or wisdom points on every Class Upgrade
 
 ---
 
@@ -322,7 +322,7 @@ After maybe an hour or so, I headed back to where the others were. I spent the e
 
 *Special Effects*
 
-* Intelligence Boost - Extra intelligence point on every Class Upgrade
+* Magic Boost - You get extra intelligence, perception and/or wisdom points on every Class Upgrade
 
 ---
 
@@ -453,7 +453,7 @@ I ran back way behind even Arya and opened my Status Window. I had hidden my att
 
 *Special Effects*
 
-* Intelligence Boost - Extra intelligence point on every Class Upgrade
+* Magic Boost - You get extra intelligence, perception and/or wisdom points on every Class Upgrade
 
 ---
 
@@ -633,13 +633,13 @@ Suddenly Betty announced, "This is Level 2 of the Tutorial Dungeon - The Kin of 
 
 "How many did you see?" Divin asked. It certainly wasn't a good idea to be swarmed by large crocodile monsters. "Ah, I saw only one and then I ran. I don't know if there were more" Julie replied.
 
-No one suggested going back to check. We just stood there, perhaps gathering courage. I certainly was in no hurry to become a crocodile hunter. I'd seen on TV how powerful their jaw strength was, smashing melons like balloons.
+No one suggested going back to check. We just stood there, perhaps gathering courage. I certainly was in no hurry to become a crocodile hunter. I'd seen on TV how powerful their jaw strength was, bursting melons like balloons.
 
-So we decided to take a short break there. We could make a routine of taking short naps on bridges hanging over nothingness. I wasn't in any mood to sleep, my time in Level 1 was more or less relaxed. So I opened up my Status Window and decide to go through another trial and error session.
+So we decided to take a short break there. We could make a routine of taking short naps on bridges hanging over nothingness. I wasn't in any mood to sleep, my time in Level 1 was more or less relaxed. So I opened up my Status Window and decided to go through another trial and error session.
 
 ···
 
-'So, everything in this Simulation is an object, as I can directly mutate their values. Of course, there are permissions and privileges, dos and donts but the fact still remains. I wonder if I can print the objects somehow? That would be an awesome push to my progress!'
+'So, everything in this simulation is an object and I can directly mutate their values. Of course, there are permissions and privileges, dos and donts but the fact still remains. I wonder if I can print the objects somehow? That would be an awesome push to my progress!'
 
 Since the function definition looked like Haskell, I decided to try out one of its inbuilt function.
 
@@ -647,7 +647,7 @@ Since the function definition looked like Haskell, I decided to try out one of i
 print_object o = (id o)
 ```
 
-OK, let's try this. I lifted my hand and pointed to a pebble. "Print object", I whispered. Nothing.
+'OK, let's try this'. I lifted my hand and pointed to a pebble. "Print object", I whispered. Nothing.
 
 'Perhaps it takes in printf or cout; console.log even?' I tried them out. 'Nope. Hmmm, what if...?' I modified the program.
 
@@ -663,13 +663,13 @@ This time, I lost 45 mana. And a new window overlapped my terminal.
 
 ---
 
-'Hallelujah, this damn thing takes shell commands. Woo!!!' I was excited beyond measure. I again suppressed my urge to do a victory dance. Arya, however, noticed. "You're doing your weird smile again", she didn't stay quiet this time, opting to mutter her thoughts to me. "Ah, yes. I managed to create a new spell!" I confided. The others were resting, fitfully or otherwise. Arya came over and inquired about the new spell. I deliberated over how to best explain it to her; teaching object-oriented stuff would be a pain in the ass. I decided to change the name to help the case.
+'Hallelujah, this damn thing takes shell commands. Woo!!!' I was excited beyond measure. I again suppressed my urge to do a victory dance. Arya, however, noticed. "You're doing your weird smile again"; she didn't stay quiet this time, opting to mutter her thoughts to me. "Ah, yes. I managed to create a new spell!" I confided. The others were resting, fitfully or otherwise. Arya came over and inquired about the new spell. I deliberated over how to best explain it to her; teaching object-oriented stuff would be a pain in the ass. I decided to change the name to help the case.
 
 ```sh
 identify o = (echo o)
 ```
 
-'You can get information about a thing using this spell, Identify' I said as I helped her type the code in her terminal. I didn't expect it to run, but to my surprise, it actually did! Why did identify run, when it has nothing to do with any stats? I immediately called Betty over, hissed my befuddlement, and leveled her with a cold stare. Betty replied guilelessly, "Healer class cannot directly affect HP, neither can Mage for that matter. Also, Healers do not have access to parameters that are not co-dependent on HP. The identify spell, as you can see, is not interacting with any of the object's parameters. So the restrictions do not apply." A lot to unpack there but it somehow made sense in a convoluted way. So Arya couldn't change temperature because it wasn't really dependent on HP directly. Even her 'Heal' skill worked on wounds. I see... 'I'll think about it some other time though. Gotta experiment with identify!' and so, Arya and I went around identifying random things. Of course, after the pebble, I ran it on her first!
+'You can get information about a thing using this spell, Identify' I said as I helped her type the code in her terminal. I didn't expect it to run, but to my surprise, it actually did! Why did identify run, when it has nothing to do with any stats? I immediately called Betty over, hissed my befuddlement, and leveled her with a cold stare. Betty replied guilelessly, "Healer class cannot directly affect HP, neither can Mage for that matter. Also, Healers do not have access to parameters that are not co-dependent on HP. The identify spell, as you can see, is not interacting with any of the object's parameters. So the restrictions do not apply." A lot to unpack there but it somehow made sense in a convoluted way. So Arya couldn't change temperature because it wasn't really dependent on HP directly. Even her 'Heal' skill worked directly on wounds. I see... 'I'll think about it some other time though. Gotta experiment with identify!' and so, Arya and I went around identifying random things. Of course, after the pebble, I ran it on her first!
 
 ---
 
@@ -677,6 +677,63 @@ identify o = (echo o)
 
 ---
 
-'Ah, just this? I should've been able to see the temperature though since I can modify it. Perhaps my level is too low? Hey, at least I can see the level and class. That's a good start.' Arya had her palm pointed at me as well, her eyes glassy. Soon she came back, our eyes met and we smiled at each other. "This is a damn good spell!" she said. "I agree, it is" I replied, slightly puffing my chest. Identify used up 70 of her mana, where it took only 45 for me. Another interesting discovery. Eventually, I ran out of things to identify around me. Intriguingly, identify didn't work on Betty. It consumed mana, yes, but showed a blank screen.
+'Ah, just this? I should've been able to see the temperature though since I can modify it. Perhaps my level is too low? Hey, at least I can see the level and class. That's a good start.' Arya had her palm pointed at me as well, her eyes glassy. Soon she came back, our eyes met and she smiled at me. "This is a damn good spell!" she said. "I agree, it is" I replied, slightly puffing my chest. Identify used up 70 of her mana, where it took only 45 for me. Another interesting discovery. Eventually, I ran out of things to identify around me. Intriguingly, identify didn't work on Betty. It consumed mana, yes, but showed a blank screen.
 
 While I wasn't really sleepy, the run back has sapped my SP. The exhaustion was catching up. So I decided to take a short nap. And that was just what I did.
+
+## Chapter 10 - Crocodile Hunters
+
+
+Taro, Divin, and I were moving forward with the ladies trailing behind us at a distance. This was our new formation, where the three guys had become meat shields for some reason.
+
+The hullabaloo of previous Levels was absent, instead filled with deceptive tranquility. The hills were lush and spread all over, reminding me of a movie with hobbits. This place would've made a good vacation spot, were it not for the monsters lurking about.
+
+Despite our strain, or perhaps because of it, we were having a light conversation. Taro had initiated it, asking me about my home town. Currently, we were on the topic of his school.
+
+"... Oh you know, it's not like they teach anything meaningful. Plus, I had my exams coming up next week. I was summoned at a perfect time. Now I don't have to study anymore!" he grinned.
+
+"Haha", I laughed softly, choosing not to mention the time difference again. "What about you Divin? What sort of business do you own?" I switched the conversation to Divin.
+
+"Hmm, you know. Odds and ends..." He waved it off. "I see", I said, but I didn't. Thinking about it now, on the spectrum of most talkative on the right to least on left, Divin would sit on the extreme left. Carol would probably be on the other end, followed closely by Taro. I guess Julie, myself and Arya were somewhere in between, in that order.
+
+Pretty soon, we reached the place where we had run back before. Looking off to the left, I scanned the caves for signs of a crocodile. I didn't have to search for long. I soon saw it, just at the mouth of the cave sitting still with its mouth wide open, half-concealed by the long shadows of evening. Forget a balloon, it could pop my head like a bubble; that is how large it was. We stood and stared at it watchfully. It didn't move a muscle.
+
+As we stood, the girls made their way to our position. Then they gawked the reptile as well. It still didn't move. Eventually, Taro looked around the group and nodded. 'No man, don't!' I almost shouted, but I knew we had no choice. I decided to move as well, given I had the highest damage rate with my spells. I had to hit it first like I usually did at the start of every fight against monsters. Divin wavered for a bit, then joined us as well. We were back in our new formation, except this time, the girls decided to stay put. We moved on to get a closer look at our next supposed prey.
+
+···
+
+A very large crocodile, perhaps 6 meters in length, laid still on the ground. During our advance, it had slowly closed its large snout. If we hadn't seen it open beforehand, perhaps we would've been fooled into thinking that it hadn't moved at all!
+
+We were about 20 meters away from it. It didn't move. We moved ahead haltingly, reaching almost 10 meters near it. 'Damn, this thing is BIG!' I thought to myself. I guessed it came close in size to some of the largest crocodiles on our planet. We stopped there, hesitant to move forward. I could now actually see the monster appraise us. There was a glint of beastly intellect in its eyes that you see only in apex predators.
+
+I lifted my hand, hoping to get a selection. Nope. I inched closer, praying it wouldn't suddenly jump out and grab at me. I couldn't select it still, but this time, the monster moved. Ever so slowly, it lifted its front leg and moved it forward. With a characteristic flex of its body, it moved the other leg ahead. I couldn't see the hind legs, shrouded in shadow as they were. It moved excruciatingly slow. I was tense as a drawn bowstring, ready to scamper off at the slightest hint of trouble.
+
+As we watched it amble towards us languidly, we realized that the thing moved as if in slow motion. Perhaps it was bogged down by its own weight. I still kept my hand lifted though, and perhaps it was about 6 meters away from us when I could suddenly feel something different. I was able to select it! 'Wow, my level up must've affected my range more than I thought'. I quickly cast Identify on it.
+
+---
+
+###  Kin of Sobek - Level ?
+
+*Special Effect*
+
+* Transient Life: You are a temporary variable in a short-lived calculation
+
+---
+
+Before I could process what was written on the screen, my caution overwhelmed my curiosity. The crocodile was no more than 5 meters ahead of me and I wasn't about to let it get any closer. With my palm already pointing at its snout - I hadn't moved it at all, I spoke in a loud voice the name of my most damaging spell - "INCENDIO!".
+
+···
+
+If you have ever felt stupid in life, think of what I had just done. I had cast a heat spell on a cold-blooded reptile monster when it was but a few meters away from me and heading in my direction for a light snack. The effect was immediate. It first spent a couple of seconds as if enjoying the heat spread through its thick body and then it raced towards us instantly.
+
+I had never in my life ran faster than when I did after being chased by the crocodile monster. I gave no thought to Taro, nor to Divin. In my Usain Bolt moment, I hazily noticed that the girls were already gone. I reached the entrance within what felt like hours and seconds at the same time. The other guys were at my heels, apparently. The girls stood just beyond, panting on the bridge. Looking back, the crocodile had given up chase after barely a few meters, now languishing back in its nest; perhaps deciding to conserve its heat.
+
+I felt ludicrous about my actions. I was also utterly drained from my sprint. I felt like the stupidest bum if there ever was one. But for some reason, I started laughing. Yes, I felt incredibly dumb. Yes, my life was in danger, if only for a couple of seconds. Yet I couldn't help it at all. I sniggered loudly, then burst into full-blown laughter. Soon, I was joined by Carol, Taro, and Arya as well. While I did not see them in my mirth, I bet Julie and Divin had grins on their faces as well.
+
+"Well, that was stupid", I said after our giggle-fit died down. "Yeah, but at least now we have a fighting chance", Divin said. "I agree", I said thinking about how petrificus would affect these things. "So what exactly happened?" Julie asked, with Arya and Carol perking their ears. Taro took the responsibility to regale them with our hilarious and deadly adventure. Slightly exaggerating it in the process, of course.
+
+···
+
+'Transient Life, eh?' I thought about the special effect on the creature. 'I guess these things are explicitly created for the purpose of this tutorial. I wonder what will happen to the place after we leave?'. I asked Betty the same. "Yes, the level and monsters in it are garbage collected after you pass on to the next level", she replied, "Level 0 and 1, along with slimes and imps inhabiting them, now no longer exist."
+
+For some reason, I felt sad about it. But then again, that is how these things work. 'Temporary variables for sure', I thought as I brooded over the matter for a while.
