@@ -686,7 +686,7 @@ identify o = (echo o)
 
 While I wasn't really sleepy, the run back has sapped my SP. The exhaustion was catching up. So I decided to take a short nap. And that was just what I did.
 
-## Chapter 10 - Crocodile Hunters
+## Chapter 10 - Crocodile Hunters (1)
 
 
 Taro, Divin, and I were moving forward with the ladies trailing behind us at a distance. This was our new formation, where the three guys had become meat shields for some reason.
@@ -740,3 +740,5 @@ I felt ludicrous about my actions. I was also utterly drained from my sprint. I 
 'Transient Life, eh?' I thought about the special effect on the creature. 'I guess these things are explicitly created for the purpose of this tutorial. I wonder what will happen to the place after we leave?'. I asked Betty the same. "Yes, the level and monsters in it are garbage collected after you pass on to the next level", she replied, "Level 0 and 1, along with slimes and imps inhabiting them, now no longer exist."
 
 For some reason, I felt sad about it. But then again, that is how these things work. 'Temporary variables for sure', I thought as I brooded over the matter for a while.
+
+## Chapter 12 - Crocodile Hunters (2) [Coming Tuesday 22nd Sept]
