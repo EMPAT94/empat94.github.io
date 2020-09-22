@@ -817,7 +817,6 @@ That was why it wasn't long before we located the exit. This Dungeon probably we
 
 We made for the exit. Another bridge, the same as last. We went ahead and decided to rest while Arya gained her XP. I wasn't feeling like napping again. The stone floor wasn't so welcoming anyway. I decided to go for another trial and error session. This time with a different objective. I looked at Arya casting Heal on herself in succession, then waiting to recover mana. She looked at me as well, "Another spell?", she asked. "Well, not really. More like meta-spell" I answered. 'Man, I suck at explaining things'. "A meta-what?", she shot back. "How do I explain it? Umm... Well, never mind. I'll show you when I'm done", I took the easy way out. She chuckled an okay and I opened my Status Window Editor. I cracked my knuckles, cranked my neck, took a deep breath, muttered to myself 'Here goes nothing', and dived right in!
 
-
 ## Chapter 13 - Timing Attack
 
 ```sh
@@ -884,19 +883,18 @@ I added the password with a thought. The window just vanished. No 'Hello, World!
 
 More determined than ever, I tried several more variations. No dice.
 
-
 'I can't manually keep entering a password. A few more and I'll forget what I entered previously. Nor would I be able to cover all the characters', with that thought, I decided to automate it.
 
 ```sh
 test = (while(true) (echo "password" | sudo -S echo "password worked!"))
 ```
+
 I cast the spell. One mana point down. I didn't see the window prompting for the password. Another second down, another mana point gone.
 
 'What is this? A background job? I see. Since the system is unable to determine how many resources this spell will consume, it is taking it in as it requires. But this won't do. I'm checking for the same thing over and over again. I will be down to zero in fifteen minutes at this rate! And if I add checks for all combinations, god knows how long it will take', as I fretted over the issue, another idea popped into my mind. 'What if?'
 
-
 ```sh
-test = (i = 0; while(i <= 255) (echo "$str $(time)" > file; str = getChar[i++]; echo $str | sudo -S echo $str "worked!" ))
+test = (i = 0; while(i <= 255) (echo "$str $(time)" >> file; str = getChar[i++]; echo $str | sudo -S echo $str "worked!" ))
 
 getChar i = awk 'BEGIN{printf '%c", i}"
 
