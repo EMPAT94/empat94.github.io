@@ -24,9 +24,10 @@
     <meta name="msapplication-TileColor" content="#da532c">
     <meta name="theme-color" content="#ffffff">
 
-    <title>{{ page.title }}</title>
+    <title>{{ page.title | default: "" }}</title>
 
-    {% feed_meta %} {% seo %}
+    {% feed_meta %}
+    {% seo %}
   </head>
 
   <body>
