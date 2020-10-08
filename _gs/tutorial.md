@@ -291,7 +291,7 @@ As I noticed that, another crazy idea popped into my nugget. Why stop at double?
 
 I had failed to notice it in my excitement earlier, but my Mana Point was down to 240 from the original 800. Did I just use up 560 points of mana to burn a blade of grass? As for why the last spell didn't work, I simply didn't have enough mana left. Guess Mages ain't so OP after all.
 
-As I was resting to recover my mana - which according to Betty was quicker for Mages, I thought about the spell I just cast. Impressive as it was, it certainly wasn't what I expected. No literal fiery balls were shot around. How would one go about that, I wondered? Not that it mattered much, I now had an actual attack. Misnomer though it was. mHell, why not change it?' It didn't take me long to come up with a pretty original and totally not stolen name -
+As I was resting to recover my mana - which according to Betty was quicker for Mages, I thought about the spell I just cast. Impressive as it was, it certainly wasn't what I expected. No literal fiery balls were shot around. How would one go about that, I wondered? Not that it mattered much, I now had an actual attack. Misnomer though it was. 'Hell, why not change it?' It didn't take me long to come up with a pretty original and totally not stolen name -
 
 `incendio x = (x.temperature = x.temperature * x.temperature)`
 
@@ -649,7 +649,7 @@ print_object o = (id o)
 
 'OK, let's try this'. I lifted my hand and pointed to a pebble. "Print object," I whispered. Nothing.
 
-'Perhaps it takes in cout or console.log?' I tried out several variations. 'Nope. Hmmm, what if...?' I modified the program.
+'Perhaps it takes in cout or console.log?' I tried out several variations. 'Nope. Hmm, what if...?' I modified the program.
 
 ```sh
 print_object o = (echo o)
@@ -749,7 +749,7 @@ Sure, the area of effect was less. I had cast petrificus on its belly from the s
 
 After 3 rapid doses of my freeze spell, the thing went rigid. Its skin was thick but that only lengthened the agony. Before long, we had taken down our first crocodile monster. This was also our first fight where Arya's help was unnecessary. I doubt we would've needed her help if we had lost against that one - we would've been crushed beyond repair.
 
-Interestingly, the crocodile did not bleed either. At least not blood. While its wounds were dark nothings, its body turned into a watery sploosh when it died. I asked Betty if all the monsters are the same. According to her, the monsters in the tutorial were specially created to be cannon fodder for the test subjects. The reason they did not bleed was so the subjects could get acclimated to killing them. Very kind of our kidnappers to worry about our mental state. The monster counterparts in the 'outer world' were quite varied. And bled when struck. If a level 2 guy like me had encountered a crocodile, like this one in its natural habitat, that would be it for me.
+Interestingly, the crocodile did not bleed either. At least not blood. While its wounds were dark nothings, its body turned into a watery splotch when it died. I asked Betty if all the monsters are the same. According to her, the monsters in the tutorial were specially created to be cannon fodder for the test subjects. The reason they did not bleed was so the subjects could get acclimated to killing them. Very kind of our kidnappers to worry about our mental state. The monster counterparts in the 'outer world' were quite varied. And bled when struck. If a level 2 guy like me had encountered a crocodile, like this one in its natural habitat, that would be it for me.
 
 I opened my status window to check my gains from the kill.
 
@@ -773,7 +773,7 @@ I opened my status window to check my gains from the kill.
 
 ---
 
-'Woah, I got 32 XP for this piece of cake? 9 more crocs and I'm level 3 baby! Ah, I bet mine was the highest though, so others probably got less.'
+'Whoa, I got 32 XP for this piece of cake? 9 more crocs and I'm level 3 baby! Ah, I bet mine was the highest though, so others probably got less.'
 
 Apparently, I was correct, but the difference in XP wasn't as big as I had imagined. Everyone received somewhere between 20 to 30 XP.
 
@@ -815,7 +815,7 @@ It is amazing how adaptable we human beings are. The constant fight against the 
 
 That was why it wasn't long before we located the exit. This Dungeon probably went in a straight line, it seemed. We had just killed our twelfth crocodile. I reached level 3 first this time, quickly followed by the rest. Arya was still at level 2 though.
 
-We made for the exit. Another bridge, the same as last. We went ahead and decided to rest while Arya gained her XP. I wasn't feeling like napping again. The stone floor wasn't so welcoming anyway. I decided to go for another trial and error session. This time with a different objective. I looked at Arya casting Heal on herself in succession, then waiting to recover mana. She looked at me as well, "Another spell?" she queried. "Well, not really. More like meta-spell." I answered. 'Man, I suck at explaining things'. "A meta-spell?," she shot back. "How do I explain it? Umm... Well, never mind. I'll show you when I'm done," I took the easy way out. She chuckled an okay and I opened my Status Window Editor. I cracked my knuckles, cranked my neck, took a deep breath, muttered to myself 'Here goes nothing', and dived right in!
+We made for the exit. Another bridge, the same as last. We went ahead and decided to rest while Arya gained her XP. I wasn't feeling like napping again. The stone floor wasn't so welcoming anyway. I decided to go for another trial and error session. This time with a different objective. I looked at Arya casting Heal on herself in succession, then waiting to recover mana. She looked at me as well, "Another spell?" she queried. "Well, not really. More like meta-spell." I answered. 'Man, I suck at explaining things'. "A meta-spell?," she shot back. "How do I explain it? Ummm... Well, never mind. I'll show you when I'm done," I took the easy way out. She chuckled an okay and I opened my Status Window Editor. I cracked my knuckles, cranked my neck, took a deep breath, muttered to myself 'Here goes nothing', and dived right in!
 
 ## Chapter 13 - Timing Attack
 
@@ -857,7 +857,7 @@ I took a deep breath. Crossed my fingers. Whispering with my eyes closed, "Test"
 
 "Ah, I understand. So, what has your spell got to do with an admin?" she asked.
 
-"Hmmm, well you must know by now that these spells are nothing but programs, right? If I can get superuser rights, then -"
+"Hmm, well you must know by now that these spells are nothing but programs, right? If I can get superuser rights, then -"
 
 "Then you can access tools and do stuff that you normally couldn't!" she cut me off and concluded.
 
@@ -910,7 +910,7 @@ I was getting used to the variations in the landscape by now. First the plain fi
 
 Slimes, Chimps, Crocs, and now... Birds? Almost anticlimactic. The terrain was also not that different from the previous level except for fewer hills and more trees. The withered old trees were populated with what looked like vultures to my eyes. They were not even that large!
 
-"This is Level 4 of the Tutorial Dungeon - The Nekhbet Copse!," Betty announced.
+"This is Level 3 of the Tutorial Dungeon - The Nekhbet Copse!," Betty announced.
 
 "These birds... They are vultures, aren't they?," Taro asserted. 'Damn right they are. Let's just ignore the chatbot and her dramatic naming sense', I thought.
 
@@ -1067,6 +1067,42 @@ Before she could answer though, Taro was up. We looked at him, he smiled in retu
 
 We did such small talk until eventually, Julie woke up. Divin, who I assumed was pretending to sleep, woke up as well. Not Carol though, we had to drag her back from her dreamland.
 
-We made our march to the entrance of level 4. Even from the bridge, I could see the dense undergrowth that lay beyond. A level of the forest, I presumed. A sense of foreboding shook my nerves as we stepped onwards.
+We made our march to the entrance of level 4. Even from the bridge, I could see the dense undergrowth that lay beyond. A level of a forest, I presumed. A sense of foreboding shook my nerves as we stepped onwards.
 
-## Chapter 16 - [Thursday 8th Oct 2020]
+## Chapter 16 - Mini-Boss?
+
+As we stepped past the entrance and inched our way towards the trees, I noticed that this level was slightly different than all the previous ones. The dusky light that had accompanied us so far seemed to have given way to darker shades of itself. A heavy fog hung over the arena, getting denser inside the trees. The trees themselves were rooted quite close together and looked uninviting. Unlike the withered old bunch of the last level, these ones were teeming with vitality. Dark green leaves swayed silently to the tender breeze that shifted the fog ever so slightly. The terrain felt alive. Dangerously so.
+
+Everyone else was similarly affected. Carol no longer dared to go ahead to scout. We were all bunched together, moving as one organism. Poor strategy for combat but no one suggested otherwise. As we stood a few steps before the first tree, a slight hesitation numbed our progress. 'Should we just head inside? Is there any way to scout? What if we get ambushed? There is no way to counter here.' Worried plagued my mind. I wondered what sort of monsters inhabited such a dark and intense place.
+
+"Should we just... Get on with it?" Julie whispered. True, there was a small track going through the woods. 'Thank the creators for this mercy!' "We don't have any other choice," Taro mumbled. Unfortunately, the track was small enough that only 2 people could fit in tightly across. Little discussion was required before we fell into formation - Taro and Divin up front, myself and Arya in the middle, and Carol and Julie covering the rear. Arya had loaned her staff to Julie. Everyone had their weapons drawn.
+
+Our cautious footsteps made no sound on the soft undergrowth. The fog surrounding us afforded the view of a few trees around us, but it seemed to grow slightly thicker with every step forward. A slight wind made a few leaves shiver, and my heart started beating faster. Thankfully the rustling died quickly and I took an easy breath. It was at that moment that our only source of light decided to make an announcement - "This is level 4 of the Dungeon, Lair of Panthera!"
+
+···
+
+The moment she said it, we all stopped and bunched up even closer. Glancing around frantically in all directions revealed no monster. There was a pin drop silence as we stood rigid waiting for something to snap at our heels. The image of monstrous crocs was still fresh in our minds. Seconds slipped by, nothing happened. After a couple of minutes of a tense standoff with mute fog, Taro took a tentative step forward. Divin slowly followed. Both of them had their swords raised in either direction. I was not far behind. With Taro's lead, everyone started shambling ahead. No sign of enemy so far. Yet no one spoke, not even a sound.
+
+Suddenly I heard another rustle somewhere behind me. Others did as well, as we all halted our reluctant march. Just as I turned around to see what was up, a shadow leaped out from the bushes at Carol. She was quick to raise her arms and hold the daggers to defend herself. I saw as it overpowered her stance with pure strength as she fell on her butt. The shadow jumped again, with the intent of disappearing in the darkness on the other side. It succeeded in knocking down Julie on the way, the staff breaking like a twig. Soon it disappeared and silence reigned.
+
+Julie was unhurt - Arya's staff took the brunt of the force. Carol, on the other hand, was bleeding profusely. She had deep long scars on her forearms. One of her daggers was lost. It was the best outcome for her, given the situation. The thing had lunged at her throat; her falling ironically saved her life. It was quite a close call. Arya was stacking heal upon heal on her wounds. Us guys were covering the women from three sides, keeping a close lookout for the shadow.
+
+Just one encounter and we lost two weapons. One of us as hurt as well; luckily with non-fatal injuries. This level was not looking so good. It was a testament to our hardened will that none of us made a run for it. It must've been exactly what the creature wanted, so it could pick us off one by one.
+
+A good minute and Carol's wounds were halfway healed. We changed the formation again. This time, I was taking Carol's place holding one half of the staff. Julie stood beside me. We had formed a crude sort of circle, having an eyeball in every direction. No one moved. No one spoke. We all waited with bated breath for this mysterious foe to attack again.
+
+···
+
+"In front," Divin whispered under his breath. Everyone turned and looked in the direction our path was heading. There I saw yellow eyes surrounded by dark fur. The eyes were reflecting the glow of Betty who was hovering behind us. Nothing else could be seen in the fog. I gulped unconsciously at the ghastly scene. Once the creature saw that our attention was pinned on it, it made a low guttural growl and vanished again. 'Fu+ker is playing cat and mouse with us!'
+
+"A black panther," Divin whispered. I noticed his voice quiver a bit. "It's baiting us," I grunted. "What's our plan?" Carol murmured. No one answered for a few seconds. Gears were turning in everyone's brains. 'It is not as powerful as the crocodiles, so it cannot one-shot us - at least I hope so. It is however faster, stronger, and stealthier than everything else we have faced before. Also, this forest feels like its home terrain. It's too fast for me to cast a spell-chain. Only close-quarter weapons have a chance, but it uses hit-and-run tactics. We can only defend for now.' "We can only defend for now," I said out loud. No one responded, but they all held their weapons tighter.
+
+Not a moment after I said that did we hear another rustle, this time from Taro's side. Immediately, I moved closer to him. Broken staff in one hand, palms held up for the other. Divin moved to his side. Others took a step close as well. The panther jumped out again, but instead of attacking, it feinted. Perhaps us cramming together made it change its mind. This, however, was a golden opportunity for me. I immediately followed the shadow with my palm and cast incendio.
+
+I was 250 mana lighter. The spell was cast successfully. However, I did not get any kill notification. As expected though, it would be too easy if it died to a single incendio. However, its speed ensured I'd never get a chance to cast another. We waited in a tight formation for 5 minutes more but no other attack came. 'It must be recovering from the spell's damage. It will be warier now that it knows we can hurt it.'
+
+Several more minutes passed by. We decided to move on. No point in staying in one place for too long. While it did take us by surprise the first time, now we knew the sign of its approach. We could perhaps scare it off. 'Wait, how many of these panthers are there? Also, how are we supposed to level up and reach the next level if we can't kill them?' I got lost in my new scary thoughts, arguably not the best time to be absent-minded. I got my lesson soon when I was a second too late to notice the rustling sound which sounded awfully close to me. I could do nothing but barely raise the staff in my hand when the furious yellow-eyed shadow leaped on me. Everything moved in slow motion. 'Am I going to die? This feels so weird!' The thing hadn't even touched me when I stumbled backward and fell. Out the corner of my eye, I noticed a sword thrusting ahead. The shadow deftly avoided the straight blade by leaning it slightly and having it slide through its tough fur. And then it landed on me.
+
+Just as its claws dug deep into my stomach, I had a moment of clarity. 'I am so *stupid*!!!' I had a spell to counter it all along. 'Too bad I won't get a chance to use it. I hope these guys make it through somehow.' I didn't care much about death now. Yeah, I was scared of dying at first, but then realized where I was. I was even slightly glad that it was me that was going. 'Soon, I'll be back home!' I thought and closed my eyes.
+
+## Chapter 17 - Curse Series [Saturday 10th Oct 2020]
