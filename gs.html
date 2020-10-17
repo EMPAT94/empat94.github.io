@@ -4,5 +4,11 @@ metaDescription: A fictional tale of a programmer trapped in a simulation
 ---
 
 {% for item in site.gs %}
+<h4>
+Latest: <a href="#{{ item.latestChapter | replace: ' ', '-' | downcase }}">{{ item.latestChapter }}</a>
+</br>
+Upcoming: {{ item.nextChapter }}
+</h4>
+
 {{ item.content | markdownify }}
 {% endfor %}
