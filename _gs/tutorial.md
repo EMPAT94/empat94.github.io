@@ -1,6 +1,6 @@
 ---
 latestChapter: Chapter 18 - The Mage Situation
-nextChapter: Chapter 19 [Tuesday 20th October 2020]
+nextChapter: Chapter 19 [Tuesday 3rd November 2020]
 ---
 
 # Volume 1 - Tutorial
@@ -1270,4 +1270,3 @@ We were still near the entrance. Betty hadn't announced anything. I decided to d
 
 'Looks good! Lost 1 mana point as usual.' I closed the window, took a deep breath, and focused on the upcoming fight.
 
-## Chapter 19 - [Thursday 15th Oct 2020]
