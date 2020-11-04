@@ -1,6 +1,6 @@
 ---
 latestChapter: Chapter 18 - The Mage Situation
-nextChapter: Chapter 19 [Tuesday 3rd November 2020]
+nextChapter: Chapter 19 [Friday 6rd November 2020]
 ---
 
 # Volume 1 - Tutorial
