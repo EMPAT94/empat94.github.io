@@ -1,13 +1,13 @@
 ---
 latestChapter: Chapter 18 - The Mage Situation
-nextChapter: Chapter 19 [Friday 6rd November 2020]
+nextChapter: Chapter 19 [Wednesday 11th November 2020]
 ---
 
 # Volume 1 - Tutorial
 
 ## Prologue
 
-I opened my eyes to a dark sky. 'Not a cloud in sight, must be late at night. Oh, no stars even in this dark, interesting...' I thought; 'Wait... Why am I looking for stars? Where the hell am I?'. There was diffused lighting about, the kind you would get on a late sunny evening, but I couldn't pinpoint a source. My wandering hands found hold of dry grass beside my prone body. Now I was worried. I quickly got up and looked around. Some sort of plain landscape surrounded by what looked to be high cliffs on all sides but one. There were some people gathered there, so that was where I made my way.
+I opened my eyes to a dark sky. 'Not a cloud in sight, must be late at night. Oh, no stars even in this dark, interesting...' I thought; 'Wait... Why am I looking for stars? Where the hell am I?' There was diffused lighting about, the kind you would get on a late sunny evening, but I couldn't pinpoint a source. My wandering hands found hold of dry grass beside my prone body. Now I was worried. I quickly got up and looked around. Some sort of plain landscape surrounded by what looked to be high cliffs on all sides but one. There were some people gathered there, so that was where I made my way.
 
 As I sauntered over to the group, I saw a figure floating in the air. I did a quick double-take. 'What the hell!?!' There was a woman in Egyptian-esque costume floating off the ground, her eyes closed. Surrounded by 5 more people. Thankfully, the people were quite grounded - and looked as confusing as I felt. From the looks of it, they had gathered quite recently as well. Just as I was about to ask what the f+ck was going on, the floating woman opened her eyes, looked over us all as if making sure we were paying attention, then exclaimed -
 
@@ -17,11 +17,11 @@ The Cleopatra look-alike continued after a slight pause, "Congratulations! You a
 
 One of the people standing about, a tall wiry-thin blonde woman, quickly asked: "Where the f+ck am I?" - well, you took the words right out of my mouth there sister. Betty looked at the woman and answered without missing a beat, "You are currently in the Spawn Point for test subjects. The Spawn Point is located inside the Tutorial Dungeon. The Tutorial Dungeon is located in the memory region of the Simulation itself; it is, however, removed from the space and time constraints of the main program!"
 
-The blonde had her mouth hanging open. I noticed that after I managed to gather my own slack jaws. Before anyone else could ask anything else, I spoke up - "How do we get back home?". Betty's eyes, which were trained on the blonde so far, now bore into me. They seemed devoid of life for some reason. She spoke in her eerie voice again "To get out of the Tutorial, and the Simulation as a whole, you must be deleted; in other words, you must die." Not only did our mouths hang open again like a sinkhole, I felt several hearts skip a beat, or perhaps just mine skipping more than once. We all looked at each other, but no one spoke for a while.
+The blonde had her mouth hanging open. I noticed that after I managed to gather my own slack jaws. Before anyone else could ask anything else, I spoke up - "How do we get back home?" Betty's eyes, which were trained on the blonde so far, now bore into me. They seemed devoid of life for some reason. She spoke in her eerie voice again "To get out of the Tutorial, and the Simulation as a whole, you must be deleted; in other words, you must die." Not only did our mouths hang open again like a sinkhole, I felt several hearts skip a beat, or perhaps just mine skipping more than once. We all looked at each other, but no one spoke for a while.
 
-"Anoo... How are you flying?" a black-haired youth on my left asked. He had been gawking at Betty for a while. 'Quite the silver-lining kind of guy we have here; also she is not flying, just floating' I argued uselessly in my mind. Betty turned to him in her mechanical manner - I was glad she wasn't staring at me anymore and answered: "It is a spell that inverses gravity until the mass of my body is balanced off by the pull in either direction at an elevation of 2.73 meters off the ground". While that was a lot to chew on, I immediately caught on something - 'float SPELL?'. Apparently, the kid did as well - he was practically shaking with excitement. "*You can do magic?*" he asked. She replied again - perhaps it was only me, but it looked like she was expecting this question, "Why yes! Everyone in the Simulation can cast spells and do magic. Even you! Some classes are restricted to only using said spells while other classes can actively tweak other spells or create new ones entirely!". 'Classes? Magic? What...?'
+"Anoo... How are you flying?" a black-haired youth on my left asked. He had been gawking at Betty for a while. 'Quite the silver-lining kind of guy we have here; also she is not flying, just floating' I argued uselessly in my mind. Betty turned to him in her mechanical manner - I was glad she wasn't staring at me anymore and answered: "It is a spell that inverses gravity until the mass of my body is balanced off by the pull in either direction at an elevation of 2.73 meters off the ground." While that was a lot to chew on, I immediately caught on something - 'float SPELL?' Apparently, the kid did as well - he was practically shaking with excitement. "*You can do magic?*" he asked. She replied again - perhaps it was only me, but it looked like she was expecting this question, "Why yes! Everyone in the Simulation can cast spells and do magic. Even you! Some classes are restricted to only using said spells while other classes can actively tweak other spells or create new ones entirely!" 'Classes? Magic? What...?'
 
-"Ummm... Is there any other way of getting out of this... Simulation. Besides, you know, dying?" a fair doe-eyed girl asked from beside the blonde. "I'm afraid there isn't," Betty replied and continued eyeing the poor girl as if mocking her. While everyone digested that, I put in another question, "What are we supposed to do here?". To which Betty replied after setting her glare on me, "First, you must complete the Tutorial to get to the base level of human adults in the Simulation; once you finish the Tutorial and enter the Simulation, you are free to do as you wish".
+"Ummm... Is there any other way of getting out of this... Simulation. Besides, you know, dying?" a fair doe-eyed girl asked from beside the blonde. "I'm afraid there isn't," Betty replied and continued eyeing the poor girl as if mocking her. While everyone digested that, I put in another question, "What are we supposed to do here?" To which Betty replied after setting her glare on me, "First, you must complete the Tutorial to get to the base level of human adults in the Simulation; once you finish the Tutorial and enter the Simulation, you are free to do as you wish."
 
 ···
 
@@ -198,11 +198,11 @@ This back and forth went on for another 15 minutes I reckon, when people started
 
 "Ummm, what do you mean when you say the Mage class is nerfed? And what's this about attribute distribution?" I asked them instead. To which Taro replied, "Well if you focused on getting detailed info about a certain Class, you could see in-depth information about their capabilities, roles, and growth potentials. I say Mage is nerfed because that class does not get any skills as other classes do. They have to create spells on their own to use magic. Why would anyone want to do research here?," with a pause, he continued, "Also, all the attributes were lowest I could see compared to others - even craftsmen had a good 3 on most, except for intelligence. What's the point of starting with lots of mana when you can't even use it, right? And I don't even know how one would go about building customized spells - sounds like a lot of work to me." Taro concluded. All I could think of was - 'Well... sh+t'
 
-Carol chimed in, "Yeah, I even got 3 special effects for my class. I believe Mage had only one. What skills did you get for the Knight, Taro...". The conversation continued; eventually, the rest of the girls joined in. Arya took the Healer class, Julie the Archer. Finally, Divin joined in too. Apparently, he had taken the Knight class as well. There was a bit of hubbub over there not being any Craftsman, but I was too engaged in cursing my own stupidity and impatience to notice much of what was being said at the moment.
+Carol chimed in, "Yeah, I even got 3 special effects for my class. I believe Mage had only one. What skills did you get for the Knight, Taro..." The conversation continued; eventually, the rest of the girls joined in. Arya took the Healer class, Julie the Archer. Finally, Divin joined in too. Apparently, he had taken the Knight class as well. There was a bit of hubbub over there not being any Craftsman, but I was too engaged in cursing my own stupidity and impatience to notice much of what was being said at the moment.
 
 ···
 
-After a while, I told them that I had taken the Mage class. Thankfully, all I got were a few confused looks. It seems that the attributes were also dependent on the class. As such, the Knight class had a 'Vigor' attribute that resulted in extra HP regeneration, while the Scout had 'Stealth' attribute - I had neither. Arya had an 'Attunement' that affected the rate of healing applied to others. I realized I had no clue what effects attributes had, so I excused myself and took another look at the Status Window, this time willing it to show me attribute description.
+After a while, I told them that I had taken the Mage class. Thankfully, all I got were a few confused looks. It seems that the attributes were also dependent on the class. As such, the Knight class had a 'Vigor' attribute that resulted in extra HP regeneration, while the Scout had 'Stealth' attribute - I had neither. Healer had an 'Attunement' that affected the rate of healing applied to others. I realized I had no clue what effects attributes had, so I excused myself and took another look at the Status Window, this time willing it to show me attribute description.
 
 ---
 
@@ -214,7 +214,7 @@ After a while, I told them that I had taken the Mage class. Thankfully, all I go
 | Dexterity    | Movement Range                            |
 | Intelligence | Mana Points                               |
 | Perception   | Magical attack range                      |
-| Wisdom       | Magical attack defense |
+| Wisdom       | Magical attack damage dealt and received  |
 
 ---
 
@@ -224,7 +224,7 @@ I see. I have no special health regeneration; and every monster and their mother
 
 A dream is only a dream after you wake up. While you are dreaming, it becomes your reality. I believe all of us here had taken being kidnapped quite well, considering everything. At least no one broke down. I could tell Carol was putting up a brave front. Taro was actively enjoying it. Julie was still on the fence about whether to laugh or cry, but she was distracting herself by taking charge. Arya was silently sulking. I couldn't get a read on Divin though. As for me? I was wondering what my folks at home would be up to, they must've lost it by now. I decided to ask the Betty about it, not expecting an answer, "Hey, what about the people back on our planet, surely they would've noticed us missing?" Surprisingly, I got a response. "The Simulation is not subject to the space-time constraints of your world; just like the Tutorial is separate from the Simulation, the Simulation is separate from your reality." 'Ah, makes sense. It is like time has stopped there, eh?'
 
-We gathered around Betty, ready to go where fate would lead us. Julie was just about to say something when Betty spoke up again - "So, you have all got your Classes, allow me to lend your starting equipment!" So saying, she raised her hand and down came a stream of light in front of each of us. Two swords in front of Taro and Divin, a bow and quiver full of arrows in front of Julie, a dagger for Carol and staff for Arya. I got nothing. "Ummm, my equipment seems to be missing?" I queried. "Mages don't need a physical weapon to attack," she said. 'What, are you kidding me?'. "At least, give me a dagger or something, just in case!" I begged. "I'm afraid I cannot". I looked around and got only sympathetic looks. I didn't give up though, "But I do not know any magic spells. How am I supposed to defend myself?". "I'd recommend creating a spell," she said. "I didn't really go to Hogwarts, you know. I have absolutely no clue how to go about making or using a spell!" I bit back. "While I do not have the data of how you should create your spell, I am certain you must use your Status Window to create one. For reference, allow me to upload my floating spell into your repository..."
+We gathered around Betty, ready to go where fate would lead us. Julie was just about to say something when Betty spoke up again - "So, you have all got your Classes, allow me to lend your starting equipment!" So saying, she raised her hand and down came a stream of light in front of each of us. Two swords in front of Taro and Divin, a bow and quiver full of arrows in front of Julie, a dagger for Carol and staff for Arya. I got nothing. "Ummm, my equipment seems to be missing?" I queried. "Mages don't need a physical weapon to attack," she said. 'What, are you kidding me?'. "At least, give me a dagger or something, just in case!" I begged. "I'm afraid I cannot." I looked around and got only sympathetic looks. I didn't give up though, "But I do not know any magic spells. How am I supposed to defend myself?" "I'd recommend creating a spell," she said. "I didn't really go to Hogwarts, you know. I have absolutely no clue how to go about making or using a spell!" I bit back. "While I do not have the data of how you should create your spell, I am certain you must use your Status Window to create one. For reference, allow me to upload my floating spell into your repository..."
 
 I opened up my Status Window again and immediately noticed that the tilde (~) symbol at the bottom was bold. I focused on it and a terminal-like screen opened up. It was blank save for one line:
 
@@ -266,7 +266,7 @@ Holy Sh+t! Is this awesome or what? Editing with literal thoughts. These guys ha
 
 It took me a minute to wrap my head around this, but eventually, I calmed down. I looked at the float spell again. It took an argument of 'o'. 'Perhaps I could give a target to the fireball with an argument? How do I actually throw a ball of fire anyway? Wish there was a manual page I could refer to - man, do I miss the internet! Oh wait, I have a literal AI chatbot by my side. Let's see if I can scrape something out of her. It is only a matter of asking the right questions!'
 
-"Hey Betty, do you know how I can create a fireball spell?" I asked a straight question, not expecting an answer. I wasn't disappointed. "I'm afraid I do not," she said. "So, how do I interact with the environment?" I continued. "You must use the environment variables," she replied. For a moment I thought she was having a laugh. She wasn't. 'OK good, got something' "How do I list the environment variables?" I asked. "I'm afraid I cannot answer that". 'Hmm... Would've been nice if you could' I decided to change the phrasing slightly, "How do I *use* the environment variables?". "You can modify the environment variables in your spell by focusing your intent inside the Status Window". 'Damn, no luck. Wait, how did she pass an argument to her float spell?' like a light bulb went off in my head, I was almost giddy when I asked her "Can you show me how you cast the float spell?" In retrospect, this should have been my first question, but I wasn't going to demean myself. While I was wondering about my shortcomings, she changed from her wisp form back to Cleopatra. I leveled a hard stare, not willing to miss a single twitch or whisper out of her. And then, she cast the float spell.
+"Hey Betty, do you know how I can create a fireball spell?" I asked a straight question, not expecting an answer. I wasn't disappointed. "I'm afraid I do not," she said. "So, how do I interact with the environment?" I continued. "You must use the environment variables," she replied. For a moment I thought she was having a laugh. She wasn't. 'OK good, got something' "How do I list the environment variables?" I asked. "I'm afraid I cannot answer that." 'Hmm... Would've been nice if you could' I decided to change the phrasing slightly, "How do I *use* the environment variables?" "You can modify the environment variables in your spell by focusing your intent inside the Status Window." 'Damn, no luck. Wait, how did she pass an argument to her float spell?' like a light bulb went off in my head, I was almost giddy when I asked her "Can you show me how you cast the float spell?" In retrospect, this should have been my first question, but I wasn't going to demean myself. While I was wondering about my shortcomings, she changed from her wisp form back to Cleopatra. I leveled a hard stare, not willing to miss a single twitch or whisper out of her. And then, she cast the float spell.
 
 ## Chapter 4 - Gesture Input
 
@@ -359,7 +359,7 @@ Just as the healing stopped, Carol pushed the slime in Divin's direction. He fro
 
 "Well, as I said, that is simply because I am doing so much healing; all on my own too!" (Arya defended)
 
-"Out of curiosity, how much point have you guys gained?" (Me)
+"Out of curiosity, how many points have you guys gained?" (Me)
 
 "I've got 36" (Taro) "32 here" (Carol) "29 for me" (Julie) "35" (Divin, after a while)
 
@@ -391,7 +391,7 @@ I was dumbstruck. The others were no better off. They were looking at the core w
 
 "Um, shouldn't we break the core?" I eventually asked. Carol moved as if in a daze and stabbed it with a dagger. My Status Window showed I had earned 11 experience points. Everyone seemed to wake up from their dreams, with varied expressions on their face.
 
-"Man, what was that? Incendio? OP skill man, how much mana does it take?," Taro was excited beyond words. "It takes all the considerable mana I have. It's not a skill though, more of a spell" I replied, arguing semantics for no reason. "Still, it was awesome!". 'I agree, it was.' "Now we don't have to stab one a billion times to kill it. That is some nice spell" Julie interjected. 'I agree, it is'. "Did you all get experience points from that one as well?" I asked. "Nah, only I got 'em," Carol said, "only 3 though. Since you did the most damage. You gotta contribute to the fight somehow to get some, even if you don't directly hit anything. You get points according to your contribution." she concluded. "So, you guys still have to fight then," I wondered aloud. "Yes," Divin said, "but it is different now. First, we all will take shots at it. Then you explode it. Then one of us finishes it off. Much more efficient." I was of the same mind. That being said, I can't be out of the fight after a single spell - one that may or may not even work. I decided to revert to my temperature double for the time being. If I paced myself properly, I could fight continuously for however long my mana and stamina held. 'Perhaps one spell every couple minutes. Yeah, that would work.'
+"Man, what was that? Incendio? OP skill man, how much mana does it take?," Taro was excited beyond words. "It takes all the considerable mana I have. It's not a skill though, more of a spell" I replied, arguing semantics for no reason. "Still, it was awesome!" 'I agree, it was.' "Now we don't have to stab one a billion times to kill it. That is some nice spell" Julie interjected. 'I agree, it is'. "Did you all get experience points from that one as well?" I asked. "Nah, only I got 'em," Carol said, "and only 3 though. Since you did the most damage. You gotta contribute to the fight somehow to get some, even if you don't directly hit anything. You get points according to your contribution." she concluded. "So, you guys still have to fight then," I wondered aloud. "Yes," Divin said, "but it is different now. First, we all will take shots at it. Then you explode it. Then one of us finishes it off. Much more efficient." I was of the same mind. That being said, I can't be out of the fight after a single spell - one that may or may not even work. I decided to revert to my temperature double for the time being. If I paced myself properly, I could fight continuously for however long my mana and stamina held. 'Perhaps one spell every couple minutes. Yeah, that would work.'
 
 ···
 
@@ -403,11 +403,11 @@ No one knew how much time went by. The sky was still dusky. We weren't hungry or
 
 We had gathered around Arya, as she stood scrutinizing her updated Status Window. When she was done, we all looked at her expectantly.
 
-"Well, there isn't much actually. Nothing new." she grumbled, "I just got an extra point on all my attributes. My stats have increased a bit as well. That's all."
+"Well, there isn't much actually. Nothing new," she grumbled, "I just got an extra point on all my attributes. My stats have increased a bit as well. That's all."
 
 "No new skills?" Taro asked. "None" she replied.
 
-"What about a class upgrade? Did you get that?" I questioned. She replied in a negative. 'On second thoughts, what is a class upgrade anyway?' Apparently, Divin thought the same, as he questioned Betty about it. "So what *is* as a class upgrade and how do we get it?"
+"What about a class upgrade? Did you get that?" I questioned. She replied in a negative. 'On second thoughts, what is a class upgrade anyway?' Apparently, Divin thought the same, as he questioned Betty about it. "So what *is* a class upgrade and how do we get it?"
 
 Betty's wispy form shone brightly for a split second, then she said, "Where a Level Upgrade is a quantitative change in your Class, a Class Upgrade is a qualitative one. There are 5 upgrades that you can get every 5 Level Ups starting with Novice at Level 0, Competent on Level 5, Proficient on Level 10, Expert on Level 15, finally Master on Level 20."
 
@@ -502,7 +502,7 @@ The conversation tapered off after that. This time though, the people did less w
 
 ···
 
-I wasn't particularly thirsty. But for some reason, I craved water. Never in my life had I been through such an onerous exercise and did not need a drop of water. It felt weird. I also wanted some food. Not that I was hungry. I wondered how long it had been since I last ate. In fact, I asked Betty, "Hey Betty, how long have we been in this Tutorial?". She replied "16 hours and 43 minutes". 'Not even a day has passed? I feel like I've been here for eons. Damn!'
+I wasn't particularly thirsty. But for some reason, I craved water. Never in my life had I been through such an onerous exercise and did not need a drop of water. It felt weird. I also wanted some food. Not that I was hungry. I wondered how long it had been since I last ate. In fact, I asked Betty, "Hey Betty, how long have we been in this Tutorial?" She replied "16 hours and 43 minutes." 'Not even a day has passed? I feel like I've been here for eons. Damn!'
 
 The others were shocked as well. Taro had a particularly funny look on his face. 'Time dilation affects us mentally too, eh?' I joked to myself.
 
@@ -528,7 +528,7 @@ I decided I'd rather catch a shut-eye, even if I didn't need it. I closed my eye
 
 ···
 
-Julie was the first to move. "We should get going," she said. Probably more for her own sake than others. We all got up. There was no way but through.
+Julie was the first to move. "We should get going," she said. Probably more for her own sake than others. We all got up. There was no way out but through.
 
 While it was true that we didn't *need* sleep when speaking in terms of stats and points, but as humans, it certainly helped a lot. Of course, we didn't wake up filled with happiness or anything of the sort. Things just seemed... More manageable, somehow. No one commented on Carol's puffy eyes. I personally felt slightly chipper now than I did before.
 
@@ -598,7 +598,7 @@ About halfway through the ruin - well I assumed it was halfway because we were w
 
 The mêlée combatants of our group were raking in XP. I bet Carol must have gained several times than the rest with her solo kills. Oh, the rest didn't include Arya, she was an outlier. I was proved correct soon when she leveled up again. I checked my Status Window, I still needed about 55 XP. At least I was ahead of Julie. Not that it mattered, I doubt we'd leave anyone behind. 'Would we not, if it really came to it?' I wondered.
 
-It must've been our twelfth ambush when I noticed something that hadn't happened before. A particularly large imp, largest so far, had decided to have a go at the arrow. When Carol jammed her dagger into its throat, it was momentarily aflame like normal, but it didn't leave behind just ashes. When the flames died out, we saw an old boot lying on the ground. 'Is that a monster drop?' I was amazed. This was so game-like. I did not, however, put the old boot into my inventory. First, I didn't need it. Second, I had no inventory The others ignored it as well, after the initial curious glance or two. The incoming horde of imps also demanded our attention.
+It must've been our twelfth ambush when I noticed something that hadn't happened before. A particularly large imp, largest so far, had decided to have a go at the arrow. When Carol jammed her dagger into its throat, it was momentarily aflame like normal, but it didn't leave behind just ashes. When the flames died out, we saw an old boot lying on the ground. 'Is that a monster drop?' I was amazed. This was so game-like. I did not, however, put the old boot into my inventory. First, I didn't need it. Second, I had no inventory. The others ignored it as well, after the initial curious glance or two. The incoming horde of imps also demanded our attention.
 
 ···
 
@@ -606,7 +606,7 @@ It must've been our twelfth ambush when I noticed something that hadn't happened
 
 "So, which university in Ireland do you go to?" I continued. "Ah, ya know. I am *from* Ireland, but my college is in the England. I've been staying there since last year" she said. "Cool... What about you Arya, what do you do?" I turned to Arya. Julie, Taro, and Divin where on a lookout of sorts. They were also verifying our heading, making sure we weren't going around in circles. Since it was troublesome for only one to go, we had split up in 2 groups. Arya, Carol, and I were holding the fort with one half of Betty. Also, Arya was healing our minor wounds from a recent scuffle. "I'm a fashion designer," she said. Arya wasn't as tight-lipped as she was before. Now that I looked at her closely, she was quite pretty as well. "Artistic eh? Nice." I said. While I noticed a small scratch on the back of my hand mend, Carol asked Arya about her hometown. "Oh, I'm from Canada. Well, technically, I was born in India, but my family moved to Canada when I was 6. Been there for almost 20 years now."
 
-'Americas, Europe, Africa, Asia' I guess we're missing members only from Australia. I doubt Antarctica would be considered anyway. Uniform distribution, for sure. "So you're a Programmer then?" Arya brought me out of my contemplation. "Ah yes, I work as a Software Developer," I said. "Then, can I ask you for a favor?" Arya said in a slightly flustered tone. "Oh, of course. What is it?" I asked. I could already imagine what it could be. "I want to learn how to create customized spells. I gather you've already created a couple. How hard is it?" she asked, growing quite interested. "Well, it's not hard in the sense of creating one. It's more a matter of information shortage that holds you back here." I said. I wondered if I could've worded it better. I tried again, looking at her confused expression. "I mean, it is easy to write a spell, as long as you have the information you need to write one. It's like... Well, writing a recipe. Writing the recipe itself is not the problem. The issue is we don't know what ingredients we have." I explained. "So how do we find the ingredients?" came the obvious question. "Now that... That is a very good question".
+'Americas, Europe, Africa, Asia' I guess we're missing members only from Australia. I doubt Antarctica would be considered anyway. Uniform distribution, for sure. "So you're a Programmer then?" Arya brought me out of my contemplation. "Ah yes, I work as a Software Developer," I said. "Then, can I ask you for a favor?" Arya said in a slightly flustered tone. "Oh, of course. What is it?" I asked. I could already imagine what it could be. "I want to learn how to create customized spells. I gather you've already created a couple. How hard is it?" she asked, growing quite interested. "Well, it's not hard in the sense of creating one. It's more a matter of information shortage that holds you back here." I said. I wondered if I could've worded it better. I tried again, looking at her confused expression. "I mean, it is easy to write a spell, as long as you have the information you need to write one. It's like... Well, writing a recipe. Writing the recipe itself is not the problem. The issue is we don't know what ingredients we have." I explained. "So how do we find the ingredients?" came the obvious question. "Now that... That is a very good question."
 
 ···
 
@@ -628,7 +628,7 @@ As we graced the entrance of Level 2 we were treated to a landscape filled with 
 
 This time, Carol took the initiative. She decided to silent her footsteps and tentatively went ahead scanning around in all directions. While I wasn't going to suggest the girl go ahead and check for monsters, as a scout, I guess that was her prerogative. Wise, even. No one spoke out loud but gave their silent consent. She advanced about 10 meters ahead of us. 'Baby steps now, can't have her go out all alone, scout or not.'
 
-Suddenly Betty announced, "This is Level 2 of the Tutorial Dungeon - The Kin of Sobek". The kin of what now? And why did she announce it now? We hadn't even seen anything. Wait. 'Maybe she doesn't announce it when we see something. Maybe she does it when *somethings sees us*!' We stopped walking. Carol was shaking like a leaf, having come to a similar conclusion, I deduced. Or perhaps she knew what a Sobek was? I wanted to ask Betty what it meant, but I was too busy scanning for the thing, praying it won't come out of the ground or something. Just as I was about to suggest moving on, Julie screamed and took off back to the entrance. Everyone panicked and made a mad dash behind her. Soon enough we were back, poor Carol sweating from head to toe. "What the hell?" she screamed between quick pants.
+Suddenly Betty announced, "This is Level 2 of the Tutorial Dungeon - The Kin of Sobek." The kin of what now? And why did she announce it now? We hadn't even seen anything. Wait. 'Maybe she doesn't announce it when we see something. Maybe she does it when *somethings sees us*!' We stopped walking. Carol was shaking like a leaf, having come to a similar conclusion, I deduced. Or perhaps she knew what a Sobek was? I wanted to ask Betty what it meant, but I was too busy scanning for the thing, praying it won't come out of the ground or something. Just as I was about to suggest moving on, Julie screamed and took off back to the entrance. Everyone panicked and made a mad dash behind her. Soon enough we were back, poor Carol sweating from head to toe. "What the hell?" she screamed between quick pants.
 
 ···
 
@@ -726,7 +726,7 @@ As we watched it amble towards us languidly, we realized that the thing moved as
 
 ---
 
-Before I could process what was written on the screen, my caution overwhelmed my curiosity. The crocodile was no more than 5 meters ahead of me and I wasn't about to let it get any closer. With my palm already pointing at its snout, I spoke in a loud voice the name of my most damaging spell - "INCENDIO!".
+Before I could process what was written on the screen, my caution overwhelmed my curiosity. The crocodile was no more than 5 meters ahead of me and I wasn't about to let it get any closer. With my palm already pointing at its snout, I spoke in a loud voice the name of my most damaging spell - "INCENDIO!"
 
 ···
 
@@ -782,11 +782,11 @@ Apparently, I was correct, but the difference in XP wasn't as big as I had imagi
 
 'Except Arya. I wonder how she will get to level 3 here without having to heal?'
 
-I was looking at her as I thought that when she cast a heal upon herself. She must've noticed my questioning gaze, because she replied, "Ah, I don't have to heal actual wounds to get XP. If I just cast the spell, I get a little XP as well. It's much less, but it's something." If that is not a cheat power, I don't know what is. 'Wait, hey. Why can't I get XP when I cast my spells out of combat?'. I asked her, "Do you get XP for Identify as well?" "No, just for Heal," she said with an apologizing tone. 'Of course, it is like that. Just you wait, system, I am gonna hack the sh+t out of you.' This unfair treatment lit a different fire in my heart. It burned just as bright as the one asking me to get home. However, this one was different. It was the same one I always got when faced with a tough challenge.
+I was looking at her as I thought that when she cast a heal upon herself. She must've noticed my questioning gaze, because she replied, "Ah, I don't have to heal actual wounds to get XP. If I just cast the spell, I get a little XP as well. It's much less, but it's something." If that is not a cheat power, I don't know what is. 'Wait, hey. Why can't I get XP when I cast my spells out of combat?' I asked her, "Do you get XP for Identify as well?" "No, just for Heal," she said with an apologizing tone. 'Of course, it is like that. Just you wait, system, I am gonna hack the sh+t out of you.' This unfair treatment lit a different fire in my heart. It burned just as bright as the one asking me to get home. However, this one was different. It was the same one I always got when faced with a tough challenge.
 
 'Speaking of, is there a role-based structure in this system as well? Gotta be, given how closely it resembles our world's technology. There must be root access as well'.
 
-I decided to put the thought in the back of my mind for now. Everyone else had checked their attributes and stats as well. We decided to move on and explore the caves while our mana and stamina recovered. 'If this is how the fight against every crocodile goes, then this might just be the easiest level so far', I mused.
+I decided to put the thought in the back of my mind for now. Everyone else had checked their attributes and stats as well. We decided to move on and explore the caves while our mana and stamina recovered. 'If this is how the fight against every crocodile goes, then this might just be the easiest level so far,' I mused.
 
 ···
 
@@ -794,7 +794,7 @@ The greatest difficulty in this level was not the fight against a monster; it wa
 
 So we moved around cautiously. Myself, Carol and Julie in the front. Flanked just behind by the rest. I did not appreciate being in the front again but I had the ability to slow down the opponent, so I did not complain. Funnily enough, the road to the next level was always perceivable. The ruins were much worse. I wondered what would happen if the Imp hordes attacked us on this terrain. We would be done for. Whoever designed this tutorial was being very generous.
 
-Suddenly, Carol exclaimed, "There, on your right. See behind that rock? Me thinks that is a tail". She was right. Her speech was getting weirder by the minute though. Another monster was sleeping behind a rock quite close to us. As we explored the region, I had come to the conclusion that while Julie's sight was quite amazing, Carol was better at discerning things. Especially if they were close by.
+Suddenly, Carol exclaimed, "There, on your right. See behind that rock? Me thinks that is a tail." She was right. Her speech was getting weirder by the minute though. Another monster was sleeping behind a rock quite close to us. As we explored the region, I had come to the conclusion that while Julie's sight was quite amazing, Carol was better at discerning things. Especially if they were close by.
 
 Now that we had glimpsed our prey, we quickly changed formation. I still stayed at the front though. Julie and Arya moved behind the rest. Taro and Divin covered me, while Carol went ahead to do her thing.
 
@@ -818,7 +818,7 @@ It is amazing how adaptable we human beings are. The constant fight against the 
 
 That was why it wasn't long before we located the exit. This Dungeon probably went in a straight line, it seemed. We had just killed our twelfth crocodile. I reached level 3 first this time, quickly followed by the rest. Arya was still at level 2 though.
 
-We made for the exit. Another bridge, the same as last. We went ahead and decided to rest while Arya gained her XP. I wasn't feeling like napping again. The stone floor wasn't so welcoming anyway. I decided to go for another trial and error session. This time with a different objective. I looked at Arya casting Heal on herself in succession, then waiting to recover mana. She looked at me as well, "Another spell?" she queried. "Well, not really. More like meta-spell." I answered. 'Man, I suck at explaining things'. "A meta-spell?," she shot back. "How do I explain it? Ummm... Well, never mind. I'll show you when I'm done," I took the easy way out. She chuckled an okay and I opened my Status Window Editor. I cracked my knuckles, cranked my neck, took a deep breath, muttered to myself 'Here goes nothing', and dived right in!
+We made for the exit. Another bridge, the same as last. We went ahead and decided to rest while Arya gained her XP. I wasn't feeling like napping again. The stone floor wasn't so welcoming anyway. I decided to go for another trial and error session. This time with a different objective. I looked at Arya casting Heal on herself in succession, then waiting to recover mana. She looked at me as well, "Another spell?" she queried. "Well, not really. More like meta-spell." I answered. 'Man, I suck at explaining things.' "A meta-spell?" she shot back. "How do I explain it? Ummm... Well, never mind. I'll show you when I'm done," I took the easy way out. She chuckled an okay and I opened my Status Window Editor. I cracked my knuckles, cranked my neck, took a deep breath, muttered to myself 'Here goes nothing', and dived right in!
 
 ## Chapter 13 - Timing Attack
 
@@ -840,7 +840,7 @@ I was almost certain that it would work but still sighed in relief. Then I quick
 test = sudo echo "Hello, World!"
 ```
 
-I took a deep breath. Crossed my fingers. Whispering with my eyes closed, "Test". I opened a single eye slowly and my lips unconsciously curled into a smile.
+I took a deep breath. Crossed my fingers. Whispering with my eyes closed, "Test" I opened a single eye slowly and my lips unconsciously curled into a smile.
 
 ---
 
@@ -874,7 +874,7 @@ I took a deep breath. Crossed my fingers. Whispering with my eyes closed, "Test"
 
 ···
 
-'Brute force? Nah, I don't have the time. Hmm, will it be susceptible to attacks though? Even our Earth systems are so air-tight for the most part, this is an alien super system we are talking about'. I was pessimistic. Good thing I had nothing but time on my hand. I decided to give it a try.
+'Brute force? Nah, I don't have the time. Hmm, will it be susceptible to attacks though? Even our Earth systems are so air-tight for the most part, this is an alien super system we are talking about.' I was pessimistic. Good thing I had nothing but time on my hands. I decided to give it a try.
 
 ---
 
@@ -886,7 +886,7 @@ I added the password with a thought. The window just vanished. No 'Hello, World!
 
 More determined than ever, I tried several more variations. No dice.
 
-'I can't manually keep entering a password. A few more and I'll forget what I entered previously. Nor would I be able to cover all the characters'. With that thought, I decided to automate it.
+'I can't manually keep entering a password. A few more and I'll forget what I entered previously. Nor would I be able to cover all the characters.' With that thought, I decided to automate it.
 
 ```sh
 test = (while (true) (echo "password" | sudo -S echo "password worked!"))
@@ -894,7 +894,7 @@ test = (while (true) (echo "password" | sudo -S echo "password worked!"))
 
 I cast the spell. One mana point down. I didn't see the window prompting for the password. Another second down, another mana point gone.
 
-'What is this? A background job? I see. Since the system is unable to determine how many resources this spell will consume, it is taking it in as it requires. But this won't do. I'm checking for the same thing over and over again. Also, I will be down to zero in fifteen minutes at this rate! And if I add checks for all combinations, god knows how long it will take', as I fretted over the issue, another idea popped into my mind. 'What if...?'
+'What is this? A background job? I see. Since the system is unable to determine how many resources this spell will consume, it is taking it in as it requires. But this won't do. I'm checking for the same thing over and over again. Also, I will be down to zero in fifteen minutes at this rate! And if I add checks for all combinations, god knows how long it will take,' as I fretted over the issue, another idea popped into my mind. 'What if...?'
 
 ```sh
 test = (i = 0; while (i <= 255) (str = getChar[i++]; echo "$str $(time)" >> testFile; echo $str | sudo -S echo $str "worked!" ))
@@ -904,7 +904,7 @@ getChar i = awk 'BEGIN{printf "%c," i}'
 time = date +%s%N
 ```
 
-I ran each function and made sure everything worked. Funny it had all the utilities. By the time I was done, Arya was looking fixedly at me again. "You were gone for a while just now. What were you doing?" she queried. I was getting used to her being a curious cat by now, so I simply replied. "I'm trying something. If it works, I can modify it to get the password. Quite a shot in the dark though, I don't expect much," I sated her curiosity, "Are you done?" I queried in return. "Yep, I'm level 3 now!" she exclaimed. "Congratulations," I muttered, "Should we wake the others now or do you wanna rest some?" "Nah, let's get going," she declared. And so, we woke the others and got going.
+I ran each function and made sure everything worked. Funny it had all the utilities. By the time I was done, Arya was looking fixedly at me again. "You were gone for a while just now. What were you doing?" she queried. I was getting used to her being a curious cat by now, so I simply replied: "I'm trying something. If it works, I can modify it to get the password. Quite a shot in the dark though, I don't expect much," I sated her curiosity, "Are you done?" I queried in return. "Yep, I'm level 3 now!" she exclaimed. "Congratulations," I muttered, "Should we wake the others now or do you wanna rest some?" "Nah, let's get going," she declared. And so, we woke the others and got going.
 
 
 ## Chapter 14 - Avian Prosecution (1)
@@ -915,7 +915,7 @@ Slimes, Chimps, Crocs, and now... Birds? Almost anticlimactic. The terrain was a
 
 "This is Level 3 of the Tutorial Dungeon - The Nekhbet Copse!," Betty announced.
 
-"These birds... They are vultures, aren't they?," Taro asserted. 'Damn right they are. Let's just ignore the chatbot and her dramatic naming sense', I thought.
+"These birds... They are vultures, aren't they?" Taro asserted. 'Damn right they are. Let's just ignore the chatbot and her dramatic naming sense,' I thought.
 
 We were a bit ahead of the entrance. The shock that sneaky crocs had given us made our progress cautious but slow. Seemed like it was for naught, as our opponents were out and about, causing a ruckus with their hisses and whines. I have never heard a vulture sound before but I'm betting they aren't as loud as these.
 
@@ -923,7 +923,7 @@ We were a bit ahead of the entrance. The shock that sneaky crocs had given us ma
 
 After some discussion, we decided to let the knights take point. Carol just behind them. Julie went at the end of the formation. Arya and I stood back, deciding to not interfere this time.
 
-Soon, the tree was within shooting distance of the vanguard. Julie notched her arrow and fired at the largest vulture in the group. The birds suddenly went quiet. Her target was near the top of the tree. Her arrow landed about a couple of meters below it. 'Getting good', I thought. She *was* a fair distance away from her target, so it was impressive.
+Soon, the tree was within shooting distance of the vanguard. Julie notched her arrow and fired at the largest vulture in the group. The birds suddenly went quiet. Her target was near the top of the tree. Her arrow landed about a couple of meters below it. 'Getting good,' I thought. She *was* a fair distance away from her target, so it was impressive.
 
 The birds weren't impressed, however. With a low guttural hiss, the big guy swooped down and headed towards Julie. The rest of the flock of perhaps ten to fifteen followed behind it.
 
@@ -987,7 +987,7 @@ petrificus_slowly x = (while (true) x.temperature--)
 
 As I was about to add another function to increase the temperature, I heard Divin call out to me. He had sneaked close while I was looking into the window. The rest were still frolicking about below the tree. I was more surprised by the fact that he took initiative to call me out. "Hey, what's up?" I queried.
 
-"What were you and Arya talking about?" he asked with a straight face. I did not understand what he was talking about. Perhaps noticing my befuddlement, he elaborated, "On the last bridge and the one before, when the rest of us were sleeping". 'I guess not all of you were sleeping, eh?' I thought to myself. "Ah that. You see she and I, being a Healer and Mage, can access our editors to create new spells. That is what we were discussing. Everything okay?" I asked. "Yes," he said impassively and walked away. 'What that was about?' I wondered.
+"What were you and Arya talking about?" he asked with a straight face. I did not understand what he was talking about. Perhaps noticing my befuddlement, he elaborated, "On the last bridge and the one before, when the rest of us were sleeping." 'I guess not all of you were sleeping, eh?' I thought to myself. "Ah that. You see she and I, being a Healer and Mage, can access our editors to create new spells. That is what we were discussing. Everything okay?" I asked. "Yes," he said impassively and walked away. 'What that was about?' I wondered.
 
 I decided to move as well, we had birds to hunt!
 
@@ -1026,7 +1026,7 @@ Despite all that, our spirits were high. There was no threat of an ambush or dea
 
 ---
 
-'Whoa, 1000 mana? That's a good number!' A quick check on spells after recovering some mana revealed my range was now around 9 meters. Incendio consumed 250 points, while Petrificus ate 200. 'That means I can reduce the temperature by half five times... If it is 100, it will come down to 3 degrees!?! Nah, that'll never work though'. I was now quite clear on the workings of these spells. If it seemed too good to be true, it probably was.
+'Whoa, 1000 mana? That's a good number!' A quick check on spells after recovering some mana revealed my range was now around 9 meters. Incendio consumed 250 points, while Petrificus ate 200. 'That means I can reduce the temperature by half five times... If it is 100, it will come down to 3 degrees!?! Nah, that'll never work though.' I was now quite clear on the workings of these spells. If it seemed too good to be true, it probably was.
 
 ···
 
@@ -1042,7 +1042,7 @@ In sharp contrast to Julie was Taro. I have never seen that guy seem down in the
 
 Speaking of Carol, she was no longer upset. Or she was hiding it pretty well. Either way, I was spot on about her personality. She conversed with everyone about everything. Even Divin! I wondered how she managed that. During battle though, she was the most focused of any of us. I had a slightly irrational fear of her daggers in my heart. She was fun to talk to though; she and I were even cracking bad jokes now and then.
 
-Almost everyone laughed at those jokes or at least smiled slightly if not outright giggle. Everyone except Divin. I have been with this guy for over a week now and still can't figure out what's going on in his nugget. After our talk last time, he hadn't spoken to me about it again. Almost as if it never happened. His skill, however, was solid. Despite being a front-liner, he seemed to be taking a supporting role. Sure he killed many more than myself and Arya combined. But he rarely went in for the kill. His freeze skill came in quite handy though. Sure it didn't freeze as much or as fast as my spell, but it worked quite well nonetheless.
+Almost everyone laughed at those jokes or at least smiled slightly if not outright giggle. Everyone except Divin. I have been with this guy for over a week now and still can't figure out what's going on in his nugget. After our talk last time, he hadn't spoken to me about it again. Almost as if it never happened. His skill, however, was solid. Despite being a front-liner, he seemed to be taking a supporting role. Sure he killed many more than myself and Arya combined. But he rarely went in for the kill. His freeze skill came in quite handy though. It didn't freeze as much or as fast as my spell, but it worked quite well nonetheless.
 
 Our progress was efficient. A while after me, Carol leveled up. Immediately following her, Taro did as well. Divin soon joined the club. Only Julie was left in level 3, but she was pretty close as well. A third of her arrows were gone.
 
@@ -1066,7 +1066,7 @@ I wasn't asleep for long when I woke up again. Perhaps it was the constant fight
 
 Before she could answer though, Taro was up. We looked at him, he smiled in return before sneaking over to us and whispering, "I hope its a volcano! Also, we can fight a dragon there."
 
- 'This guy!' I suppressed a chuckle. "You know we are barely able to fight vultures here, if a dragon comes up, we're dead meat". I could see his eyes were still shining. 'I would like to see a dragon though'.
+ 'This guy!' I suppressed a chuckle. "You know we are barely able to fight vultures here, if a dragon comes up, we're dead meat." I could see his eyes were still shining. 'I would like to see a dragon though'.
 
 We did such small talk until eventually, Julie woke up. Divin, who I assumed was pretending to sleep, woke up as well. Not Carol though, we had to drag her back from her dreamland.
 
@@ -1076,7 +1076,7 @@ We made our march to the entrance of level 4. Even from the bridge, I could see 
 
 As we stepped past the entrance and inched our way towards the trees, I noticed that this level was slightly different than all the previous ones. The dusky light that had accompanied us so far seemed to have given way to darker shades of itself. A heavy fog hung over the arena, getting denser inside the trees. The trees themselves were rooted quite close together and looked uninviting. Unlike the withered old bunch of the last level, these ones were teeming with vitality. Dark green leaves swayed silently to the tender breeze that shifted the fog ever so slightly. The terrain felt alive. Dangerously so.
 
-Everyone else was similarly affected. Carol no longer dared to go ahead to scout. We were all bunched together, moving as one organism. Poor strategy for combat but no one suggested otherwise. As we stood a few steps before the first tree, a slight hesitation numbed our progress. 'Should we just head inside? Is there any way to scout? What if we get ambushed? There is no way to counter here.' Worried plagued my mind. I wondered what sort of monsters inhabited such a dark and intense place.
+Everyone else was similarly affected. Carol no longer dared to go ahead to scout. We were all bunched together, moving as one organism. Poor strategy for combat but no one suggested otherwise. As we stood a few steps before the first tree, a slight hesitation numbed our progress. 'Should we just head inside? Is there any way to scout? What if we get ambushed? There is no way to counter here.' Worries plagued my mind. I wondered what sort of monsters inhabited such a dark and intense place.
 
 "Should we just... Get on with it?" Julie whispered. True, there was a small track going through the woods. 'Thank the creators for this mercy!' "We don't have any other choice," Taro mumbled. Unfortunately, the track was small enough that only 2 people could fit in tightly across. Little discussion was required before we fell into formation - Taro and Divin up front, myself and Arya in the middle, and Carol and Julie covering the rear. Arya had loaned her staff to Julie. Everyone had their weapons drawn.
 
@@ -1112,7 +1112,7 @@ Just as its claws dug deep into my stomach, I had a moment of clarity. 'I am so 
 
 I jolted awake to a numbing pain in my abdomen. I had no idea what was going on. I opened my eyes to see some girl flashing a torchlight on my torso with tears in her eyes. For some reason, I felt her tears were more out of fright than worry for me. 'Why do I even care about that?' I wondered. Some dude with a sword was glancing around and then at me with furrowed brows. 'What is *he* mad about?' I thought. Tilting my head, I saw a few more people standing around with their backs to me. While they were just standing, I could feel the tension in their stance. Or was it fear? Another guy with a sword was actively quaking in his boots. 'What are they all looking for?' I eventually managed to sit up after some difficulty. The pain didn't make it any easier. 'Why is my shirt all torn up? Wait... Is that blood? What the hell is...' and then reality hit me like a cold shower.
 
-I was still here. I was still alive. The panther gouged out my intestines - or so I felt, and I quickly fainted. The torchlight was Arya casting healing on me non-stop. Thankfully, I was past the worst. Not bleeding anymore. 'Healing magic is really overpowered here'. Everything felt weirdly squishy though. Not to mention long scars that decorated my stomach. I noticed them through my tattered shirt. The shirt looked more like a crop-top now. I calmed Arya down, asking her to slow the constant barrage of heals coming my way and explain what happened.
+I was still here. I was still alive. The panther gouged out my intestines - or so I felt, and I quickly fainted. The torchlight was Arya casting healing on me non-stop. Thankfully, I was past the worst. Not bleeding anymore. 'Healing magic is really overpowered here.' Everything felt weirdly squishy though. Not to mention long scars that decorated my stomach. I noticed them through my tattered shirt. The shirt looked more like a crop-top now. I calmed Arya down, asking her to slow the constant barrage of heals coming my way and explain what happened.
 
 Must've been about 5 minutes since I was mauled. Divin was the one who thrust his sword at it first. While the feline did dodge and escape being pierced, there was cold damage that it could not escape. Not to mention Taro's sharp strike to its side. Even Carol manage to scrape it with her only dagger. All in all, we managed to hurt it more this time around. Although we got more than we gave. It hadn't attacked since - licking its wounds perhaps. I was badly hurt but it wasn't immediately fatal. Back home, if I couldn't get urgent medical assistance, I would have died very slowly and very painfully. That sort of wound it was. The others were clearly rattled. This was the first time since coming here that any of us got so close to dying. Not to mention our current situation - hopeless was an adequate description for it. 'Speaking of hopeless...' I had a small smile on my lips. Arya looked at me like I'd lost my mind. Divin, who was still slightly frowning for some reason, queried: "You have a plan?" 'Damn right I do!'
 
@@ -1259,7 +1259,7 @@ todo = (echo "* Increase spell variety\n* Check changes from class upgrade")
 
 'todo sounds very... normal. Since I'm here, might as well go all out!' I changed the function name from 'todo' to 'questlist'.
 
-We were still near the entrance. Betty hadn't announced anything. I decided to do a quick check. Looking around to ensure there was no threat, I muttered under my breath - "questlist".
+We were still near the entrance. Betty hadn't announced anything. I decided to do a quick check. Looking around to ensure there was no threat, I muttered under my breath - "questlist."
 
 ---
 
@@ -1269,4 +1269,7 @@ We were still near the entrance. Betty hadn't announced anything. I decided to d
 ---
 
 'Looks good! Lost 1 mana point as usual.' I closed the window, took a deep breath, and focused on the upcoming fight.
+
+## Chapter 19 - Speed Levelling
+
 
