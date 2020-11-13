@@ -1,6 +1,6 @@
 ---
 latestChapter: Chapter 19 - Speed Levelling
-nextChapter: Chapter 20 [Friday 13th November 2020]
+nextChapter: Chapter 20 [Saturday 14th November 2020]
 ---
 
 # Volume 1 - Tutorial
@@ -1271,7 +1271,7 @@ We were still near the entrance. Betty hadn't announced anything. I decided to d
 'Looks good! Lost 1 mana point as usual.' I closed the window, took a deep breath, and focused on the upcoming fight.
 
 
-## Chapter 19 - Speed Levelling
+## Chapter 19 - Speed Levelling (1)
 
 On level 5 we encountered a grassland filled with insectoids that were a cross between beetles and grasshoppers. Incendio worked quite well against them.
 
