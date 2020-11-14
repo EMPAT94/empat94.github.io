@@ -1,6 +1,6 @@
 ---
-latestChapter: Chapter 19 - Speed Levelling
-nextChapter: Chapter 20 [Saturday 14th November 2020]
+latestChapter: Chapter 20 - Speed Levelling 2
+nextChapter: Chapter 21 [Wednesday 18 November 2020]
 ---
 
 # Volume 1 - Tutorial
@@ -689,8 +689,7 @@ identify o = (echo o)
 
 While I wasn't really sleepy, the run back has sapped my SP. The exhaustion was catching up. So I decided to take a short nap. And that was just what I did.
 
-## Chapter 11 - Crocodile Hunters (1)
-
+## Chapter 11 - Crocodile Hunters 1
 
 Taro, Divin, and I were moving forward with the ladies trailing behind us at a distance. This was our new formation, where the three guys had become meat shields for some reason.
 
@@ -744,7 +743,7 @@ I felt ludicrous about my actions. I was also utterly drained from my sprint. I 
 
 For some reason, I felt sad about it. But then again, that is how these things work. 'Temporary variables for sure,' I thought as I brooded over the matter for a while.
 
-## Chapter 12 - Crocodile Hunters (2)
+## Chapter 12 - Crocodile Hunters 2
 
 This was the second time I was dumbstruck by the sheer utility of a spell. First, when it popped the slime into a steaming nothing. Now, when it stunned a giant reptile into near immobility.
 
@@ -907,7 +906,7 @@ time = date +%s%N
 I ran each function and made sure everything worked. Funny it had all the utilities. By the time I was done, Arya was looking fixedly at me again. "You were gone for a while just now. What were you doing?" she queried. I was getting used to her being a curious cat by now, so I simply replied: "I'm trying something. If it works, I can modify it to get the password. Quite a shot in the dark though, I don't expect much," I sated her curiosity, "Are you done?" I queried in return. "Yep, I'm level 3 now!" she exclaimed. "Congratulations," I muttered, "Should we wake the others now or do you wanna rest some?" "Nah, let's get going," she declared. And so, we woke the others and got going.
 
 
-## Chapter 14 - Avian Prosecution (1)
+## Chapter 14 - Avian Prosecution 1
 
 I was getting used to the variations in the landscape by now. First the plain fields, then the ruins, finally the hills. I was almost looking forward to seeing what the upcoming level would throw at us. Whatever it was, I did not expect it to be *this*.
 
@@ -991,7 +990,7 @@ As I was about to add another function to increase the temperature, I heard Divi
 
 I decided to move as well, we had birds to hunt!
 
-## Chapter 15 - Avian Prosecution (2)
+## Chapter 15 - Avian Prosecution 2
 
 Looking back on it, I was astonished that killing living beings en masse was not enough to deter me from moving forward. Leaving this place was enough motivation at first, but later on, I doubt that was true. Perhaps I just didn't care anymore? The mental acclimation sure was working its magic. Carol and Divin didn't think twice before attacking. I had no room for hesitation myself since I was critical support. However, I did see Taro and Julie fighting a losing battle against creeping apathy. I wonder how Arya would've fared if she wasn't a healer. Her poking at a small vulture with her staff when it tried to attack Julie from the side made it clear she was being affected too, more or less.
 
@@ -1167,7 +1166,7 @@ Must've been a couple of minutes after I sat down that I suddenly felt like I ha
 
 Talking with Julie and Arya revealed they had gotten an extra skill each. Arya had gotten something similar to group heal. All allies within a certain distance from her would automatically heal when the skill was active. It appeared to be weaker than her normal heal though. For Julie, it was something called True Shot. The description was a bit vague but it seemed like some sort of homing mechanism. She tried it out on a nearby tree and hit *exactly* the spot she was aiming at. "It costs all my mana though," she lamented. However, I could tell she wasn't upset about it - quite the opposite. It was truly a game-changer for her.
 
-Soon the rest of the gang returned. With souvenirs, no less. They had a new sword, a set of daggers, a staff, bow & arrows, and some sort of ring. Also, 6 distinct unisex apparel. Everything was of a higher quality than what Betty had provided for us. I picked up a brown robe-like piece that screamed 'Mage' and put it on. The rest divided the stuff among themselves. Apparently, the equipment was for 6 base classes. After some discussion, I decided to keep the ring. It must've been meant for craftsmen, so it could be enchanted. I could study it. Further discussion revealed each of us had acquired exactly 500 XP. All of us were now "Competent". Divin received the sharp skill that Taro already possessed, while Taro got a wind-related skill. It let the cut from a swing extend beyond the physical edge. Carol on the other hand received something similar to Julie's True Shot, except it was for daggers.
+Soon the rest of the gang returned. With souvenirs, no less. They had a new sword, a set of daggers, a staff, bow & arrows, and some sort of ring. Also, 6 distinct unisex apparel. Everything was of a higher quality than what Betty had provided for us. I picked up a brown robe-like piece that screamed 'Mage' and put it on. The rest divided the stuff among themselves. Apparently, the equipment was for 6 base classes. After some discussion, I decided to keep the ring. It must've been meant for craftsmen, there was some worn motif on it. It could be enchanted. I could study it. Further discussion revealed each of us had acquired exactly 500 XP. All of us were now "Competent". Divin received the sharp skill that Taro already possessed, while Taro got a wind-related skill. It let the cut from a swing extend beyond the physical edge. Carol on the other hand received something similar to Julie's True Shot, except it was for daggers.
 
 Everyone changed their clothes and equipped their weapons in their private corner of the fog. A few more hours of light trekking got us to the exit of this level. No one hesitated to step beyond. This time, the bridge was different. It was wide enough to allow two cars to run parallel with space in between. It also looked properly built and well maintained. I immediately slumped over and fell asleep by the side. Almost dying is quite taxing on your mind, I learned.
 
@@ -1271,7 +1270,7 @@ We were still near the entrance. Betty hadn't announced anything. I decided to d
 'Looks good! Lost 1 mana point as usual.' I closed the window, took a deep breath, and focused on the upcoming fight.
 
 
-## Chapter 19 - Speed Levelling (1)
+## Chapter 19 - Speed Levelling 1
 
 On level 5 we encountered a grassland filled with insectoids that were a cross between beetles and grasshoppers. Incendio worked quite well against them.
 
@@ -1336,7 +1335,7 @@ questlist = (echo "* Increase spell variety\n* Check changes from class upgrade"
 
 ---
 
-Incendio took 200 MP, while petrificus took 170; Identify was down to 20. I did not get another chance to cast petrificus_slowly again after the panther encounter. 'Oh, that's right - I have to write incendio_slowly still.' "test" and "questlist" were not so useful right now. My range was somewhere around 20 meters. While my spell toolkit was low on variety, that would be remedied in time. I no longer had any lingering regrets of choosing the Mage class.
+Incendio took 200 MP, while petrificus took 170; Identify was down to 20. I did not get another chance to cast a curse again after the panther encounter. 'Oh, that's right - I have to write incendio_slowly yet.' "test" and "questlist" were not so useful so far. My range was somewhere around 20 meters. While my spell toolkit was low on variety, that would be remedied in time. I no longer had any lingering regrets of choosing the Mage class.
 
 My class-up did have certain effects that I hadn't noticed before. Whilst earlier I could select target ranging from a blade of grass to a big rock, now I could select partial objects as well. Like half a blade of grass or only one side of a rock. I could select my spells to affect a certain body part of the monsters. This precise control also extended to my ability to select a region. Earlier while I tried freezing the ground, I could only guess what area was actually affected, unlike now where I could select it.
 
@@ -1356,7 +1355,7 @@ Julie was right beside me. She notched her arrow and looked at me. I nodded my h
 
 *whiz* the arrow flew. Apparently, Julie used her True Shot skill, as the head flew true and struck the monstrosity right on its forehead. And tumbled down its tusk. The sloth didn't even twitch.
 
-"Damn, the thing had got some thick skin!" exclaimed Taro. We were losing our stiff demeanor. All our caution seemed wasted.
+"Damn, the thing has got some thick skin!" exclaimed Taro. We were losing our stiff demeanor. All our caution seemed wasted.
 
 We were still quite a bit away from the mammoth. In fact, we were much closer to the entrance than it. At a loss for what to do next, I suggested I'd check out magic attack. After Julie, I had the best range. Everyone agreed.
 
@@ -1427,3 +1426,111 @@ We watched with abject fascination as the hulking frame was lifted off the groun
 And so Julie and I went inside the pit where the mammoth was waiting for us. I went right, she went left. The beast stood still in the center, but its eyes were tracking me for sure. As I stood about 60 meters away from it, the beast nonchalantly turned its head towards me.
 
 "So it begins," I whispered to myself, primed for flight.
+
+## Chapter 20 - Speed Levelling 2
+
+Just as I had gone right, Julie went left. My attention was fixed on the creature, so I could not see how the digging was progressing. Quite poorly, I feared. That being said, my job was to gain as much time as possible and keep the monster distracted. With that in mind, I stood there staring at it while it stared right back. I saw Julie, thoroughly ignored, creep closer to her position. She, the mammoth, and I were now at an obtuse angle with about 50 meters between each in that order. Behind me was the pit wall, perhaps to stop the prey from escaping.
+
+As I stood there contemplating my next move, the furball took action. Ever so slowly, it raised its massive legs and took a step forward. One could be forgiven for thinking that a being of this size was moving at a suitably low speed. I wasn't fooled, however, as I knew of the bursts a rush skill could cause. Without another thought, I took a step back. The monster would take one step towards me, I'd take a couple of steps back in sync. So it went on for several seconds. Until my back finally touched the solid wall.
+
+I noticed Julie gesturing something to me. 'Stop? Stay here? Can't she see I'm about to become mincemeat?' I almost shook my head. But then I realized that she was rapidly moving towards the blind side of the mammoth. 'Ah, she aims to lure it herself!' I took a step away from the wall, raised my palm, and waited for the thing to come into my range.
+
+Thankfully, my range was longer than its skill, for I was able to select it before it rushed me. I again chose the same eye as before, now selecting it directly instead of through the eyelids. I whispered four Incendios. The new spell chain seemingly did the trick, it closed its red eye with a pained grunt. I could see a trickle of orange fluid that must've been its blood flow down. That didn't stop its progress, however.
+
+The beast was about 15 meters away from me now. 'Come on Julie, shoot fast!' I prayed. I saw her taking aim from the side.
+
+13 meters. The creature suddenly stopped in its tracks. For a moment, the very air was stilled. The fur on its body bristled as it bent its hind legs a little. Out from the left, I heard Julies customary *whiz* of an arrow. The arrow struck true, right in its healthy eye. Just as the arrow struck, the quadruped showed off why it was the boss of the arena. With such acceleration that seemingly ignored its massive frame, it rushed at me. Newly blind and howling from the pain, it did not correct its course as I veered far out of its trajectory.
+
+The mammoth thundered towards my previous location as if its tail was on fire. And then it crashed into the wall with resounding cracks. One for the wall, other for its skull. It then slumped down, eyes bleeding freely, with a new orange stream joined from the forehead. Soon, its fur changed from dark brown to bright orange. Then it melted. I stood there utterly mesmerized as what was once a majestic creature was now a rapidly evaporating pool of orange blood. Shortly thereafter, the last vestiges of the creatures existence dissipated, leaving behind a veritable pile of resources. With a slight nudge tt my consciousness, I became aware of my new experience, along with the resulting level up and class up.
+
+···
+
+"Told ya it was dumb," Carol cackled. I was still in a state of incredulity over the sorry way the boss monster died. "Well, I ain't complaining," I replied with a small smile.
+
+"Are you both okay?" Arya looked at Julie, then me. "I'm good," Julie said. "Me too," I said with a warm smile. 'I thought her cold and distant when we first met, but she's actually quite sweet,' I reminisced. "I ran away long before it came near me. By the way, that was a hell of a shot, Julie. Might've just saved my life there," I praised Julie. It was truly remarkable - while the aim was not much of an issue on a stationary object with her True Shot skill, the timing of that was impeccable. A moment earlier and the thing would've just retreated. A moment later and it would've missed entirely. "Thanks! I got lucky this time, so don't count on it to keep happening," she said with equal parts of humility and caution, while checking her newest acquisition - a longbow.
+
+We were standing in front of the pile of clothes and weapons left behind. While my current robe wasn't in as dire replacement as my previous one had been, I took it nonetheless. The new one was not the common brown anymore, but a grey version that was both thicker yet lighter somehow. 'And so comfortable! I think I can sleep on the stone floor with this on without issues.' Everyone had graduated from brown clothes to grey ones. We hadn't changed yet, the place was essentially an open barren land walled off from all sides. No opportunities for private cloth swap.
+
+Arya took on her new staff. This one had a bit of design on it - not unlike the patterns on the ring. Besides that, it was the same as before. Carol got another set of daggers; her dagger count now reaching a total of four. Taro threw his broken sword away and took the new one. Divin claimed a set of artistic gloves. They had patterns on them as well along with redundant design. 'Redundant design? Since when can I distinguish between useful patterns and otherwise?'
+
+I immediately opened my full Status Window to check for any changes.
+
+---
+
+### [Proficient] Mage - Level 10
+
+| Status     | Points |
+|------------|--------|
+| Health     | 310    |
+| Mana       | 1290   |
+| Stamina    | 52     |
+| Experience | 1100   |
+
+| Attributes   | Points |
+|--------------|--------|
+| Strength     | 11     |
+| Vitality     | 11     |
+| Agility      | 11     |
+| Dexterity    | 12     |
+| Intelligence | 20     |
+| Perception   | 14+1   |
+| Wisdom       | 14+1   |
+
+*Special Effects:*
+
+* Magic Boost - You get extra intelligence, perception, and/or wisdom points on every Class Upgrade
+* [Apprentice Robe] Augment Perception/Wisdom - You get a minor reinforcement to spell casting and magical defense
+
+---
+
+'Oh, I am proficient now? Also got extra points on some attributes. Apprentice Robe eh? So equipment can have special effects as well, just like in a game. But still, why do these patterns stand out now and not before? Is this the intangible benefit of a class upgrade? I should check if Betty knows something...'
+
+"What is it?" Divin asked.
+
+"What?" I asked back.
+
+"You were frowning as if something bit ya," Carol supplied helpfully.
+
+"We were talking about the new skills and extra points we've got. You zoned out there for a while. Got something good?" Taro said, slightly excited.
+
+'Ah, I totally missed the conversation.' "Oh, sorry. There seems to be some effect of class upgrade that I can't figure out," I apologized. I removed the ring I acquired in the last upgrade and showed it to Betty, pointing at the seemingly innocuous designs on it. "What does this pattern mean, do you know?"
+
+"Why yes! It is a Rune. Spells can be etched onto suitable surfaces that can be cast by expending mana points. Such spells are called Runes. While there are a variety of Runes, ranging from the complexity of arrangement to usage restriction all of them come under the Runic category of general spell etching," Betty replied with emotionless cheer. Perhaps she was looking forward to this question for a while.
+
+"What do the rune on the ring mean?" I asked back. I noticed everyone else was paying rapt attention to our conversation.
+
+"I'm afraid I cannot say," Betty, back to her cheerless voice.
+
+"So how do I etch a rune?" I insisted. By now, we knew that while the bot wouldn't outright refuse to answer a question, there were some she preferred over others. If asked about anything unrelated to this world, she moved away from the interlocutor to signify her disinterest. If asked something related to the system and lore of this world, however, she was unusually forthcoming - mostly.
+
+"Etching a rune is not dissimilar to casting a spell," she replied as if expecting me to understand.
+
+I did not ask anything else, instead trying to internalize the new information. 'So etched spells are just like compiled binaries. Instead of writing the function and calling it, you compile the source and install it on an object. Interesting! I wonder if I can reverse engineer it with Identify.' With that thought, I held the ring in my palm and selected it. "Identify," I spoke out loud and a new window opened up.
+
+---
+
+### Apprentice Ring
+
+*Special Effects*
+
+* Augment Attunement - You get a minor amplification to the healing rate of others
+
+---
+
+'Why didn't I try this before?' This ring's effects were useless to me. I thought of giving it to Arya later on. 'That being said, it doesn't help me one bit to understand runes. Maybe I'm going about it wrong?'
+
+"We should head out," I heard Julie call out. I moved accordingly, but my mind was still stuck on the issue. 'What am I missing? Ah!' A sudden inspiration struck me. I again help the ring in my hand as I was walking behind others towards the exit. This time, I selected only the pattern that stood out. "Identify," I intoned softly.
+
+---
+
+x617474756e656d656e74 = x617474756e656d656e742b310a
+
+---
+
+'Okaaay... Gibberish. Could be a condensed hex dump. I doubt I can get anything from this.' I sighed and closed the window. I was slightly disappointed. Unknowingly, I had harbored high hopes from the experiment.
+
+'Oh, we are halfway done with the tutorial already!' "Betty, how long have we been here?" I asked. "It has been 13 days 2 hours and 1 minute since you all arrived at Spawn Point." 'Not bad'
+
+"We've made good progress," Taro extolled from ahead. 'Not that we have anything to compare to, but it could've much worse,' I thought. "I agree," I concured.
+
+I was still lost in thoughts on runes and hex dumps when we came upon the exit and made our way out.
