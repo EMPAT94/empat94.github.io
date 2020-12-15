@@ -3,6 +3,8 @@ latestChapter: Chapter 20 - Speed Levelling 2
 nextChapter: Chapter 21 [Tuesday 15 Dec 2020]
 ---
 
+*I will be posting this story on [RoyalRoad.com](https://www.RoyalRoad.com) as well; you may continue there to keep track of progress, post comments, and mingle with the community!*
+
 # Volume 1 - Tutorial
 
 ## Prologue
