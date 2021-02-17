@@ -1,6 +1,6 @@
 ---
-latestChapter: Chapter 21 - Abaia Swamps
-nextChapter: Chapter 22 [Saturday 13th Feb 2021]
+latestChapter: Chapter 22 - Stupefy
+nextChapter: Chapter 23 [Thursday 18th Feb 2021]
 ---
 
 *I will be posting this story on [RoyalRoad.com](https://www.RoyalRoad.com) as well; you may continue there to keep track of progress, post comments, and mingle with the community!*
