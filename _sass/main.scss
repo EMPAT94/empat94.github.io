@@ -10,7 +10,7 @@ body {
   font-size: 1rem;
   letter-spacing: 0.05em;
   color: #666;
-  font-family: 'Gentium Basic', serif;
+  font-family: "Gentium Basic", serif;
 }
 
 a {
@@ -24,10 +24,16 @@ code {
   font-size: 0.8em;
   letter-spacing: 0;
   display: inline-block;
-  font-family: 'Courier New', Courier, monospace;
-  background-color: rgba(0,0,0,0.9);
+  font-family: "Courier New", Courier, monospace;
+  background-color: rgba(0, 0, 0, 0.9);
   color: lightgreen;
   overflow-x: scroll;
+}
+
+@media only screen and (max-width: 800px) {
+  code {
+    max-width: 85vw;
+  }
 }
 
 img {
@@ -36,17 +42,18 @@ img {
   margin: 5% 0;
 }
 
-table{
-    border-collapse: collapse;
-    border-spacing: 0;
-    border:1px solid #4a4a4a;
-    margin: 1em;
-    padding: 1em;
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid #4a4a4a;
+  margin: 1em;
+  padding: 1em;
 
-    th, td {
-      padding: 0.3em;
-      border: 0.5px solid #ccc;
-    }
+  th,
+  td {
+    padding: 0.3em;
+    border: 0.5px solid #ccc;
+  }
 }
 
 /*************************
@@ -55,6 +62,16 @@ table{
 
 /* Default */
 
+.subtle {
+  font-size: 0.7em;
+  color: grey;
+}
+
+.cursive {
+  font-family: cursive;
+  color: grey;
+}
+
 .container {
   display: grid;
   grid-template-areas: "navBar" "mainContent";
@@ -62,34 +79,73 @@ table{
   .navBar {
     grid-area: navBar;
   }
+
   .mainContent {
     grid-area: mainContent;
     line-height: 2;
     font-size: 1.1em;
+    padding: 5% 15% 5% 15%;
+
+    .postList {
+      padding-left: 0;
+
+      li {
+        list-style: none;
+        border-bottom: 0.1px solid rgba(0, 0, 0, 0.1);
+      }
+
+      a {
+        color: rgba(0, 0, 0, 0.8);
+      }
+
+      a:hover {
+        text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2),
+          0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        color: cornflowerblue;
+      }
+    }
   }
 }
 
-/* About Me */
+@media only screen and (max-width: 800px) {
+  .container {
+    .mainContent {
+      padding: 5%;
+    }
+  }
+}
 
-.aboutMe {
+.summaryBox {
   display: grid;
-  grid-template-areas: "contactMe myStory";
+  grid-template-areas: "smallLeftBox bigRightBox";
   grid-template-columns: 30% 70%;
-  .contactMe {
-    grid-area: contactMe;
+
+  .smallLeftBox {
+    grid-area: smallLeftBox;
+    text-align: center;
+
+    img {
+      border-radius: 10px;
+    }
   }
-  .myStory {
-    grid-area: myStory;
+
+  .bigRightBox {
+    grid-area: bigRightBox;
+    padding-left: 1em;
+  }
+}
+@media only screen and (max-width: 800px) {
+  .summaryBox {
+    grid-template-areas: "smallLeftBox" "bigRightBox";
+    grid-template-columns: 100% 100%;
   }
 }
 
-div#personalMessage {
-  font-family: cursive;
-  color: grey;
-}
-
-h1, h2, h3, h4 {
-  font-family: 'Jura', sans-serif;
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Jura", sans-serif;
   font-weight: bold;
 }
 
@@ -107,167 +163,104 @@ h2 {
 
 /* Navigation Bar */
 
-nav {
+.navBar {
   display: grid;
-  grid-template-areas: "logo" "menuBar";
+  grid-template-areas: "logo menuBtn";
+  grid-template-columns: 90% 10%;
 
-  background-color: black;
+  background-color: #1c1c1c;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 30px 0 rgba(0, 0, 0, 0.4);
   color: white;
   font-size: 1.5em;
 
-  h1 {
+  .logo {
     grid-area: logo;
-    margin: 0.5em;
-    display: inline-block;
-    text-align: center;
+    margin-left: 1em;
     letter-spacing: 0.3em;
 
     a {
       color: darkorange;
     }
-
   }
 
-  .menuBar {
-    grid-area: menuBar;
-    margin: 1em;
-    text-align: center;
-    display: inline-block;
+  .menuBtn {
+    grid-area: menuBtn;
 
-    a {
-      display: inline-block;
-      color: white;
-      margin-left: 1em;
-      font-family: 'Jura', sans-serif;
+    font-size: 1.2em;
+    position: absolute;
+    top: 1em;
+    right: 1em;
 
-      .current {
-        color: grey;
-      }
+    span {
+      cursor: pointer;
     }
-
-    a:hover {
+    span:hover {
       color: grey;
     }
   }
 
-  .menuToggleBtn {
+  .navModal {
     display: none;
-    grid-area: menuToggleBtn;
-  }
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    z-index: 999;
+    background-color: rgba(0, 0, 0, 0.95);
 
-  #mobileMenu {
-    display: none;
+    .menuBtnClose {
+      font-size: 1.2em;
+      position: absolute;
+      top: 1em;
+      right: 1em;
+    }
+
     ul {
-      margin-top: 0;
-      li {
-        list-style-type: none;
-        text-align: right;
-        a {
-          display: inline-block;
-          color: white;
-          margin: 0.5em;
+      text-align: center;
+      list-style-type: none;
+      margin-top: 3em;
 
-          .current {
-            color: grey;
-          }
+      li {
+        font-size: 1.3em;
+        margin-top: 1.1em;
+
+        a {
+          color: white;
+        }
+        a:hover {
+          color: grey;
         }
       }
     }
   }
 }
 
-/* Content Area */
-
-.mainContent {
-  padding: 5% 15% 5% 15%;
-
-  .postList {
-    padding-left: 0;
-
-    li {
-      list-style: none;
-      border-bottom: 0.1px solid rgba(0,0,0,0.1);
-    }
-
-    a {
-      color: rgba(0, 0, 0, 0.8);
-    }
-
-    a:hover {
-      text-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-      color: cornflowerblue;
-    }
-
-    .subtle {
-      font-size: 0.7em;
-    }
-
-  }
-}
-
 .postFooter {
-  width:100%;
-  text-align:center;
+  width: 100%;
+  text-align: center;
   margin-top: 40px;
   border-top: 1px solid grey;
   border-bottom: 1px solid grey;
-  // padding: 10px;
 
   a {
     color: green;
   }
 }
 
-/* Contact Me */
-
-.contactMe {
-  img {
-    border-radius: 1em;
-  }
-
-  a {
-    text-decoration: blueviolet;
-    color: lightgray;
-    div {
-      font-size: 0.8em;
-    }
-  }
+.contactPoint {
+  color: darkgrey;
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  max-width: 25px;
+  max-height: 25px;
+  margin: 10px;
 }
 
-/*****************************
-*********** MOBILE ***********
-******************************/
-
-@media only screen and (max-width: 720px) {
-  code {
-    max-width: 20em;
-  }
-
-  .container {
-    nav {
-      grid-template-areas: "logo menuToggleBtn";
-      grid-template-columns: 90% 10%;
-      .menuBar {
-        display: none;
-      }
-      .menuToggleBtn {
-        display: block;
-        padding-top: 40%;
-      }
-    }
-    .mainContent {
-      padding: 5%;
-    }
-    .aboutMe {
-      display: grid;
-      grid-template-areas: "contactMe" "myStory";
-      grid-template-columns: auto;
-
-      .contactMe {
-        text-align: center;
-      }
-    }
-  }
+.contactPoint:hover {
+  width: 30px;
+  height: 30px;
+  max-width: 30px;
+  max-height: 30px;
 }
-

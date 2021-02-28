@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    {% if jekyll.environment == 'production' %}
-      {% include analytics.html %}
-    {% endif %}
+    {% if jekyll.environment == 'production' %} {% include analytics.html %} {% endif %}
 
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -17,44 +15,46 @@
       rel="stylesheet"
     />
 
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <meta name="msapplication-TileColor" content="#da532c">
-    <meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="msapplication-TileColor" content="#da532c" />
+    <meta name="theme-color" content="#ffffff" />
 
     <title>{{ page.title | default: "" }}</title>
 
-    {% feed_meta %}
-    {% seo %}
+    {% feed_meta %} {% seo %}
   </head>
 
   <body>
     <div class="container">
-      <div class="navBar">
-        {% include navigation.html %}
-      </div>
+      {% include navigation.html %}
 
       <div class="mainContent">
         {{ content }}
 
         <div class="postFooter">
           {% if page.previous %}
-          <a rel="prev" href="{{ page.previous.url }}">&nbsp;Previous&nbsp;</a> | 
-          {% endif %}
-
-          {% if page.title != "Pritesh Tupe | Home" %}
+          <a rel="prev" href="{{ page.previous.url }}">&nbsp;Previous&nbsp;</a>
+          | {% endif %} {% if page.title != "Pritesh Tupe | Home" %}
           <a rel="home" href="/">&nbsp;Home&nbsp;</a> |
+          <a rel="back" href="#" onclick="history.back()">&nbsp;Back&nbsp;</a> |
           {% endif %}
 
           <a rel="top" href="#">&nbsp;Top&nbsp;</a>
 
-          {% if page.next %} | <a rel="next" href="{{ page.next.url }}">&nbsp;Next&nbsp;</a>
+          {% if page.next %} |
+          <a rel="next" href="{{ page.next.url }}">&nbsp;Next&nbsp;</a>
           {% endif %}
         </div>
       </div>
     </div>
-    <script id="dsq-count-scr" src="//priteshtupe.disqus.com/count.js" async></script>
+
+    <script
+      id="dsq-count-scr"
+      src="//priteshtupe.disqus.com/count.js"
+      async
+    ></script>
   </body>
 </html>

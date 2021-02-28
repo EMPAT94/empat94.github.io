@@ -1,22 +1,14 @@
-<nav>
+<nav class="navBar">
+  <h1 class="logo"><a href="/"> PRITESH </a></h1>
 
-  <h1> <a href="/"> PRITESH&nbsp;TUPE </a> </h1>
+  <div class="menuBtn"><span onclick="toggleMenu(true)"> &#9776; </span></div>
 
-  <!-- only on screens > 720px wide -->
-  <div class="menuBar">
-    <a href="/foa"> Fate of Arda</a>
-    <a href="/gs">Grand Simulation</a>
-    <a href="/creatures">Creatures</a>
-    <a href="/binary-clock">Binary Clock</a>
-    <a href="/about">About</a>
-    <a href="../feed.xml">RSS</a>
-  </div>
+  <div class="navModal" id="navMenu">
+    <span class="menuBtnClose" onclick="toggleMenu(false)">&#x2715;</span>
 
-  <!-- only on screens < 720px wide -->
-  <div class="menuToggleBtn" onclick="toggleMenu()">&#9776;</div>
-  <div id="mobileMenu">
     <ul>
-      <li><a href="/foa"> Fate of Arda</a></li>
+      <li><a href="/">Home</a></li>
+      <li><a href="/foa">Fate of Arda</a></li>
       <li><a href="/gs">Grand Simulation</a></li>
       <li><a href="/creatures">Creatures</a></li>
       <li><a href="/binary-clock">Binary Clock</a></li>
@@ -24,19 +16,11 @@
       <li><a href="../feed.xml">RSS</a></li>
     </ul>
   </div>
-
 </nav>
 
 <script>
-  // TODO Make more responsive
-  function toggleMenu() {
-
-    let mobileMenu = document.getElementById("mobileMenu");
-    let currentDisplay = mobileMenu.style.display;
-
-    currentDisplay === "none" || !currentDisplay
-      ? mobileMenu.style.display = "block"
-      : mobileMenu.style.display = "none";
-
+  function toggleMenu(open) {
+    if (open) document.getElementById("navMenu").style.display = "block";
+    else document.getElementById("navMenu").style.display = "none";
   }
 </script>

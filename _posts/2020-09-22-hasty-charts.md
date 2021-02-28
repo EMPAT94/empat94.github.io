@@ -12,6 +12,8 @@ This is how the chart looks with sample data:
 
 ![chart](/assets/imgs/chart.jpg)
 
-Check out the code:
+Check out the code [Gist Link](https://gist.github.com/EMPAT94/818b0b5e41e4c37b30d3407d6247ca52):
 
-<script src="https://gist.github.com/EMPAT94/818b0b5e41e4c37b30d3407d6247ca52.js"></script>
+<div style="max-width:85vw;">
+  <script src="https://gist.github.com/EMPAT94/818b0b5e41e4c37b30d3407d6247ca52.js"></script>
+</div>

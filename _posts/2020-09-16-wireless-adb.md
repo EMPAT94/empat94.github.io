@@ -34,5 +34,5 @@ where phone-ip is the wireless internet address of your phone
 
 ## Useful links
 
-* [https://en.wikipedia.org/wiki/Android_software_development#Android_Debug_Bridge_(ADB)](https://en.wikipedia.org/wiki/Android_software_development#Android_Debug_Bridge_(ADB))
-* [https://developer.android.com/studio/command-line/adb](https://developer.android.com/studio/command-line/adb)
+* [Wiki ADB](https://en.wikipedia.org/wiki/Android_software_development#Android_Debug_Bridge_(ADB))
+* [Android Docs ADB](https://developer.android.com/studio/command-line/adb)
