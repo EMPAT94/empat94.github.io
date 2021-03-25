@@ -388,3 +388,82 @@ I smiled. In a way, I was glad to be here. 'Magic and Code being the same are aw
 
 And so I slept fitfully, dreaming of Runes of flight and confetti.
 
+## Chapter 29 - A Hero's Welcome (2)
+
+The usual glare of dawming sun woke me from my slumber. It was getting old fast. 'Just five more minutes please!'
+
+It was not to be. I faced the other side for in protest, yet hardly a wink and I heard a knock.
+
+I hate waking up from deep sleep. Half the time, I get mild headaches when it happens. As if my body itself is naturally resistant to waking up early. Today was not one of those days, thankfully. I did not want to be annoying first thing in the morning at Francisa on today of all days. Still, I wasn't in the best of moods.
+
+"Come on in!" I grunted. It wasn't Francisa who greeted me, however. Just the maid, who cursied and nonchantalay kept a jar of water on the table and went to draw the bath.
+
+I did the necessities, coming out the bath a while later with my Tutorial robe on, mood markedly improved. The breakfast was laid on the table, and a beaming princess was sitting on the side.
+
+"Today is a fine day, isn't it Sir Pat?" she uttered, caressing out non-existent wrinkles on her expensive purple-hued dress. This was the same variant of the one she wore when we first met. An "important event" NPC costume, I figured.
+
+"Yep. You're looking quite nice in the dress." I casually complimented and sat down. "And please Francisa, just call me Pat." A maid hovered by to drop dollops of orangish stuff into my plate. And some bread. These guys love their breads.
+
+"T-thanks. Sir Pat. I mean, Pat." She blushed a little. 'Cute.' "Ah, my apologies. It would get some getting used to. Please try the bhuna pumpkin sauce, it's a specialty where we come from. Or rather, used to be." She tapered into silence at the end, but perked up again by proclaiming my tasks for today. "Today we'll be going around the Noble quarters and the town square in commoner's district in the cerimonial chaises. Hero and their representatives in each one. Hopefully, we'll be back by lunch, where we will meet Hamilton, my dear friend. The evening will be taken up for your discourse with the Royal Mages. They shall lay out your tutelage for coming weeks. I shall attend to you whenever I can, of course."
+
+I just nodded, quietly savouring the bitter-sweet taste of the orange sauce, a bit overwhelmed by the extreme emotional swings of this NPC. Only thing missing in my opinion was a steaming cup of joe. I didn't even mind having the bread again, soft and freshly baked out the oven. The day was getting better with the minute.
+
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
+
+We gathered into the main hall - the one that had doubled as a throne room, a dining hall and a summoning room so far.
+
+'This is it!' Today, I was actually venturing out beyond the safe zone. A whole new world and all I'd seen were a couple of rooms and a backyard. Sure, being gawked at my the masses sucked the fun out a bit, but I was excited to step out nonetheless. 'What sort of wonders shall I see today?'
+
+Each "hero" - 'Heh.' I still chukled at that - was standing beside their representative and a couple of Royal Guards. The guards did not have shining armor or magic swords. Instead, they carried spears and round shields like aspis, reminding me of Spartan Hoplites. They did look stone cold deadly.
+
+Divin and Anna, presumably, were having a whispered conversation. Not romantic. No. More like mafiosos discussing an underground business deal. Taro, still grinning but with bags under his eyes, had the other princess clutching his arm like a vise. 'What had Francisa called her? Prissy?'
+
+Carol still had her representative besides her, but the distance between them left no one in doubt about their closeness. Arya was with a little kid that had the same sky blue eyes and dirty blonde hair as Francisa. 'Her little brother?'
+
+Julie was having an animated conversation with Johnathan. 'The guy could do to loosen up a bit.' And finally, little old me with my - err, not actually mine - princess, who was going on about the importance of soon to be held "parade" in calming the people down. I nodded and hmm'ed where necessary, but the words filtered in one ear and went right out the other.
+
+We weren't standing close enough to speak with each other, so I simply smiled and mouthed a "hey" when our eyes met. Divin gave a barely perceptible nod. Taro half-waved with his free hand. Carol smiled and returned a wave with enthusiasm. 'She is probably the most excited of us all about this.' Arya was staring at the still-chatting princess by my side, missing my signal entirely. Julie gave a firm nod back. We had planned to meet today sometime, but never decided on the time. 'Perhaps after lunch?'
+
+My thoughts were interruped by another cutscene. The main clan leader NPC stode up and began speech of gratitude and co-operation with suitably pompous words. With that we stepped out the large doors of the hall out into the sunlight.
+
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
+
+Another garden. For a while, I had forgotten about the front gardens. These ones were spread over a wide area, however, and majority of that area was taken by nicely trimmed grass. Sporadically planted were some sort of short trees with white trunks and round tops. My attention was taken up by the small open-topped carriages - carriages whose decorations had decorations. I was loath to even be seen near such gaudy creations, but I suppose it was too late to present my sugessions.
+
+We went ahead and climbed upon the abberations. Not forgetting my chivalry this time around, I extended a hand to Francisa. NPC or not, her suprise and eventual flush was worth the effort. I did let go of the hand after she climbed up though. 'Was she trying to hold on?' Perhaps it was just my imagination.
+
+The chariots began with a start. The horse bound on mine was a black shiny thing, brushed to high heavens. The lead carriage had the clan leader and his wife. Us test subjects followed. In the rear was another chariot with a Royal Mage and an Archer on board.
+
+Our procession went through the gardens and out onto a dirt road. It was pressed flat and had a smooth ashphalt-like surface though, probably done so using magic. The road widened out as we went futher, when we finally came across something resembling a city.
+
+Apparently, the "palace" was at the center of this city. The palace was surrounded by the Noble quarters on all sides. The Noble quartes, as it turned out, was a bunch of spaced out buildings that looked like they were made of granite. Closer look revealed everything to be made of some dark smooth stone. Tuning into Francisa-radio revealed why.
+
+"... and so they had to build everything up in a hurry at first. Never knew when the goblins would attack. But later on, we employed Stone Masons, Earth Mages, High Enchanters and so on to construct solid buildings out of compressed stone blocks and enchanted binding agent. The plan was to turn the whole city, but resources dwindled out soon enough..."
+
+'Yes, just when the people with deep pockets had their home sorted out, the resources "dwindled"!' I almost snorted.
+
+Francisa stopped talking then, as we sighted a bunch of NPCs hanging out in their balconies, wearing their "important day" constumes and waving bright colorful clothes at us. The procession stopped here for a bit, some heavy words filtering back from front-most carriage. A bit of cheering followed and we moved on. I saw a little boy waving a green cloth with all his heart, screaming something at me. My lips curled up on their own and my hand followed. I waved. Francissmirked. 'Oh no!'
+
+From then on, I had to wave at every bloody Tom, Dick and Harry. 'You brought this on yourself. Now, you gotta suck it up and just smile & wave boy!'
+
+We circled around the quarters, stopping every now and then. Soon, we left the magically constructed road and went on an actual dirt road. One with generous helping of potholes and crevices. Thankfully, the carriages had pretty good suspension. I had a sneaking feeling that some magic was involed. More Runes, perhaps. I couldn't peek under the plentiful decorative coverings, however. 'I guess they are meant to hide as much as attract. Clever.'
+
+Expansive stone houses gave way to shoddy wodden constructs. Eventually, we happened upon a clearing where many an enerprising merchants laid their wares. The NPC crowd here was not wearing their "important event" dresses. I doubted they even owned any. Many looked on in surprise and wariness as the guards cleared some space near the center. The leader spoke some words up ahead and there was some slight cheering. Then we were asked to alight our carriages and gather around.
+
+"Dear heros!" NPC pseudo-king announced, "This is where we must part ways." 'Umm... what?'
+
+"Sir Divin, Sir Taro, Lady Julie. Representative clan carriages await your presence at the edge of this town, just a bit further. Bereave not your parting, for we foregather soon enough!" 'Goddamn it! Stupid fucking storyline.'
+
+I was grouchy. I wanted to plan ahead. To make sure we exchanged information regularly. Hell, even devise a *means* to exchange information and keep in touch. I didn't know if I could exit on my own. Now, we had to split up just like that.
+
+"Guess this is it, huh? Wish we had discussed stuff some more." Julie said. "We will meet again as soon as we reach required level to go out on our own." Divin commented. "Yeah. Time will fly away, you'll see." Taro chipped in.
+
+We said our goodbyes and swore to meet up again. Their carriages went ahead. Our turned around and heading the opposite direction. Back the way we came. Francisa stayed quiet the whole way back. Perhaps she sensed my crummy mood.
+
+While I had known these guys for less than a month, we had come from the same place and overcame our trials together. I was a bit bitter at the separation, however temorary or necessary it was supposed to be. Maybe I had come to depend on them a little, or even feel a bit comfortable knowing they were around. 'I guess I should be happy that atleast Carol and Arya are around.'
+
+We made our trip back in silence. We followed the same route back. The same people cheers us again, with equal enthutiasm. Soon we converged on the palace. Francisa promised to drop by during lunch and hooped off. Inside the hall, I talked with Arya and Carol, planning to meet again after lunch and get our headings. I went in the room and plopped into the bed. Even just smiling and waving can get mighty tiring.
