@@ -44,7 +44,9 @@ She let her gown go and took an unwavering posture, giving off a smile that didn
 I looked at our group. Taro was already being escorted off by the young girl... 'Princess', probably to his room. The rest, however, exchanged unspoken words with each glance. 'Looks safe, should follow the NPCs for now.'
 
 
-<br /> <p style="text-align:center"><strong>¤ ¤ ¤</strong></p> <br />
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
 
 'Ah, I had forgotten how good hot water feels against the skin! Especially when you are exhausted.'
 
@@ -313,7 +315,7 @@ Eventually, we broke off, planning to meet again tomorrow to discuss and work ou
 
 "I understand. Do forgive me though, the tea has gone cold. The cakes are still edible though." She declared, proffering the sweets on the table. "I had offered to acquaint a few of my friends to Sir Pat. Shall we move it to tomorrow evening?"
 
-"Of course. I'll be happy to meet your friends." 'No need to antagonize her further.' I took a piece of the spongy cake with a fork and place it in my mouth, sitting down in front of her. "The cake's nice!" I idly commented.
+"Of course. I'll be happy to meet your friends." 'No need to antagonize her further.' I took a piece of the spongy cake with a fork and placed it in my mouth, sitting down in front of her. "The cake's nice!" I idly commented.
 
 "I'm sure Anna would've appreciated your words. She'll be departing tomorrow with Sir Divin, however. Though, Hamilton will be glad to convene." She mused.
 
@@ -338,7 +340,7 @@ Soon, the Sun dipped below the horizon. I failed to notice it last night, but no
 
 ---
 
-I glanced at the ring and wand I had kept from the tutorial, put beside the thoroughly cleaned and neatly folded robe.
+I glanced at the ring and wand I had kept from the tutorial, set beside the thoroughly cleaned and neatly folded robe.
 
 'I wonder if there is another exit portal in the dungeon, like it was in the Tutorial? The storyline revolves around it a fair bit. Perhaps after we clear the levels, we can access it? How is it connected to this calamity though?'
 
@@ -355,7 +357,7 @@ I finally had some information on what the calamity was. Seemingly no one here h
 | Health     | 873/873   |
 | Mana       | 2762/2762 |
 | Stamina    | 81/81     |
-| Experience | 0/1600    |
+| Experience | 0/2200    |
 
 | Attributes   | Points |
 |--------------|--------|
