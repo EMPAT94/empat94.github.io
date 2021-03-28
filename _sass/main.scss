@@ -206,7 +206,7 @@ h2 {
 
   .navModal {
     display: none;
-    position: absolute;
+    position: fixed;
     width: 100%;
     height: 100%;
     padding: 0;
@@ -328,8 +328,8 @@ h2 {
 #personalMsg p:nth-child(4) {
   animation-delay: 9s;
 }
+
 .contactPoint {
-  color: darkgrey;
   display: inline-block;
   width: 25px;
   height: 25px;
@@ -345,4 +345,22 @@ h2 {
 .contactPoint:hover {
   color: black;
   transform: scale(1.2);
+}
+
+.resume-box {
+  a {
+    text-decoration: none;
+    color: black;
+  }
+
+  transform: scale(1);
+  margin: 10px;
+  transition-property: color, transform;
+  transition-duration: 0.3s;
+  transition-timing-function: ease-in;
+}
+
+.resume-box:hover {
+  color: black;
+  transform: scale(1.1);
 }
