@@ -43,7 +43,6 @@ She let her gown go and took an unwavering posture, giving off a smile that didn
 
 I looked at our group. Taro was already being escorted off by the young girl... 'Princess', probably to his room. The rest, however, exchanged unspoken words with each glance. 'Looks safe, should follow the NPCs for now.'
 
-
 <br />
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
 <br />
@@ -72,7 +71,6 @@ We ate dinner in silence. I was indeed curious about many things, but it could w
 
 I excused myself from the table and went to wash off, assuming the maids would clean the table off later. 'The princess should get a clue with this.' I immediately jumped into bed and dragged the covers on my prone form. It was damn cold, and that was okay. It felt right somehow.
 
-
 <br />
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
 <br />
@@ -88,7 +86,6 @@ I was flabbergasted. Never have I ever been in a situation where a pretty lady c
 "I understand. Please accept my apologies and forgive my forwardness!" she asserted, sliding out of the bed. "I shall come at sunrise tomorrow. I hope sir Pat has a restful night."
 
 "Um... Yes. Goodnight." I felt a bit guilty about throwing her out. I wasn't kidding about the burn-out though, I was asleep within a minute after she was gone.
-
 
 <br />
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
@@ -144,7 +141,6 @@ Her fingers trembled slightly. Moisture clouded her eyes. 'Why is this cut scene
 
 After a practiced deep breath, a mournful smile decorated her features. "He was last seen on the wrong side of the high passes," she spoke with fool's hope. After a minute of silence, she pronounced, "Oh! Look at me, rambling on. The Sun is almost past the zenith, perhaps we should head inside for the luncheon?"
 
-
 <br />
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
 <br />
@@ -167,7 +163,6 @@ Of course, these were only some of the major players on the continent. "Civilize
 
 An optimistic estimate was that humans currently reigned supreme in the eastern continent - bar the "uncivilized" regions as it were.
 
-
 <br />
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
 <br />
@@ -179,7 +174,6 @@ This was a very new system of governance, not even two generations old. And so t
 All that was about the nobles. The commoners, instead, played a different game. Needless to say, petty criminals were commonplace. Serious crimes were widespread as well. But these things were par for the course. What concerned Francisa the most, and by that I mean her father - I doubt she was viewing the situation from her own perspective, was the new church of convulsion. This church believed that the ongoing cataclysm was a sign from the gods. Their gospel was that humans should fight the monster hordes that heralded the disaster, allying instead of conquering other sapient species. The more radical members of the church were convinced that the world was going to end because the humans had strayed from the righteous path and this was their just reward. It was funny how even NPC humans were inclined to consider themselves the center of everything - even a catastrophe. The problem arose, however, when one of their core beliefs was that heroes were against the natural order of things, the belief that had led to numerous troubles so far. Indeed, hearing about their exploits made me re-imagine them more as an assassin's guild than a godly church.
 
 Such was the situation where I was summoned into - war on all fronts, people tearing each other's throats out, and an inevitable doom closing in on us. This world was fucked to hell and back!
-
 
 <br />
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
@@ -227,7 +221,7 @@ I barely had a chance to process this news. The leader, however, steamrolled onw
 
 "Well, it's no surprise you don't know about the split. They presumed you would stay here in the first place. Anyhow, your princess should have explained the training part at least - see, our attributes increase not only by level-ups but also by exercising our skills. And these skills are a double-edged sword, for that matter. Like my True Shot skill - it doesn't matter if I can shoot a homing arrow if I misjudge the distance from my target; or worse, simply freeze during combat. This stuff needs getting used to, hence the training." (Julie)
 
-"I see. No, she probably missed it. And she's not *my* princess. We just talked about geography and current affairs the most, with bits of history and politics." (Me, frowning) 'And near entirety of Lohengramm family past.'
+"I see. No, she probably missed it. And she's not _my_ princess. We just talked about geography and current affairs the most, with bits of history and politics." (Me, frowning) 'And near entirety of Lohengramm family past.'
 
 "Seems our next Class Upgrade will be somewhat special." (Divin, changing topics)
 
@@ -259,11 +253,11 @@ No prize for guessing his destination. The rest looked on with complicated expre
 
 "I mean... Will we be spending the rest of our lives here? Or will it end at some definite point? Will we be back as we were before, or will the time we spend here will be gone forever? All I know is that time here goes faster than Earth. What do you think Pat?" (Arya)
 
-"Well, the test *has* to end at some point, else there won't be any point of it. And I think it will end after we defeat this world-ending threat. Also, even if we grow gray-haired by that point, we should still end up back home as we were when we first entered." (Me)
+"Well, the test _has_ to end at some point, else there won't be any point of it. And I think it will end after we defeat this world-ending threat. Also, even if we grow gray-haired by that point, we should still end up back home as we were when we first entered." (Me)
 
 "How did you come to these conclusions?" (Divin, with the rest listening in rapt attention)
 
-"Hmm, this whole setup feels like a video game to me. And games end when you defeat the final boss. As for our time spent here, I think we aren't actually here physically. Simply because the Simulation itself is virtual. We are something like game characters or avatars, just based on our exact physical appearances. That is what I think, in theory." (Me) 
+"Hmm, this whole setup feels like a video game to me. And games end when you defeat the final boss. As for our time spent here, I think we aren't actually here physically. Simply because the Simulation itself is virtual. We are something like game characters or avatars, just based on our exact physical appearances. That is what I think, in theory." (Me)
 
 'At least I hope so. We could just as well be copies of our original consciousness to be discarded after the test is finished.'
 
@@ -277,11 +271,9 @@ No prize for guessing his destination. The rest looked on with complicated expre
 
 'What? I have not opened my status since coming here. Need to check up on a lot of things.'
 
-
 <br />
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
 <br />
-
 
 Our after-lunch soirée lasted for a while. It was just us "heroes" gathered in the back gardens. Sans Taro.
 
@@ -289,19 +281,17 @@ The NPCs planned to have one hero attach to one clan. That clan would take respo
 
 Arya decided to stay at the palace. Carol opted to stay with her as well. Neither had warmed up to their prince. The girls had decided this together last night sometime. Divin presumed everyone was splitting up so he planned to go out as well. After hearing that he could've refused, he made a sour face for a while. As for the former two, Arya was getting help from the Lohengramm clan like myself. She had refused all support from the assigned representative clan. Carol instead was having her "tutor" coming over. As for me? I would have to check things out with Francisa later.
 
-Regarding our Classes, while we *were* at the baseline, it was merely the lowest standard required to get official jobs out here. People started their leveling as young as 6 years old. By the time they grew up to 15 years, they comfortably reached level 20. A human was considered an adult at that point. Some leveled up earlier, some later in the age bracket of 13 to 19.
+Regarding our Classes, while we _were_ at the baseline, it was merely the lowest standard required to get official jobs out here. People started their leveling as young as 6 years old. By the time they grew up to 15 years, they comfortably reached level 20. A human was considered an adult at that point. Some leveled up earlier, some later in the age bracket of 13 to 19.
 
 The fun began beyond this milestone. People take up jobs befitting their Class, usually under a mentor. What they do with their mastery of Base Classes ends up affecting the next Class Upgrade. A Craftsman who takes up farming gets a Farmer Class. A Healer who joins the clergy and starts preaching gets a priest-like Class. And there is no limit on the variety of Classes one could achieve depending on the jobs they take. Assuming they are in their evolutionary tree, of course. A Scout would end up as a very poor stable-boy if he even gets that Class. As far as Julie knew, and she was the one who knew the most in this area, the Craftsman Class had the most known branches and the Mage class had the least.
 
 We continued sharing the knowledge we had gleaned from our NPC counterparts. I expounded on the war with Centaurs and the situation in high passes. Divin was more concerned about what the NPCs expected of us, cautioning against making ill-advised agreements and taking thoughtless actions. He feared altering the storyline too much; we might cut ourselves off from achieving the end goal.
 
-
 <br />
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
 <br />
 
-
-The shadows lengthened as the sky turned orange. For a while, I imagined myself back in the Tutorial. A flash of light burst from the side.  'Betty?' All of us immediately glanced at the spherical source.
+The shadows lengthened as the sky turned orange. For a while, I imagined myself back in the Tutorial. A flash of light burst from the side. 'Betty?' All of us immediately glanced at the spherical source.
 
 Similar bursts happened at regular distances all across the garden. "Magical Lights," Divin explained quietly.
 
@@ -309,7 +299,7 @@ I calmed myself. 'Getting worked up over nothing.' Besides, it was quite late. I
 
 Eventually, we broke off, planning to meet again tomorrow to discuss and work out future arrangements. I arrived at my room, not surprised to see Francisa already waiting, with a badly-concealed pout.
 
-"Greetings, *Sir* Pat." 'Ah. Here we go.'
+"Greetings, _Sir_ Pat." 'Ah. Here we go.'
 
 "Hello there Francisa. Sorry, I'm a bit late; our meeting went off the rails there a bit." 'That should do it?'
 
@@ -325,18 +315,19 @@ Soon, the Sun dipped below the horizon. I failed to notice it last night, but no
 
 ---
 
-* Main Quest
-  * Escape simulation
-    * ~~Complete tutorial~~
-    * Another Portal? Find Exit.
+- Main Quest
 
-* Side Quests
-  * Create a new rune
-    * Study magic candle Rune
-    * Study heat Rune in bath
-    * Study Runes in the toilet
-  * Extract core password
-  * Save the world?
+  - Escape simulation
+    - ~~Complete tutorial~~
+    - Another Portal? Find Exit.
+
+- Side Quests
+  - Create a new rune
+    - Study magic candle Rune
+    - Study heat Rune in bath
+    - Study Runes in the toilet
+  - Extract core password
+  - Save the world?
 
 ---
 
@@ -353,14 +344,14 @@ I finally had some information on what the calamity was. Seemingly no one here h
 ### [Expert] Mage - Level 20
 
 | Status     | Points    |
-|------------|-----------|
+| ---------- | --------- |
 | Health     | 873/873   |
 | Mana       | 2762/2762 |
 | Stamina    | 81/81     |
 | Experience | 0/2200    |
 
 | Attributes   | Points |
-|--------------|--------|
+| ------------ | ------ |
 | Strength     | 21     |
 | Vitality     | 21     |
 | Agility      | 21     |
@@ -369,12 +360,12 @@ I finally had some information on what the calamity was. Seemingly no one here h
 | Perception   | 30     |
 | Wisdom       | 26     |
 
-*Special Effects:*
+_Special Effects:_
 
-* Magic Boost - You get extra Intelligence, Perception, and/or Wisdom points on every Class Upgrade.
-* Hero's Boost - You get 10-30% extra experience.
-* Test Subject Perk - Unlock special areas.
-* Other Worlder Perk - Immune to perpetual illusions and mind control Spells.
+- Magic Boost - You get extra Intelligence, Perception, and/or Wisdom points on every Class Upgrade.
+- Hero's Boost - You get 10-30% extra experience.
+- Test Subject Perk - Unlock special areas.
+- Other Worlder Perk - Immune to perpetual illusions and mind control Spells.
 
 ---
 
@@ -390,80 +381,204 @@ And so I slept fitfully, dreaming of Runes of flight and confetti.
 
 ## Chapter 29 - A Hero's Welcome (2)
 
-The usual glare of dawming sun woke me from my slumber. It was getting old fast. 'Just five more minutes please!'
+The usual glare of the dawning sun woke me from my slumber. It was getting old fast. 'Just five more minutes please!'
 
-It was not to be. I faced the other side for in protest, yet hardly a wink and I heard a knock.
+It was not to be. I faced the other side in protest, yet hardly a wink passed and I heard a knock.
 
-I hate waking up from deep sleep. Half the time, I get mild headaches when it happens. As if my body itself is naturally resistant to waking up early. Today was not one of those days, thankfully. I did not want to be annoying first thing in the morning at Francisa on today of all days. Still, I wasn't in the best of moods.
+I hate waking up from deep sleep. Half the time, I get mild headaches when it happens. As if my body itself is naturally resistant to waking up early. Today was not one of those days, thankfully. I did not want to be annoying first thing in the morning at Francisa. Still, I wasn't in the best of moods.
 
-"Come on in!" I grunted. It wasn't Francisa who greeted me, however. Just the maid, who cursied and nonchantalay kept a jar of water on the table and went to draw the bath.
+"Come on in!" I grunted. It wasn't Francisa who greeted me, however. Just the maid, who curtsied and nonchalantly deposited a jar of water on the table and went to draw the bath.
 
-I did the necessities, coming out the bath a while later with my Tutorial robe on, mood markedly improved. The breakfast was laid on the table, and a beaming princess was sitting on the side.
+I did the necessities, coming out of the bath a while later with my Tutorial robe on, my mood markedly improved. The breakfast was laid on the table, with a beaming princess on the side.
 
 "Today is a fine day, isn't it Sir Pat?" she uttered, caressing out non-existent wrinkles on her expensive purple-hued dress. This was the same variant of the one she wore when we first met. An "important event" NPC costume, I figured.
 
-"Yep. You're looking quite nice in the dress." I casually complimented and sat down. "And please Francisa, just call me Pat." A maid hovered by to drop dollops of orangish stuff into my plate. And some bread. These guys love their breads.
+"Yep. You're looking quite nice in the dress." I casually complimented and sat down. "And please Francisa, just call me Pat." A maid hovered by to drop dollops of orangish stuff into my plate. And some bread. These guys love their bread.
 
-"T-thanks. Sir Pat. I mean, Pat." She blushed a little. 'Cute.' "Ah, my apologies. It would get some getting used to. Please try the bhuna pumpkin sauce, it's a specialty where we come from. Or rather, used to be." She tapered into silence at the end, but perked up again by proclaiming my tasks for today. "Today we'll be going around the Noble quarters and the town square in commoner's district in the cerimonial chaises. Hero and their representatives in each one. Hopefully, we'll be back by lunch, where we will meet Hamilton, my dear friend. The evening will be taken up for your discourse with the Royal Mages. They shall lay out your tutelage for coming weeks. I shall attend to you whenever I can, of course."
+"T-thanks, Sir Pat. I mean, Pat." She blushed a little. 'Cute.' "Ah, my apologies. It would get some getting used to. Please try the bhuna pumpkin sauce, it's a specialty where we come from. Or rather, used to be." She tapered into silence at the end but perked up again by proclaiming my tasks for today. "Today we'll be going around the Noble quarters and the town square in commoner's district in the ceremonial chaises. Hero and their representatives in each one. Hopefully, we'll be back by lunch, where we will meet Hamilton, my dear friend. The evening will be taken up for your discourse with the Royal Mages. They shall lay out your tutelage for the coming weeks. I shall attend to you whenever I can, of course."
 
-I just nodded, quietly savouring the bitter-sweet taste of the orange sauce, a bit overwhelmed by the extreme emotional swings of this NPC. Only thing missing in my opinion was a steaming cup of joe. I didn't even mind having the bread again, soft and freshly baked out the oven. The day was getting better with the minute.
-
-<br />
-<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
-<br />
-
-We gathered into the main hall - the one that had doubled as a throne room, a dining hall and a summoning room so far.
-
-'This is it!' Today, I was actually venturing out beyond the safe zone. A whole new world and all I'd seen were a couple of rooms and a backyard. Sure, being gawked at my the masses sucked the fun out a bit, but I was excited to step out nonetheless. 'What sort of wonders shall I see today?'
-
-Each "hero" - 'Heh.' I still chukled at that - was standing beside their representative and a couple of Royal Guards. The guards did not have shining armor or magic swords. Instead, they carried spears and round shields like aspis, reminding me of Spartan Hoplites. They did look stone cold deadly.
-
-Divin and Anna, presumably, were having a whispered conversation. Not romantic. No. More like mafiosos discussing an underground business deal. Taro, still grinning but with bags under his eyes, had the other princess clutching his arm like a vise. 'What had Francisa called her? Prissy?'
-
-Carol still had her representative besides her, but the distance between them left no one in doubt about their closeness. Arya was with a little kid that had the same sky blue eyes and dirty blonde hair as Francisa. 'Her little brother?'
-
-Julie was having an animated conversation with Johnathan. 'The guy could do to loosen up a bit.' And finally, little old me with my - err, not actually mine - princess, who was going on about the importance of soon to be held "parade" in calming the people down. I nodded and hmm'ed where necessary, but the words filtered in one ear and went right out the other.
-
-We weren't standing close enough to speak with each other, so I simply smiled and mouthed a "hey" when our eyes met. Divin gave a barely perceptible nod. Taro half-waved with his free hand. Carol smiled and returned a wave with enthusiasm. 'She is probably the most excited of us all about this.' Arya was staring at the still-chatting princess by my side, missing my signal entirely. Julie gave a firm nod back. We had planned to meet today sometime, but never decided on the time. 'Perhaps after lunch?'
-
-My thoughts were interruped by another cutscene. The main clan leader NPC stode up and began speech of gratitude and co-operation with suitably pompous words. With that we stepped out the large doors of the hall out into the sunlight.
+I just nodded, quietly savoring the bitter-sweet taste of the orange sauce, a bit overwhelmed by the extreme emotional swings of this NPC. The only thing missing in my opinion was a steaming cup of joe. I didn't even mind having the bread again, soft and freshly baked out of the oven. The day was getting better with the minute.
 
 <br />
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
 <br />
 
-Another garden. For a while, I had forgotten about the front gardens. These ones were spread over a wide area, however, and majority of that area was taken by nicely trimmed grass. Sporadically planted were some sort of short trees with white trunks and round tops. My attention was taken up by the small open-topped carriages - carriages whose decorations had decorations. I was loath to even be seen near such gaudy creations, but I suppose it was too late to present my sugessions.
+We gathered into the main hall - the one that had doubled as a throne room, a dining hall, and a summoning room so far.
 
-We went ahead and climbed upon the abberations. Not forgetting my chivalry this time around, I extended a hand to Francisa. NPC or not, her suprise and eventual flush was worth the effort. I did let go of the hand after she climbed up though. 'Was she trying to hold on?' Perhaps it was just my imagination.
+'This is it!' Today, I was actually venturing out beyond the safe zone. A whole new world and all I'd seen were a couple of rooms and a backyard. Sure, being gawked at by the masses sucked the fun out a bit, but I was excited to step out nonetheless. 'What sort of wonders shall I see today?'
+
+Each "hero" - 'Heh.' I still chuckled at that - was standing beside their representative and a couple of Royal Guards. The guards did not have shining armor or magic swords. Instead, they carried spears and round shields like aspis, reminding me of Spartan Hoplites. They did look stone-cold deadly.
+
+Divin and Anna were having a whispered conversation. Not romantic. No. More like mafiosos discussing an underground business deal. Taro, still grinning but with bags under his eyes, had the other princess clutching his arm like a vise. 'What had Francisa called her? Prissy?'
+
+Carol still had her representative beside her, but the wide distance between them left no one in doubt about their relationship. Arya was with a little kid that had the same sky blue eyes and dirty blond hair as Francisa. 'Her little brother?'
+
+Julie was having an animated conversation with Johnathan. 'The guy could do to loosen up a bit.' And finally, little old me with my - err, not actually mine - princess, who was going on about the importance of soon-to-be-held "parade" in calming the people down. I nodded and hummed where necessary, but the words filtered in one ear and went right out the other.
+
+We weren't standing close enough to speak with each other, so I simply smiled and mouthed a "hey" when our eyes met. Divin gave a barely perceptible nod. Taro half-waved with his free hand. Carol smiled and returned an energetic wave. 'She is probably the most excited of us all about this.' Arya was staring at the still-chatting princess by my side, missing my signal entirely. Julie gave a firm nod back. We had planned to meet today sometime, but never decided on the time. 'Perhaps after lunch?'
+
+My thoughts were interrupted by another cutscene. The main clan leader NPC stood up and began another speech of gratitude and co-operation with suitably pompous words. With that, we stepped out the large doors of the hall out into the sunlight.
+
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
+
+Another garden. For a while, I had forgotten about the front gardens. These were spread over a wide area, however, and a majority of that area was taken by nicely trimmed grass. Sporadically planted were some sort of short trees with white trunks and round tops. My attention was snatched up by the small open-topped carriages - carriages whose decorations had decorations. I was loath to even be seen near such gaudy creations, but I suppose it was too late to present my suggestions.
+
+We went ahead and climbed upon the aberrations. Not forgetting my chivalry this time around, I extended a hand to Francisa. NPC or not, her surprise and the eventual flush was worth the effort. I did let go of the hand after she climbed up though. 'Was she trying to hold on?' Perhaps it was just my imagination.
 
 The chariots began with a start. The horse bound on mine was a black shiny thing, brushed to high heavens. The lead carriage had the clan leader and his wife. Us test subjects followed. In the rear was another chariot with a Royal Mage and an Archer on board.
 
-Our procession went through the gardens and out onto a dirt road. It was pressed flat and had a smooth ashphalt-like surface though, probably done so using magic. The road widened out as we went futher, when we finally came across something resembling a city.
+Our procession went through the gardens and out onto a dirt road. It was pressed flat and had a smooth asphalt-like surface though, probably done so using magic. The road widened out as we went further when we finally came across something resembling a city.
 
-Apparently, the "palace" was at the center of this city. The palace was surrounded by the Noble quarters on all sides. The Noble quartes, as it turned out, was a bunch of spaced out buildings that looked like they were made of granite. Closer look revealed everything to be made of some dark smooth stone. Tuning into Francisa-radio revealed why.
+Apparently, the palace was at the center of this city. It was surrounded by the Noble quarters on all sides. The Noble quarters, as it turned out, was a bunch of spaced-out buildings that looked like they were made of granite. A closer look revealed everything to be made of some dark smooth stone. Tuning in to radio-Francisa revealed why.
 
-"... and so they had to build everything up in a hurry at first. Never knew when the goblins would attack. But later on, we employed Stone Masons, Earth Mages, High Enchanters and so on to construct solid buildings out of compressed stone blocks and enchanted binding agent. The plan was to turn the whole city, but resources dwindled out soon enough..."
+"...And so they had to build everything up in a hurry at first. Never knew when the goblins would attack. But later on, we employed Stone Masons, Earth Mages, High Enchanters, and so on to construct solid buildings out of compressed stone blocks and enchanted binding agents. The plan was to convert the whole city, but resources dwindled out soon enough..."
 
-'Yes, just when the people with deep pockets had their home sorted out, the resources "dwindled"!' I almost snorted.
+'Yes, just when the people with deep pockets had their homes sorted out, the resources "dwindled"!' I almost snorted.
 
-Francisa stopped talking then, as we sighted a bunch of NPCs hanging out in their balconies, wearing their "important day" constumes and waving bright colorful clothes at us. The procession stopped here for a bit, some heavy words filtering back from front-most carriage. A bit of cheering followed and we moved on. I saw a little boy waving a green cloth with all his heart, screaming something at me. My lips curled up on their own and my hand followed. I waved. Francissmirked. 'Oh no!'
+Francisa stopped talking then, as we sighted a bunch of NPCs hanging out in their balconies, wearing their "important event" costumes and waving bright colorful clothes at us. The procession stopped here for a bit, some heavy words filtering back from the front-most carriage. A bit of cheering followed and we moved on. I saw a little boy waving a green cloth with all his might, screaming something unintelligible at me. My lips curled up on their own and my hand followed. I waved. Francisa smirked. 'Oh no!'
 
-From then on, I had to wave at every bloody Tom, Dick and Harry. 'You brought this on yourself. Now, you gotta suck it up and just smile & wave boy!'
+From then on, I had to wave at every bloody Tom, Dick, and Harry. 'You brought this on yourself. Now, you gotta suck it up and just smile & wave boy!'
 
-We circled around the quarters, stopping every now and then. Soon, we left the magically constructed road and went on an actual dirt road. One with generous helping of potholes and crevices. Thankfully, the carriages had pretty good suspension. I had a sneaking feeling that some magic was involed. More Runes, perhaps. I couldn't peek under the plentiful decorative coverings, however. 'I guess they are meant to hide as much as attract. Clever.'
+We circled around the quarters, stopping every now and then. Soon, we left the magically constructed road and went on an actual dirt road. One with a generous helping of potholes and crevices. Thankfully, the carriages had pretty good suspension. I had a sneaking feeling that some magic was involved. More Runes, perhaps. I couldn't peek under the plentiful decorative coverings, however. 'I guess they are meant to hide as much as attract. Clever.'
 
-Expansive stone houses gave way to shoddy wodden constructs. Eventually, we happened upon a clearing where many an enerprising merchants laid their wares. The NPC crowd here was not wearing their "important event" dresses. I doubted they even owned any. Many looked on in surprise and wariness as the guards cleared some space near the center. The leader spoke some words up ahead and there was some slight cheering. Then we were asked to alight our carriages and gather around.
+Expansive stone houses gave way to shoddy wooden constructs. Eventually, we happened upon a clearing where many an enterprising merchant laid their wares. The NPC crowd here was not wearing their "important event" dresses. I wondered if they even owned any. Many looked on in surprise and wariness as the guards cleared some space near the center. The leader spoke some words up ahead and there was some slight cheering. Then we were asked to alight our carriages and gather around.
 
-"Dear heros!" NPC pseudo-king announced, "This is where we must part ways." 'Umm... what?'
+"Dear heroes!" NPC pseudo-king announced, "This is where we must part ways." 'Um... What?'
 
-"Sir Divin, Sir Taro, Lady Julie. Representative clan carriages await your presence at the edge of this town, just a bit further. Bereave not your parting, for we foregather soon enough!" 'Goddamn it! Stupid fucking storyline.'
+"Sir Divin, Sir Taro, Lady Julie. Representative clan carriages await your presence at the edge of this town, just a bit further. Bereave not your parting, for we shall foregather soon enough!" 'Goddamn it! Stupid fucking storyline.'
 
-I was grouchy. I wanted to plan ahead. To make sure we exchanged information regularly. Hell, even devise a *means* to exchange information and keep in touch. I didn't know if I could exit on my own. Now, we had to split up just like that.
+I was grouchy. I wanted to plan ahead. To make sure we exchanged information regularly. Hell, even devise a *means* to exchange said information and generally keep in touch. I didn't know if I could exit on my own.
 
-"Guess this is it, huh? Wish we had discussed stuff some more." Julie said. "We will meet again as soon as we reach required level to go out on our own." Divin commented. "Yeah. Time will fly away, you'll see." Taro chipped in.
+"Guess this is it, huh? Wish we had discussed stuff some more." Julie said. "We will meet again as soon as we reach the required level to go out on our own," Divin commented. "Yeah. Time will fly away, you'll see." Taro chipped in.
 
-We said our goodbyes and swore to meet up again. Their carriages went ahead. Our turned around and heading the opposite direction. Back the way we came. Francisa stayed quiet the whole way back. Perhaps she sensed my crummy mood.
+We said our goodbyes and swore to meet up again. Their carriages went ahead. We turned around, heading in the opposite direction - back the way we came. Francisa stayed quiet the whole way. Perhaps she sensed my crummy mood.
 
-While I had known these guys for less than a month, we had come from the same place and overcame our trials together. I was a bit bitter at the separation, however temorary or necessary it was supposed to be. Maybe I had come to depend on them a little, or even feel a bit comfortable knowing they were around. 'I guess I should be happy that atleast Carol and Arya are around.'
+While I had known these guys for less than a month, we had come from the same place and overcame our trials together. I was slightly bitter at the separation, however temporary or necessary it was supposed to be. Maybe I had come to depend on them a little, or even feel a bit comfortable knowing they were around. 'I guess I should be happy that at least Carol and Arya are around.'
 
-We made our trip back in silence. We followed the same route back. The same people cheers us again, with equal enthutiasm. Soon we converged on the palace. Francisa promised to drop by during lunch and hooped off. Inside the hall, I talked with Arya and Carol, planning to meet again after lunch and get our headings. I went in the room and plopped into the bed. Even just smiling and waving can get mighty tiring.
+We made our trip back in silence, followed the same route back. The same people cheered for us again, with equal enthusiasm. Without stooping, we converged on the palace soon enough. Francisa promised to drop by during lunch and hopped off. Inside the hall, I talked with Arya and Carol, planning to meet again after lunch and get our headings. I went into my room and plopped into the bed. Even just smiling and waving can get mighty tiring.
+
+## Chapter 30 - A Hero's Welcome (3)
+
+"Sir Pat...SIR PAT...!" A faint but persistent voice assaulted my senses. "Um... Five more min-"
+
+A gentle hand caressed my shoulder and THAT jolted me awake. I wasn't used to such mellow wake-up calls - the alarm on my phone blaring out being the usual deal.
+
+I opened a bleary eye and noticed Francisa, in yet another costume. Greenish, less ceremonial, and far too frilly for my tastes.
+
+"Have you rested well? Do forgive me, but it _is_ time for the luncheon, Sir Pat." She spoke softly.
+
+'Damn, when did I fall asleep?' I sat up. 'Ah, she was bringing a friend along. Almost forgot with all that went down in the morning.'
+
+"Yeah, I did. Must've been more tired than expected. No need to apologize." I smiled at Francisa.
+
+"I understand, Pat. All that waving around must've been exhausting indeed." She smirked. 'Was she always this sassy?'
+
+I snorted and went to wash my face. She called for a maid, who immediately rolled in a trolley of delicious smelling food and started laying out plates on the table.
+
+"Today might be your last day of leisure Pat," Francisa called out as soon as I stepped back into the room. "After all, you will start training from tomorrow. Though it should be more of a lecture than an exercise in your case."
+
+"Right." 'Guess my stamina won't be impressing anyone soon' "When is your friend coming over?"
+
+"Oh, he's already in the palace. Right now he is greeting my lord father. Should be here presently." She was absentmindedly caressing one of her frills watching the maid finish up her work.
+
+'I wonder how this new NPC will be like. Heh. I never thought I would say this but these characters are a bit too realistic. What was his name again?'
+
+Just as the maid retreated into her corner, there was a knock on the door. 'Speak of the devil!'
+
+"Enter." Francisa intoned. A tall man with a broad physique and a sunny smile pushed the door open. He carried himself with a lazy grace on heavy footsteps. Dark brown hair that ended in curls sat neatly on his head. And his light brown eyes danced with easy mirth. They lit up on seeing Francisa, who had walked ahead to meet him. They hugged each other lightly and then he stood beside her staring at the crimson patterns on my robe.
+
+"Ahem. Sir Pat, this is my dear friend. Shield-Knight Hamilton." Francisa introduced him, then turned to him with a respectful gesture in my direction. "And gracing us for lunch today with his presence is the Hero-Mage Sir Pat."
+
+"It is an honor, Sir Pat." His eyes turned somber and then he gave a deep bow that, despite his bulky frame, was balletic.
+
+I nodded. 'Damn it this is awkward. Do I have to bow as well? Nah, I'll only end up making a fool of myself.' "It's nice to meet you as well, Hamilton." 'I don't think I'll forget his name again, now that I heard it clearly.'
+
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
+
+Hamilton was the most chill NPC I had encountered so far.
+
+Once we got over the initial meeting ice-breakers, we had a lovely lunch. The food was awesome as usual. Hamilton soon loosened himself, starting to lightly tease Francisa. I joined in as well later, adding a few jabs of my own, leaving her red in the face.
+
+He was easy to talk to. He never once said any words that had me wishing for a dictionary like NPC clan head. Nor did he ramble on and on like Francisa tended to do oftentimes. A jape here, an anecdote there, the guy was overall quite convivial. Even Francisa was enjoying herself.
+
+Soon though, the lunch was over. We said our goodbyes. Hamilton offered to show me around the Knight training ground when time allowed. "I shall escort Hamilton outside. Please take some time to yourself, Pat. I shall arrive in the early evening for our assembly with the Royal Mages." Francisa said and strutted off, leaving the maid with the cleanup duty.
+
+This was the same NPC who had been attending my room for the last couple of days. Average face, slightly tanned skin, dark hair tied in a loose bun. "Hey, need a hand?" I offered.
+
+She seized up, jerking her face upward and looking at me with wide eyes. "N-No Sire, please. I-I got this." She stuttered.
+
+"Um... Okay then. I'm gonna get some rest-" 'No, have to meet with Arya and Carol.' "Actually, I'm gonna head out for a bit. Thanks for cleaning up." I beamed and headed off. I was in a good mood as well.
+
+The good mood did not last long. The shade in the garden did little to ward against the heat rolling off in waves from the blazing afternoon sun. Even examining the light Rune on magic lamps got dull in a while. After thirty more minutes of waiting, the sweat had formed a full layer between my skin and the robe. I felt myself losing SP just sitting there. 'Where the hell are they?'
+
+I wish I had my phone with me. I would've called them ten times by now. Eventually, I gave up and trudged back to my room. Thankfully, it was somewhat cooler inside. 'I'll look for them later.' My legs found their way towards the bed, and for the second time that day, sweet slumber stole me like a master thief.
+
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
+
+The sun had gone down considerably when I woke up next. I sat up on the bed, contemplating the lengthening shadows.
+
+For a moment, I wondered what my folks were up to again. 'Probably sleeping. And will keep sleeping while you waste time here.' I had no "better half" to worry about, haven't had since recently. 'Man, don't think about her again.' I mentally chastised then consoled myself. 'You have literal princesses jumping into your bed now!'. Then I chuckled, imagining what some of my friends from back home would've done in my situation. 'Home, eh?'
+
+I had assumed I'd find some way to exit soon after leaving the tutorial. Sure, it was just day 2 here, but it wouldn't be as "soon" as I thought it to be. In fact, I was at a dead-end on that front.
+
+The storyline offered so far was the generic "hero save world" crap. I had hoped to avoid it entirely if the path to exit was clear. Now? I wasn't sure if I could escape even after saving the world, despite my assurances to others.
+
+One thing was apparent - I lacked information. About magic and how it interacted with this world. 'Yes, this ain't a sprint no more. Think marathon.' I gathered my resolve, taking a deep breath to calm my unsettled nerves. Getting sentimental won't help anymore. That was easier said than done though, given I had lingered among strange people and stranger lands for a better part of a month. Against my wishes, that too. True, I liked to travel as much as the next guy, but this unexpected vacation had thrown me into disarray. Just as a weight threatened to squeeze my heart, a soft knock rang out in the suddenly stifling room, bringing me out of my stupor. "Sir Pat? Are you awake?"
+
+I took a deep breath again, finally managing to shake off whatever melancholy had crept upon me. "Yep. Come on in!" I shouted, faking a smile.
+
+"I see you're awake this time." Francisa's eyes twinkled.
+
+'This girl!' "Were you hoping for another chance to grope me?" I smirked back.
+
+"G-Grope? I was merely hoping to awaken you. I scarcely t-touched your shoulder." She panicked a little, a rush of red coloring her cheeks and ears.
+
+"Sureee." I drawled, lips stretched in a smug smile.
+
+She caught on before I could tease further though, smirk replaced by a business smile. Back to serious mode. "Royal Archmage Kazif Arkanis will be meeting us in the mages' tower." She spoke. "He is the current captain of Royal Mages squadron and also in charge of Lohengramm Mage Tower." 'Do I notice a slight disdain in her tone?' "He will arrange for your tutelage."
+
+"I see. He's the one teaching me?" I questioned.
+
+"No, he will only confirm your Status, then assign mentors and necessary resources for you."
+
+"Hmm. I should go wash my face again. When is the meeting?"
+
+"The audience is in a while, but we shall present ourselves there soon and wait inside anyway." She said with a thoughtful look on her face, which then turned back into her earlier smirk "And yes, you _should_ wash your face. Your luck stat must be in excess; after all, you have acquired a wrinkle-immune robe to sleep in, a deed you seem quite fond of performing often."
+
+"Heh." I had no retort to that but a light chuckle. And the robe _was_ quite comfy. Being free of wrinkles was a secondary concern to me.
+
+"Oh, by the way, Lady Arya and Lady Carol wish to speak with you tomorrow. You all shall have breakfast together. I was given to understand that you missed your concourse today due to a mismatch in luncheon timings." 'Well, that is one mystery solved."
+
+Wondering if luck attribute actually existed, I headed out with the princess in tow.
+
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
+
+The mage "tower" was a three-story high round structure made of similar compressed stone as the palace. More broad than high, we headed towards one of the four entrances - one in each cardinal direction, according to the princess. I was a bit disappointed with the distinctly non-magical and unimpressive architecture but then again, I should have expected it. These people are essentially third-generation refugees. The Sun was kissing the horizon behind the tower, turning it into a shadowy featureless giant to my eyes.
+
+Soon we reached the eastern entrance. A large polished door adorned the otherwise plain stone wall. The door stood out due to the numerous designs tastefully etched across the surface. My Perception sphere had already picked up seven separate runes and three intertwined circles. At times like these, I dearly missed my phone. 'Could've just taken a photo now and studied them all in detail later. I hope I get a chance to go over them at some point.'
+
+Francisa extended her hand and touched her palm on the Circle that was etched at the center of the door. It was one of the more distinguishable patterns, the other circles on either side barely visible in the waning light. I would've entirely missed the Runes if not for my ability. They were snugly hidden in the decorative but useless patterns scratched all over the door. I sneakily selected the constructs and ran identify on all three Circles, giving me respectively Circles of Authentication, Intimation, and Alarm from left to right.
+
+I watched in fascination as she scrunched her eyebrows a bit in concentration. The middling Circle - which I assumed to be a form of a magical doorbell - glowed a slight blue spreading a bit across the other Circles, upon which she withdrew her hand. The glow faded after a few seconds as we waited. By the time the sun was halfway down the horizon, the door smoothly swung inside to reveal a dimly lit room and a man in dark robes standing at the threshold.
+
+Squinting my eyes slightly, I noticed that the robes were not dissimilar to my own. Except the color was deep purple instead of bright crimson and more importantly, instead of magic Circles, it had what appeared to be absolute hogwash. Not a single Rune lit up in my perception, despite the nouveau riche appearance and close imitation of Runes.
+
+"F-Fredrick!?!" Francisa almost squealed. "Why are you here?"
+
+"Hello to you too, dear Francisa. As for why I am here - well, I am one of the _only_ two apprentices to His Eminence, The Royal Archmage. As such, I have leave to come and go from the tower as I deem necessary." He then turned to me, inspecting me over from head to toe, not once but twice. Our eyes met, and he puffed a small breath. 'What crawled up this NPC's ass today?'
+
+Turning to Francisa again, he continued. "The hero's session is not till sundown. My master is not so idle as to accommodate those who have otiose time to spare."
+
+"Fredri-"
+
+"But," he cut her off, "since it is you asking, princess, I shall oblige." So saying, he turned his back with a flourish and headed inside. Sending an apologetic glance towards me, Francisa gestured for me to follow her as she walked inside. Her gait was not the princess-y strut she often employed but an unwieldy slog, as if carrying a mountain on her delicate shoulders.
+
+I shrugged and followed. This should be one of the last cut-scenes, I presumed. Once I get a "training" schedule, I would be free to experiment again. And finally, start looking for a way out.
