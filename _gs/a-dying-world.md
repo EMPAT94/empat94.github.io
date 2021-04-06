@@ -449,7 +449,7 @@ Expansive stone houses gave way to shoddy wooden constructs. Eventually, we happ
 
 "Sir Divin, Sir Taro, Lady Julie. Representative clan carriages await your presence at the edge of this town, just a bit further. Bereave not your parting, for we shall foregather soon enough!" 'Goddamn it! Stupid fucking storyline.'
 
-I was grouchy. I wanted to plan ahead. To make sure we exchanged information regularly. Hell, even devise a *means* to exchange said information and generally keep in touch. I didn't know if I could exit on my own.
+I was grouchy. I wanted to plan ahead. To make sure we exchanged information regularly. Hell, even devise a _means_ to exchange said information and generally keep in touch. I didn't know if I could exit on my own.
 
 "Guess this is it, huh? Wish we had discussed stuff some more." Julie said. "We will meet again as soon as we reach the required level to go out on our own," Divin commented. "Yeah. Time will fly away, you'll see." Taro chipped in.
 
@@ -582,3 +582,295 @@ Turning to Francisa again, he continued. "The hero's session is not till sundown
 "But," he cut her off, "since it is you asking, princess, I shall oblige." So saying, he turned his back with a flourish and headed inside. Sending an apologetic glance towards me, Francisa gestured for me to follow her as she walked inside. Her gait was not the princess-y strut she often employed but an unwieldy slog, as if carrying a mountain on her delicate shoulders.
 
 I shrugged and followed. This should be one of the last cut-scenes, I presumed. Once I get a "training" schedule, I would be free to experiment again. And finally, start looking for a way out.
+
+## Interlude - A Maid's Resolve
+
+"Elise. Such a beautiful name!" My Ma used to tell me. "A beautiful name for a beautiful girl."
+
+Hah. Fat lotta good it did me.
+
+Beautiful girls with beautiful names don't last long in the slums. At least, they don't stay beautiful for long.
+
+Yet, even horny fucks with grabby hands won't touch you if you're smeared in mud and shit, not when they have other options. I learned that quite early on. Had to, if I ever wanted to get outta there in one piece.
+
+Surrounded by dirt and filth, my heart always sought better places. Safer places. Less smelly places. "Your prince will come, baby-girl." My Ma used to console little me with dreams of a man coming to pick me up from my misery one fine day. Worse, I believed her.
+
+As I grew up, I wished for _anyone_ to come take me away. My ways of smearing myself to escape notice were not working anymore. I had taken after my Ma, turning shapely in the right ways.
+
+One evening, when some drunk bastard decided he wanted the daughter along with the mother for company, _I_ decided I had enough. Fuck princes, if I waited any longer I'd end up like my Ma - stumbling from one drunk fool at day to another violent ass come night.
+
+That very night, I packed my bags. I was gone by the time dawn broke. "One day Ma, I'll return," I swore, "and _I_ will come to pick you up from this shit-hole and take you to a better place."
+
+I did not say goodbye. It would've broken her weak heart. Besides, I was planning to return someday. She would understand.
+
+I never saw my Ma again, God bless her poor soul.
+
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
+
+I was blossoming into a beautiful young woman by the time I passed fifteen summers. And I used it fully to my advantage.
+
+A proper noble boy he was. About a year younger than me.
+
+Oh, the promises he made. Eternal Love. Heart, Mind, and Soul. Forever and Always!
+
+Hah.
+
+Still, I played the maiden in love perfectly. Blushed at his proclamations. Demurred at his gifts. I had him wrapped around my little finger.
+
+And so we hatched a plan to stay together "forever."
+
+I became a maid of his household and two days later, I lost my purity to him.
+
+I was finally here. I had made it. Safe. Well-fed. Warm. Dare I say, happy? My Ma would've been overjoyed to see me here.
+
+And then I caught his seed.
+
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
+
+Soon, I learned that some Nobles were no less cruel than the filthy slum dwellers I had escaped from. Just wrapped in fancy threads speaking fancy words.
+
+They threw me out when I started to show. With rags on my back and a few coppers to my name.
+
+The boy, bless his heart, still had lingering affection for me. So he set me up in a homely shack on the outskirts of a village inside their lands.
+
+I carried through without too much difficulty, delivering a healthy babe. I named her Minerva, after my Ma. With Minerva's father's sneaky help, I had just enough to keep me and my girl warm and well-fed. The villagers were quite kind as well. I was content.
+
+A few summers passed. The noble boy turned into a man, with a wife by his side. We spoke no more. It was fine though, I did odd jobs around the village, my skills as a noble's maid were quite handy often. I was not lacking for anything.
+
+It was Minny's sixth summer when the signs started showing. A dizzy moment here, a stumbled foot there. I had hoped she would recover in time. The kindly neighbors provided some herbs and concoctions. Nothing helped. Once she passed out in the field playing with her mates not a month later, I decided to act.
+
+I reached out to her father once again. Age may have turned the boy into a stoic young man, but his heart still thrummed with compassion. Against his dear wife's wishes, he arranged for a healer. Not the magical mender - they were too costly for a bastard daughter - but an Alchemist who dabbled in healing potions.
+
+The Alchemist, in turn, contrived a potion that would delay her symptoms. "I've done what I can, but she needs a proper Healer," He warned. Where in the clear blue sky is a "proper Healer" gonna drop from in this backwater village? I was at my wit's end. Why does the world persist in fucking me around? Had I not suffered enough?
+
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
+
+"Ma?" my sweet baby looked up with teary eyes.
+
+"Hush babe. No crying. Mama's gotta get back to work." I held her steady in my arms.
+
+"How long will you be gone this time?" She brushed off her tears with a dirty hand. For a moment, it reminded me of my own filthy hands smearing muck on my tattered tunic as a young girl. I chased the thought away.
+
+"Not long Minny. Who knows, next time, I might just bring a Healer along and cure you in no time. You'll see. In the meantime, you gonna be a good girl, yes? Do not trouble old Martha too much."
+
+"Yes, Mama." Ah, such a good little girl. I _knew_ she won't trouble anyone. Never had.
+
+I kissed her forehead and left. Minny's father had been kind enough to open up doors for me into the Royal Palace. It had been a real struggle, but I had managed to secure a job in the end. If there was anywhere that I could find a Healer and earn enough coin to hire one, it was here. Minerva's final chance. I wasn't gonna let my baby girl down.
+
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
+
+'Hey, need a hand?' The words still echoed around my mind.
+
+Had the hero really offered to clean up plates? 'Nah. The fucker must've wanted a chance to grab my ass.' I still had a shapely ass. These high-born blokes won't touch a dirty plate even if their life depended on it.
+
+But I knew the looks of men lusting after me. After all, I had gotten them all my life. _Avoided_ them all my life. The hero did not hanker after me like that. His eyes were kind, not unlike Minerva's father. Also, he had the princess waiting on him, did he not? No matter how beautiful I was in the slums, the nobles were on another level entirely - and the princess was the noblest among them. Even I got spent in her blue eyes sometimes when I dared to look into them.
+
+'Bah. Thinking of it won't do me good. The sun was rolling down, and the fat bastard is waiting for me in his shitty tower.'
+
+I made my way to the mage tower, carrying snacks as an excuse. The magic door was open and I headed straight up to the top. I sighted a few helpers running around. They glanced at me but no one stopped me.
+
+"Ah, Elly. You're a sight for sore eyes." Lord fat ass was pacing around the lush carpet. 'I hope you get sore eyes for the rest of your life piggy.'
+
+"Um, thank you, Sire. S-Should I...?" I acted a shy maiden. He preferred it so.
+
+Then he loosed his trousers and sat on his bed with a loud thump. "Yes, and do get that plate of bhuna pumpkin while you're there."
+
+I got his plate. He slurped on the sauce like a damn pig in heat. Minerva would have loved that sauce. One day...
+
+I got down on my knees and got to work like a golem from the bard's story. Stone-faced soul-less automaton.
+
+"He wants lessons! Can you believe it? I told him that there is no need to summon green-skinned outsiders - prophesy be damned, but Siegfried won't pay heed." He gushed as he licked the pumpkin sauce clean off the plate. Nobles got quite unnoble-like when they thought no one was looking. At least no one important.
+
+"And then he asks me to tutor that pile of grime? _ME_? Archmage Arkanis? Even today, the beast-kin tremble upon hearing that name." 'Yes, yes. That would be the ninth time I hear of his glorious conquest this week. '
+
+"Humph." His words came out quickly as his breathing hitched. "I'll show Siegfried. Even I- ah, that's good. Um..." He holds my skull in a vise-like grip. Gods, I always hated this part.
+
+After a few moments of short grunts, I got off my sore knees. The blubber pulls his britches up and walked over to his shiny cupboard. A few fancy hand-wavy gestures and muttered words later, he procured a finger-long vial of clear liquid.
+
+"Now, I spoke with a Healer friend of mine. And he is willing to cure your daughter. But-" He walked up to me, sickly sweet perfume wafting through my nostrils.
+
+'Oh this fat lard, always with something clever. What more does he want? Take off his fancy clothes and sick perfume and he would fit right into the slum's gutter like a rat.'
+
+"B-but? Sire?" I ask meekly.
+
+"I have one more task for you." His sick smile sends a shiver up my spine. "I hear you serve the Mage hero. Take in his food, clean his room, draw his bath, so on." Darn, I see where this is going. "All you have to do is make sure the liquid in this vial comes into contact with his skin. A simple task really." So saying he placed the vial in my palm, not forgetting to feel my arms while at it.
+
+"What is this... Liquid?" Of course, I knew what it was. But it was too sudden. I needed more time to think through this. So I extended the conversation.
+
+"Oh, you need not worry yourself over it, Elly. Just a gift for our dear hero." He chuckled. How I hate when he says my name like that.
+
+"B-but-" Warming the flab's bed is one thing. But cold-blooded murder?
+
+"I must leave for now." He cut me off. "Have to confer with that blasted hero and the mewling princess, no less. I swear," 'My time is up.' "Do this task. One final task for me and your little daughter is as good as cured."
+
+'My baby girl, or the kind hero?' A life for a life. 'Do I even have a choice?'
+
+## Chapter 31 - Best of both worlds
+
+I followed Francisa into a small room with a round stone table and a few wooden chairs around it.
+
+Fredrick was waiting inside, holding a chair out with a slight smirk. Francisa went and sat down on it, a scowl persistent on her face. He then went on to sit right in front of her. I shrugged as I stepped in and sat in between them.
+
+The silence was thick and tense. Fredrick still held a faint smirk as he gawked at Francisa. She, on the other hand, looked confused and angry in equal measure. Just as I was about to break the ice anyhow, the door opened again and another NPC walked in.
+
+"Ah, greetings princess. You're here already?" A woman's voice echoed from behind me.
+
+"Greetings Neysaa!" princess, losing her scowl, "Yes, the hero and I elected to get in a bit early."
+
+The woman walked in from behind me towards the princess. As soon as she entered my sight, I noticed her tanned brown skin and the gait of those who kept themselves physically fit. She had a small light-blue crystal covered in Runes in her gloved hands, which she placed on the table.
+
+"The hero?" She noticed me then. "Oh, Sir Pat. Greetings!" She greeted politely and curtsied. Her robe was similar to Fredrick's. All show and no function. At least she looked pretty in it. "I am Neysaa Ingrasia. Apprentice to the Royal Archmage."
+
+"Greetings Neysaa." I decided to become formal henceforth with new NPCs. At least with _polite_ new NPCs. "I'm Pat, but you seem to have heard of me already. Nice to meet you."
+
+"Of course. I was supposed to assist my master in setting up your tutelage here." She surmised. Turning to Fredrick with a small frown, she continued, "I did not expect Fredrick here, however."
+
+"When I heard my old friend Francisa was coming, I begged His Eminence for his leave and he graciously allowed me to attend as well." He briefly glanced at Neysaa then went back to smirking at Francisa. "How goes it princess? Are you happy now that you got to fulfill your _duty_?"
+
+"Fredric-" the princess started but was cut off again. Another person joined our little meet-up. And it was not little anymore.
+
+An NPC who appeared on died of French Fries and Cheeseburgers sauntered into the room. Fredrick stood up and bowed so low I feared his hair might sweep the ground. "Master!" he spoke with a passion. Neysaa was not far behind. With a formal bow no different than what she gave me, she intoned respectfully - "Master Arkanis". Francisa got up and gave a short bow, one that could even pass as a nod. Going with the flow, I got up as well and nodded to the man. I even smiled, to be polite. He sniffed.
+
+Then he ambled around the table and sat down in front of me. The rest took their seats as well. He held up his palm at the crystal and whispered something too low for me to hear, and the Runes on the crystal shined with a whitish-blue glow.
+
+"Place your hand on the sphere." He spoke in a bored tone.
+
+I looked at the glowing crystal. I sort of knew what it was, but couldn't help myself. "What is this crystal?"
+
+It was Fredrick who answered. "It's a Status Sphere. It shows your Status Window. Every Noble worth their salt has access to one. Even commoners get to access it when they come of age. To think the hero has never even seen it -"
+
+"Enough banter, Fredrick. Do not waste time." The Archmage admonished Fredrick. Perhaps it was angled at me as well?
+
+'But why do they need an artifact to check their Status Windows. Do they not have Spells for it?' I stashed the mystery for another time. Apparently, the guy had a tight schedule. Without hesitation, I placed my hand on the crystal and a small window became visible above just my hand after a second. 
+
+---
+
+### [Expert] Mage - Level 20
+
+| Status     | Points    |
+|------------|-----------|
+| Health     | 873/873   |
+| Mana       | 2732/2762 |
+| Stamina    | 81/81     |
+| Experience | 0/1600    |
+
+| Attributes   | Points |
+|--------------|--------|
+| Strength     | 21     |
+| Vitality     | 21     |
+| Agility      | 21     |
+| Dexterity    | 22     |
+| Intelligence | 32     |
+| Perception   | 30     |
+| Wisdom       | 26     |
+
+*Special Effects:*
+
+* Magic Boost - You get extra Intelligence, Perception, and/or Wisdom points on every Class Upgrade.
+* Hero's Boost - You get 10-30% extra experience.
+
+---
+
+'Wait, this is incomplete - I have a couple more special effects!'
+
+"Pff" Fredrick snickered. Neysaa and Francisa were staring at the screen with wide eyes.
+
+"Do you have no Skills, hero?" Arkanis questioned. This was the first time since he entered that I saw him without his blasé attitude. He seemed curious, amused even.
+
+"No, I don't." 'The Mages here get Skills? Betty mentioned something like that.'
+
+Fredrick chimed in. "A hero with no Skills. Barely at level 20. Deliver us from calamity? Even my younger brother could do better, and he is not thirteen summers yet!" There was still a faint echo of hilarity in his expression.
+
+Francisa soon came out of her daze. "It matters not. He may still use Runes as he sees fit." She gave me a small smile.
+
+"Humph. Not even worth all the trouble..." Arkanis was muttering something to himself. Eventually, he got up with a flourish, picked up the crystal, and left the room; dictating an "I leave this to you" to Neysaa, who was still lost in her own world.
+
+Fredrick leered at Francisa. "See you around, Francisa!" He followed his master out.
+
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
+
+"So..." I glanced at Francisa, then at Neysaa, "What's next?"
+
+"Ahem," Neysaa was apparently done with her ruminations, "The lack of Skills matters not, for the duration of training at the very least."
+
+"Those two were making quite a deal about it though?" I countered.
+
+"Well, Mages can sustain themselves on just Runes, but Rune Scrolls are usually one-time use only while being less effective as similar Skills; and the mana cost is quite significant. Etching a Rune Circle takes too much time and effort to be useful in traditional combat, not to mention they are notoriously difficult to get right. Innate Skills, however, are quite easy on the mana and can be cast in a blink. Not to mention infinitely reusable with a steady supply of mana potions. It may not matter much when working in a large party, the army, or even in a group of Mages. But as a hero -"
+
+"I'll be venturing out in small party where without Skills, I can only depend on a small supply of expensive and ineffective Rune Scrolls. Basically, making me useless. But what about Spells?" I wondered. 'I did pull my weight in the Tutorial, didn't I?'
+
+"Pah. Surely you jest, Sir Pat." Neysaa giggled as she stood from the chair. Francisa answered my query instead.
+
+"The Spells are only visible with the Status Spheres, which are rare enough as is. And no new Spells have been created in the last three hundred years. Each Clan guards their Spell books zealously. The Runes are created from those Spells. The Runes, and as an extension the Scrolls and Circles, are thus more or less set in stone. No one uses Spells anymore beyond that. They are more blueprints than tools of war."
+
+"Aptly put, princess." Neysaa walked to the door, holding it open. "I'm aware you seek many answers Sir Pat, but it is time for us to retire today. We shall sit here again on the morrow after breaking fast. I shall be more than happy to supply any answers that I can. I am to be your tutor, after all!"
+
+We said our farewells and I started my stroll back to the palace. Francisa drifted beside me, glancing at me now and then with furrowed brows.
+
+"Something on my face?" I asked lightly.
+
+"Uh, n-no Pat." She hesitated. "It's, uh, about Fredrick..."
+
+'Hmm, not that I care but she looks eager to vent. Guess I should hear her out?'
+
+"Fredrick?" I nudged her on.
+
+"Yes." She held her hands tightly together. "He, uh, may have had feelings for me for a time. For the way he acted today, I beg your forgiveness on his behalf."
+
+Honestly, I was more curious about the Archmage. His dark purple robe had several intermingling Runes. But he acted aloof and ran off before I even had an opportunity to talk properly. I assumed Fredrick was just coded as an asshole NPC and did not give him another thought.
+
+"Um, sure. I don't really mind. What about you? Have you _had_ feelings for him too?" I teased her. Ostensibly, I touched a sore spot.
+
+"N-no. I never... I belong to Sir Pat now. Please, believe me." I noticed moisture forming on the corner of her eyes. Her hands were clamped together so hard that they turned white. She stopped walking and bowed her head. "I swear on my name as the Royal Princess of Clan Lohengramm."
+
+'Wha-?' I stood still, gawking at her sudden change in demeanor. She let out a soft and mightily suppressed sob. Before it could turn into a full-fledged river of tears, however, I hastily consoled her.
+
+"Hey, hey! Francisa. Look at me." I held her shoulders. "Come now, raise your head. I was just joking, okay? It is not your fault but mine. I'm sorry. Will you forgive me?"
+
+It took the rest of our march back to the palace to calm her down. 'Hold on, did she say she belonged to me now?'
+
+I decided against broaching the subject again. We had a full dinner again, with me digging into interconnections of Spells, Runes, Scrolls, and Circles. My gap of general knowledge regarding magic usage in the Simulation was slowly filling up.
+
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
+
+"Aye, and he just disappears right in front of my eyes; like poof!"
+
+We were in my room. Carol, Arya, and I were sitting at the table laden with bread and some hot green liquid. It was not tea. Carol was currently engaged in recalling her introduction with her mentor. My usual maid was frolicking in the corner. 'What was her name again? Elaine? Damn it, I forgot.'
+
+"Looks like you both got along well with your tutors. And _I_ have to read the daily journal, or I should say fanatic mutterings, of some dead old woman." Arya complained as she tore her bread with a vengeance. Her tutor had still not been decided. In the meantime, she was provided with Francisa's great-grandmother's effects to study. Effects as in, a few ancient books and a broken staff to be precise. Somehow related to a Church of Healers.
+
+I had already regaled them with the description of the new NPCs and my interactions with them from last night. "Heh, don't worry Arya, you'll get yours soon enough. And did your mentor get your Status checked as well Carol?"
+
+"Oh, yea. He did place a wee shiny bauble in my hands. It was missing some effects though." Carol mused. "He said I was very lucky with my Skills. They are quite rare, he says."
+
+"And I was almost laughed out the room for having no Skills." I sniffed.
+
+"But it doesn't matter for you, right? What with your magic spells and stuff." Arya queried while taking a sip of the bitter not-tea.
+
+"Well, yes. I can simply flick my finger up and check the Spells. But these NPCs cannot even see their Status Windows without that crystal." I supplied. 'Dare I risk another sip myself?' "I haven't told them that yet. Been wondering if I should at all. It would turn their world upside down, at least for the Mage Class."
+
+"uoah thinfin toh muh." Carol must've come across a particularly stubborn piece of bread.
+
+'Was I?' The crystals were somewhat of a status symbol in this world. Holding one not only signified their high position in the hierarchy, but also gave them the power to create Runes. If they came across someone who could "Identify" without the crystal? Cast Spells bypassing the Runes like their Skills but not restricted to them? Create new Spells from scratch? 'Imagine the chaos!' Even the system itself was hiding information from the NPCs. Perhaps caution was the best approach.
+
+"I'm gonna learn how to turn Spells into Runes today." I continued the conversation. "Runes are supposedly the building blocks of this world's entire magical system. They draw them into Circles to do magic. Some Circles are etched on surfaces to make them permanent. Like my hood on the robe there. They also ink Runes on a piece of paper for a one-time effect. Scrolls, they call them."
+
+"Interesting. How are Scrolls different from Circles?" Arya, very much into the explanation.
+
+"Circles are intricate connections of a large number of Runes, designed for extreme efficiency. Least mana for most effect. They all are also, well, circular for some reason. Some high-level Circles are made up of many low-level Circles. And most Circles require multiple Mages and sustained supply of mana to react." I took the leap, finally sipping on the bitter liquid to hydrate my parched throat. Scrolls, on the other hand, are not restricted to a circular shape, for one. Also, they take up too much mana and have less of a response. A Scroll of lightning, for example, will either throw less lightning, or work for a shorter time, or both; as compared to a Circle. It does use a lot less time, effort, and resources to make that Scroll of lightning, however, as compared to etching a Circle of lightning on a staff. And the Scroll can be used by a single Mage in a pinch, with no issues. Also, a minute mistake while engraving the Circle and the staff is useless." I concluded my explanation.
+
+"And then _you_ have your Spells," Carol smirked.
+
+"And then I have my Spells." I smiled. "Best of both worlds. And then some."
