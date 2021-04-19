@@ -1,6 +1,6 @@
 ---
-  title: Volume 2 - A Dying World
-  part: 2
+title: Volume 2 - A Dying World
+part: 2
 ---
 
 # Volume 2 - A Dying World
