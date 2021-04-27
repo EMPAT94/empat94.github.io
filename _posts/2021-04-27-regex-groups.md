@@ -44,8 +44,17 @@ const e_after = /(?<year>\d{4})-(?<month>\d{2})-(?<day>\d{2})/;
 
 ---
 
-I haven't made many blog post recently, been working on [Grand Simulation](/gs).
+I haven't made many blog post recently, been working on [Grand Simulation](/gs) the whole time.
 
-But this tip was much too useful to not share. So here we are.
+But this tip was much too useful to not share, so here we are.
 
 That's all folks!
+
+---
+
+Due credits :
+
+[Addy Osmani](https://twitter.com/addyosmani/status/1386031624232456194/photo/1)
+
+[David Walsh](https://davidwalsh.name/regular-expression-match-groups)
+
