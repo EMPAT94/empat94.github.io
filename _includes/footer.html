@@ -1,0 +1,57 @@
+{% if page.collection %}
+    {% if page.collection == "gs" %}
+      {% assign links = site.gs | sort: 'part' %}
+    {% else %}
+      {% assign links = site[page.collection]  %}
+    {% endif %}
+{% endif %}
+
+{% for link in links %}
+	{% if link.title == page.title %}
+		{% unless forloop.first %}
+			{% assign prev = tmpprev %}
+		{% endunless %}
+		{% unless forloop.last %}
+			{% assign next = links[forloop.index] %}
+		{% endunless %}
+	{% endif %}
+	{% assign tmpprev = link %}
+{% endfor %}
+
+<div class="postFooter">
+  {% if prev %}<a class="prev" href="{{ prev.url}}">&#8249; {{ prev.title }}</a> {%else %} <div></div>{% endif %}
+  {% if next %}<a class="next" href="{{ next.url}}">{{ next.title }} &#8250;</a>{% endif %}
+</div>
+
+<br />
+<div id="disqus_thread"></div>
+<br />
+
+<script>
+  document.body.onkeyup = function (e) {
+    if (e.keyCode == "37") {
+      window.location = "{{ prev.url }}";
+    }
+    if (e.keyCode == "39") {
+      window.location = "{{ next.url }}";
+    }
+  };
+</script>
+
+<script>
+  (function () {
+    // DON'T EDIT BELOW THIS LINE
+    var d = document,
+      s = d.createElement("script");
+    s.src = "https://priteshtupe.disqus.com/embed.js";
+    s.setAttribute("data-timestamp", +new Date());
+    (d.head || d.body).appendChild(s);
+  })();
+</script>
+
+<noscript
+  >Please enable JavaScript to view the
+  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript
+>
+
+<script id="dsq-count-scr" src="//priteshtupe.disqus.com/count.js" async></script>

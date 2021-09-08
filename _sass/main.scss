@@ -94,8 +94,8 @@ table {
   .mainContent {
     grid-area: mainContent;
     line-height: 2;
-    font-size: 1.1em;
-    padding: 5% 15% 5% 15%;
+    font-size: 1.25em;
+    padding: 5% 20% 5% 20%;
 
     .postList {
       padding-left: 0;
@@ -122,6 +122,7 @@ table {
   .container {
     .mainContent {
       padding: 5%;
+      font-size: 1.1em;
     }
   }
 }
@@ -252,14 +253,21 @@ h2 {
 }
 
 .postFooter {
-  width: 100%;
-  text-align: center;
-  margin-top: 40px;
-  border-top: 1px solid grey;
-  border-bottom: 1px solid grey;
+  display: flex;
+  justify-content: space-between;
+  padding: 1.2em;
 
   a {
-    color: green;
+    font-size: 1.3em;
+    color: cornflowerblue;
+  }
+}
+
+@media only screen and (max-width: 800px) {
+  .postFooter {
+    a {
+      font-size: 1.1em;
+    }
   }
 }
 

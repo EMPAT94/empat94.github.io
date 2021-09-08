@@ -32,29 +32,9 @@
       {% include navigation.html %}
 
       <div class="mainContent">
-        {{ content }}
-
-        <div class="postFooter">
-          {% if page.previous %}
-          <a rel="prev" href="{{ page.previous.url }}">&nbsp;Previous&nbsp;</a>
-          | {% endif %} {% if page.title != "Pritesh Tupe | Home" %}
-          <a rel="home" href="/">&nbsp;Home&nbsp;</a> |
-          <a rel="back" href="#" onclick="history.back()">&nbsp;Back&nbsp;</a> |
-          {% endif %}
-
-          <a rel="top" href="#">&nbsp;Top&nbsp;</a>
-
-          {% if page.next %} |
-          <a rel="next" href="{{ page.next.url }}">&nbsp;Next&nbsp;</a>
-          {% endif %}
-        </div>
+        {{ content }} {% if page.collection %} {% include footer.html %} {% endif %}
       </div>
     </div>
 
-    <script
-      id="dsq-count-scr"
-      src="//priteshtupe.disqus.com/count.js"
-      async
-    ></script>
   </body>
 </html>

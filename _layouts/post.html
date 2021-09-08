@@ -4,19 +4,7 @@ comments: true
 ---
 
 <h1>{{ page.title }}</h1>
-<p style="color:lightgrey">{{ page.date | date_to_long_string: "ordinal" }}</p>
+<p style="color: grey">{{ page.date | date_to_long_string: "ordinal" }}</p>
 <br />
 {{ content }}
 <br />
-<div id="disqus_thread"></div>
-<br />
-<script>
-(function() { // DON'T EDIT BELOW THIS LINE
-var d = document, s = d.createElement('script');
-s.src = 'https://priteshtupe.disqus.com/embed.js';
-s.setAttribute('data-timestamp', +new Date());
-(d.head || d.body).appendChild(s);
-})();
-</script>
-
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
