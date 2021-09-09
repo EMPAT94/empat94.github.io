@@ -5,21 +5,29 @@ metaDescription: My personal site where I share my thoughts and works
 
 <div class="summaryBox">
   <div class="smallLeftBox subtle">
-    <img src="./assets/imgs/profilePic.jpg" alt="Profile Pic" height="200" width="200" style="border-radius: 200px" />
+    <img
+      src="./assets/imgs/profilePic.jpg"
+      alt="Profile Pic"
+      height="200"
+      width="200"
+      style="border-radius: 200px"
+    />
   </div>
 
   <div class="bigRightBox cursive" id="personalMsg">
-    <p>Hello! I'm Pritesh. Welcome to my corner of the internet.</p>
+    <p>
+      Hello! I'm Pritesh. Programmer, Writer and Violinist. Welcome to my corner of the internet.
+    </p>
     <p>Herein lies the messy collection of my life's experiences and imaginations.</p>
-    <p>You may start off by reading any of the posts below, or you can check out my projects from navigation.</p>
-    <p>Have a pleasant stay!</p>
+    <p>Do scroll below to explore my humble works.</p>
+    <p>And have a pleasant stay!</p>
   </div>
 </div>
 
-<h1><u>Posts</u></h1>
+<h1>Latest Posts</h1>
 
 <ul class="postList">
-  {% for post in site.posts %}
+  {% for post in site.posts limit:5 %}
   <li>
     <h3>
       <a href="{{ post.url }}">
@@ -29,4 +37,68 @@ metaDescription: My personal site where I share my thoughts and works
     </h3>
   </li>
   {% endfor %}
+  <li>
+    <h5><a href="/blog">Show More...</a></h5>
+  </li>
+</ul>
+
+<h1>Latest GS Chapters</h1>
+
+<ul class="postList">
+  {% assign sorted = site.gs | sort: 'part' | reverse %} {% for post in sorted limit:5 %}
+  <li>
+    <h3>
+      <a href="{{ post.url }}"> {{ post.title }} </a>
+    </h3>
+  </li>
+  {% endfor %}
+  <li>
+    <h5><a href="/gs">Show More...</a></h5>
+  </li>
+</ul>
+
+<h1>Projects</h1>
+<ul class="postList">
+  <li>
+    <h3><a href="/gs">Grand Simulation</a></h3>
+  </li>
+  <li>
+    <h3><a href="/creatures">Creatures &#128279;</a></h3>
+  </li>
+  <li>
+    <h3><a href="/binary-clock">Binary Clock &#128279;</a></h3>
+  </li>
+  <li>
+    <h3><a onclick="alert('Work In Progress, stay tuned!')">Impossible XO &#128279;</a></h3>
+  </li>
+  <li>
+    <h3><a href="/foa">Fate of Arda</a></h3>
+  </li>
+</ul>
+
+<h1>Other Links</h1>
+<ul class="postList">
+  <li>
+    <h3><a href="/blog">Blog</a></h3>
+  </li>
+  <li>
+    <h3><a href="/about">About</a></h3>
+  </li>
+  <li>
+    <h3><a href="../feed.xml">RSS</a></h3>
+  </li>
+  <li>
+    <h3>
+      <a
+        target="_blank"
+        referrerpolicy="no-referrer"
+        href="assets/docs/Pritesh_Tupe_Resume.pdf"
+        download
+        >Resume</a
+      >
+    </h3>
+  </li>
+  <div style="margin-top: 40px">
+  {% include contacts.html %}
+  </div>
 </ul>
