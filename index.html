@@ -16,9 +16,13 @@ metaDescription: My personal site where I share my thoughts and works
 
   <div class="bigRightBox cursive" id="personalMsg">
     <p>
-      Hello! I'm Pritesh. Programmer, Writer and Violinist. Welcome to my corner of the internet.
+      Hello! I'm Pritesh. Programmer, Writer and Violinist. Welcome to my corner
+      of the internet.
     </p>
-    <p>Herein lies the messy collection of my life's experiences and imaginations.</p>
+    <p>
+      Herein lies the messy collection of my life's experiences and
+      imaginations.
+    </p>
     <p>Do scroll below to explore my humble works.</p>
     <p>And have a pleasant stay!</p>
   </div>
@@ -45,7 +49,8 @@ metaDescription: My personal site where I share my thoughts and works
 <h1>Latest GS Chapters</h1>
 
 <ul class="postList">
-  {% assign sorted = site.gs | sort: 'part' | reverse %} {% for post in sorted limit:5 %}
+  {% assign sorted = site.gs | sort: 'part' | reverse %} {% for post in sorted
+  limit:5 %}
   <li>
     <h3>
       <a href="{{ post.url }}"> {{ post.title }} </a>
@@ -60,19 +65,28 @@ metaDescription: My personal site where I share my thoughts and works
 <h1>Projects</h1>
 <ul class="postList">
   <li>
+    <h3><a href="/foa">Fate of Arda</a></h3>
+  </li>
+  <li>
     <h3><a href="/gs">Grand Simulation</a></h3>
   </li>
   <li>
-    <h3><a href="/creatures">Creatures &#128279;</a></h3>
+    <h3><a h target="_blank" ref="/creatures">Creatures &#128279;</a></h3>
   </li>
   <li>
-    <h3><a href="/binary-clock">Binary Clock &#128279;</a></h3>
+    <h3><a h target="_blank" ref="/binary-clock">Binary Clock &#128279;</a></h3>
   </li>
   <li>
-    <h3><a href="/impossible-xo">Impossible XO &#128279;</a></h3>
+    <h3>
+      <a target="_blank" href="/impossible-xo">Impossible XO &#128279;</a>
+    </h3>
   </li>
   <li>
-    <h3><a href="/foa">Fate of Arda</a></h3>
+    <h3>
+      <a target="_blank" href="https://www.github.com/empat94/nvim-rss"
+        >Nvim-Rss &#x1f517;</a
+      >
+    </h3>
   </li>
 </ul>
 
@@ -81,9 +95,9 @@ metaDescription: My personal site where I share my thoughts and works
   <li>
     <h3><a href="/blog">Blog</a></h3>
   </li>
-  <li>
+  <!-- <li>
     <h3><a href="/notes">Notes</a></h3>
-  </li>
+  </li> -->
   <li>
     <h3><a href="/about">About</a></h3>
   </li>
@@ -101,7 +115,5 @@ metaDescription: My personal site where I share my thoughts and works
       >
     </h3>
   </li>
-  <div style="margin-top: 40px">
-  {% include contacts.html %}
-  </div>
+  <div style="margin-top: 40px">{% include contacts.html %}</div>
 </ul>
