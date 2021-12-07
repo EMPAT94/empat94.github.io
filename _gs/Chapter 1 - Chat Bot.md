@@ -27,7 +27,7 @@ part: 2
 
 "To get a - " (Betty)
 
-"Wait, hold on. What the hell is this? Just how are we here? Am I dreaming or something? Why can't you send us back home? You basically kidnapped us and are now forcing us to do whatever. I want to go home!" (Me, slightly losing it)
+"Wait, hold on. What the hell is this? Just how are we here? Am I dreaming or something? Why can't you send us back home? You basically kidnapped us and are now forcing us to do whatever. I want to go back!" (Me, slightly losing it)
 
 "This is the Tutorial Dungeon. You are not dreaming. You can leave the Simulation by deleting yourself." (Betty)
 
@@ -49,7 +49,7 @@ part: 2
 
 "..."
 
-"She's a dammed chatbot! Just great! Stuck inside a simulation with a bunch of strangers and a smart-ass bot." (Me, mostly to myself but came out loud)
+"She's a dammed chatbot! Just great! Stuck inside a simulation with a bunch of strangers and a smart-ass bot." (Me, mumbling)
 
 "You're a chatbot, aren't you?" (Me)
 
@@ -61,7 +61,7 @@ part: 2
 
 "To get a Class, you must open up your Status Window. You can open your Status Window by swiping up with a finger. Before you select a Class, I recommend going through the descriptions to get one most suited to yourself, as you will be stuck with that Class and its evolution tree for the rest of Simulation" (Betty)
 
-Everyone swiped their finger in the air and got a glazed look in their eyes. I did as well, and a virtual reality type window opened up. It was empty save for two things - a "Select Class" red glowing text and a tiny tilde ~ symbol at the bottom right. I was about to click on "Select Class" when I heard Divin, who had been silent so far, speak up.
+Everyone swiped their finger in the air and got a glazed look in their eyes, as if doing mental calculus. I swiped as well, and a thin slightly-transparent black rectangular window the size of an iPad faded in like a power-point animated slide. It was empty save for two things - a "Select Class" red glowing text and a tiny tilde ~ symbol at the bottom right. I was about to click on "Select Class" when I heard Divin, who had been silent so far, speak up.
 
 "Why are you dressed like that?" (Divin, deadpanned)
 

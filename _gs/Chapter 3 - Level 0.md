@@ -11,9 +11,11 @@ We gathered around Betty, ready to go where fate would lead us. Julie was just a
 
 I opened up my Status Window again and immediately noticed that the tilde (~) symbol at the bottom was bold. I focused on it and a terminal-like screen opened up. It was blank save for one line:
 
-`float o = (while (o.elevation < 2.73) _____.gravity--)`
+```sh
+float o = while [ o.elevation -lt 2.73 ]; do (( _____.gravity-- )); done;
+```
 
-I was dumbstruck. 'Shit... It's a god damned program. True, it looks like an unholy union of Haskell and Javascript, with bits of Lisp and redacted stuff in between; but I recognize it nonetheless. And I actually have a shell to work on? Fucking A!' I almost did a small victory dance but contained myself hastily. My smile must have betrayed me, however, as Arya had a weird look in her eyes.
+I was dumbstruck. 'Shit... It's a goddamn piece of code. True, it looks like an unholy mix of bash script and Haskell, with objects thrown in for fun; but I understand it nonetheless, despite the redacted bit. And I actually have a shell to work on? Fucking A!' I almost did a small victory dance but contained myself hastily. My smile must have betrayed me, however, as Arya had a weird look in her eyes.
 
 "Perhaps we should get going now?" Julie broke the awkward silence and looked at Betty. Betty didn't move a muscle. Seems like she meant it literally when she said she will be *following* us. Another moment later, Julie huffed a bit, shouldered her bow and arrows, then led the way out of the Spawn Point clearing. Just as we stepped out of the choke point leading out onto a wide road, Betty turned from Cleopatra to Will-'O-the-Wisp. It was Carol who spoke up, "Why'd ya turn into a ball of light?" to which Betty replied, "It is easier to split into multiple entities in this form, and it is also lighter on resource consumption" 'Ah, she did say she would follow us all even after we went individually. So this is how. Weird, but logical.' Apparently, Carol thought so too, because she didn't have any follow-up questions.
 
@@ -51,7 +53,9 @@ While I hyped myself up, I couldn't change the fact that I had no clue what to d
 
 Focus with an intent - this was how I concluded the interaction worked. So I focused on the window, willing it to write down the words in my head. Wait, what spell do I want? Let's go with the most generic one.
 
-`fireball =`
+```sh
+fireball =
+```
 
 'Holy Shit! Is this awesome or what? Editing with literal thoughts. These guys have achieved *perfection* itself!'
 
