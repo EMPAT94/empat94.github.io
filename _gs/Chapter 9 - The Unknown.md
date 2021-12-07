@@ -13,7 +13,7 @@ About halfway through the ruin - well I assumed it was halfway because we were w
 
 "It's not that interesting or romantic as you might expect. We were both interns at the same firm. One day he just asked me out of nowhere; I said yes, and so it began!" Julie replied with a nostalgic smile.
 
-"It's hard to find someone so compatible. But Jake and Julie, even your names have a nice rhythm of sorts. J and J!" I made a stupid observation, eyeing the glow on Divin's wrist that was being healed by Arya just outside the fight.
+"It's hard to find someone so compatible. But Jake and Julie, even your names are part of a famous rhyme, sort of!" I made a stupid observation, eyeing the glow on Divin's wrist that was being healed by Arya just outside the fight.
 
 "Well, my name isn't actually Julie. In German, it comes out something close to Hulia, but I doubt you guys could pronounce it," she said while putting the arrow in her hand back inside the quiver. The fight was coming to an end.
 
@@ -51,7 +51,7 @@ It must've been our twelfth ambush when I noticed something that hadn't happened
 <br />
 
 
-We ran some experiments. While Carol had the tilde symbol in her Status Window as well, it was greyed out and barely visible. She couldn't open the terminal. Arya, on the other hand, could. I had her type in Incendio with her mind. That was it though. She couldn't cast the spell. We enquired Betty about the same. Apparently, Healer Class did not have access to the temperature of a target. Ironic, really. All their spells had to target HP, MP or SP in one way or another, without directly modifying them. The fact that changing temperature could affect HP was immaterial, a minor side effect. I couldn't figure out this weird restriction, wondering how her 'Heal' Skill worked. I felt like I was missing something. Upon further experimentation, it was revealed that we also didn't have access to the source code of the Skill. Basically, we were stuck.
+It wasn't quite me working on spells indulgently, as I had to keep a lookout as well, but we did run some experiments. While Carol had the tilde symbol in her Status Window as well, it was greyed out and barely visible. She couldn't open the terminal. Arya, on the other hand, could. I had her type in Incendio with her mind. That was it though. She couldn't cast the spell. We enquired Betty about the same. Apparently, Healer Class did not have access to the temperature of a target. Ironic, really. All their spells had to target HP, MP or SP in one way or another, without directly modifying them. The fact that changing temperature could affect HP was immaterial, a minor side effect. I couldn't figure out this weird restriction, wondering how her 'Heal' Skill worked. I felt like I was missing something. Upon further experimentation, it was revealed that we also didn't have access to the source code of the Skill. Basically, we were stuck.
 
 While Arya was trying out random things in her terminal, the other group and Betty's other half came back. I could sense the excitement from their faces. Even the ever stoic Divin had a slight curve to his lips. My curiosity was eventually sated when Taro exclaimed - "We found the exit!"
 
