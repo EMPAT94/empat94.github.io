@@ -13,11 +13,11 @@ Slimes, Chimps, Crocs, and now... Birds? Almost anticlimactic. The terrain was a
 
 "These birds... They are vultures, aren't they?" Taro asserted. 'Damn right they are. Let's just ignore the chatbot and her dramatic naming sense,' I thought.
 
-We were a bit ahead of the entrance. The shock that sneaky crocs had given us made our progress cautious but slow. Seemed like it was for naught, as our opponents were out and about, causing a ruckus with their hisses and whines. I have never heard a vulture sound before but I'm betting they aren't as loud as these.
+We were a bit ahead of the entrance. The shock that sneaky crocs had given us made our progress cautious but slow. Seems like it was for naught, as our opponents were out and about, causing a ruckus with their hisses and whines. I have never heard a vulture's sound before but I'm betting they aren't as loud as these.
 
 "Yeah, they look like vultures," Julie stepped up, "There are a lot of them on the tree and below. They might swarm us like the slimes. How should we proceed?"
 
-After some discussion, we decided to let the knights take point. Carol just behind them. Julie went at the end of the formation. Arya and I stood back, deciding to not interfere this time.
+After some discussion, we decided to let the knights take point. Carol just behind them. Julie went at the end of the formation. Arya and I stood back, deciding to not interfere initially.
 
 Soon, the tree was within shooting distance of the vanguard. Julie notched her arrow and fired at the largest vulture in the group. The birds suddenly went quiet. Her target was near the top of the tree. Her arrow landed about a couple of meters below it. 'Getting good,' I thought. She *was* a fair distance away from her target, so it was impressive.
 
@@ -43,7 +43,7 @@ Pretty soon, the rest of the carrion-feeders were gone. I had helped cool down a
 
 Everyone had a relaxed smile on their faces. With the sudden-death threat from sneaky 20 feet monsters lifted, we breathed slightly easy. Sure, these guys gave us the most trouble so far, but it was not much danger. Unlike the Imps, their cuts were deeper. They also fought more harmoniously in a group. That was it though. We could take them!
 
-We decided to rest up beneath the tree. Not that we needed shade in the ever-evening. Arya had healed Carol and she moved towards me. "Nah, I'm okay. Heal those two first," I pointed her to Divin and Taro. They took the brunt of the attack and had more cuts than others. "OK," she smiled and moved on to heal Taro.
+We decided to rest up beneath the tree. Not that we needed shade in the ever-evening. Arya had healed Carol and she moved towards me. "Nah, I'm okay. Heal those two first," I gestured towards Divin and Taro. They took the brunt of the attack and had more cuts than others. "OK," she smiled and moved on to heal Taro.
 
 I, on the other hand, opened up my Status Window to check the gains.
 
@@ -59,25 +59,31 @@ I, on the other hand, opened up my Status Window to check the gains.
 
 I already had just under 60 extra from the previous level. 'If I helped kill say, 6 of the birds, then I am getting about 12 or 13 XP per kill', I mused, 'Not bad, I guess'.
 
-After attaining level 3, I could cast Petrificus four times in a row. However, it rarely worked the fourth time. 'I wonder if there is a job I can run that will keep on decreasing the temperature to as low as possible? Or even increase it? Will have to loop on it. I wonder how long it will take to kick in though? Well, no harm in trying out anyway'. I opened up my "spell repository" and quickly added a spell to decrease temperature slowly. I also renamed the time function to make it a bit consistent.
+After attaining level 3, I could cast Petrificus four times in a row. However, it rarely worked the fourth time. 'I wonder if there is a job I can run that will keep on decreasing the temperature to as low as possible? Or even increase it? Will have to loop on it. I wonder how long it will take to kick in though? Well, no harm in trying out anyway'. I opened up my "spell repository" and quickly added a spell to decrease temperature slowly.
+
+```sh
+petrificus_slowly x = while true; do (( x.temperature-- )); done;
+```
+
+And my full repo of spells now looked like -
 
 ---
 
 ```
 
-incendio x = (x.temperature = x.temperature * 2)
+incendio x = (( x.temperature = x.temperature * 2 ))
 
-petrificus_totalus x = (x.temperature = x.temperature / 2)
+petrificus_totalus x = (( x.temperature = x.temperature / 2 ))
 
-identify o = (echo o)
+identify o = echo o
 
-test = (i = 0; while (i <= 255) (str = getChar[i++]; echo "$str $(getTime)" >> file; echo $str | sudo -S echo $str "worked!" ))
+test = i=0; while [ $i -le 255 ]; do; echo "$(get_char $i) $(get_time)" >> password_hack | sudo -S echo; done;
 
-getChar i = awk 'BEGIN{printf "%c", i}'
+get_char i = printf "\x$(printf %x $i)"
 
-getTime = date +%s%N
+get_time = date +%s%N
 
-petrificus_slowly x = (while (true) x.temperature--)
+petrificus_slowly x = while true; do (( x.temperature-- )); done;
 
 ```
 
@@ -91,7 +97,7 @@ petrificus_slowly x = (while (true) x.temperature--)
 
 As I was about to add another function to increase the temperature, I heard Divin call out to me. He had sneaked close while I was looking into the window. The rest were still frolicking about below the tree. I was more surprised by the fact that he took initiative to call me out. "Hey, what's up?" I queried.
 
-"What were you and Arya talking about?" he asked with a straight face. I did not understand what he was talking about. Perhaps noticing my befuddlement, he elaborated, "On the last bridge and the one before, when the rest of us were sleeping." 'I guess not all of you were sleeping, eh?' I thought to myself. "Ah that. You see she and I, being a Healer and Mage, can access our editors to create new spells. That is what we were discussing. Everything okay?" I asked. "Yes," he said impassively and walked away. 'What that was about?' I wondered.
+"What were you and Arya talking about?" he asked with a straight face. I did not understand what he was talking about. Perhaps noticing my befuddlement, he elaborated, "On the last bridge and the one before, when the rest of us were sleeping." 'I guess not all of you were sleeping, eh?' I thought to myself. "Ah that. You see she and I, being a Healer and Mage, can access our editors to create new spells. That is what we were discussing." I replied. "OK" he said impassively and walked away before I could ask anything more. 'What that was about?' I wondered.
 
 I decided to move as well, we had birds to hunt!
 

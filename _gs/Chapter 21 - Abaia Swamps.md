@@ -7,7 +7,7 @@ part: 22
 
 "Well, this is new," I heard Carol muse. It was new alright. Level 10 of the Tutorial Dungeon was unlike any other level before. While it was still the dusky sky above and pleasant temperature about, the area before us was unlike anything we've seen before.
 
-So far, we'd encountered barren lands, decrepit ruins, hills and plains, variety of fauna ranging from fresh shrubs to withered oaks. All of them were, however, solid land. The sight I beheld was similar to a serene ocean, filled with inky black waters. I would've mistaken it for scorched earth had I not noticed minor ripples disturb the smoothness every now and then.
+So far, we'd encountered barren lands, decrepit ruins, hills and plains, variety of fauna ranging from fresh shrubs to withered oaks. All of them were, however, solid land. The sight I beheld was similar to a serene ocean, filled with inky black waters. I would've mistaken it for smooth glass had I not noticed minor ripples disturb the smoothness every now and then.
 
 Taro picked up a pebble lying near the entrance and threw it into the water. I immediately had flashbacks of a tentacle monstrosity from a certain movie rising up in a similar situation. No appendages moved, yet I heard Betty announce something from the back - "This is level 10 of the Tutorial, The Abaia Swamps!"
 
@@ -21,11 +21,11 @@ Taro picked up a pebble lying near the entrance and threw it into the water. I i
 
 "Looks like. How are we getting across though?" I asked.
 
-No one spoke for a while. The answer was obvious - we walk through. We didn't know how deep the swamps were, however, nor what sort of creatures habited them.
+No one spoke for a while. The answer was obvious - we walk through. We didn't know how deep the swamps were, however, nor what sort of creatures inhabited them.
 
 "First, we go fishing," Divin said with a smile.
 
-"Yep, the Abaia already noticed us after the pebble, now it's our turn to see what they are and how to kill them," Julie seconded.
+"Yep, the Abaia already noticed us after the pebble, now it's our turn to see what they are. Then we kill them." Julie seconded.
 
 'Wow, Julie has gone to the dark side!' I thought. Then again, I was thinking similarly. "Let me Identify them first," I said, as I walked ahead to the edge. Flanked by Taro & Divin and backed by the girls, I stood there with my palm outstretched, hoping for a selection. I moved my hand in a random direction over the waters and kept getting a selection after another in quick succession. As if under the serene surface, there was a swarming nest of creatures. Many of them were stationary though, as if in hibernation. I quickly selected one, then another, and then another. All of them said the same -
 
@@ -43,7 +43,7 @@ No one spoke for a while. The answer was obvious - we walk through. We didn't kn
 
 ---
 
-Oh the same creature that I had identified last, I threw an Incendio. It immediately moved, causing a disturbance in the small area around it. One of its neighbors came up to the surface for a bit, long enough for me to get a good look at its outline.
+Oh the same creature that I had identified last, I threw an Incendio. It immediately moved away from its resting place, causing a disturbance in the small area around it. One of its neighbors came up to the surface for a bit, long enough for me to get a good look at its outline.
 
 
 <br />
@@ -63,11 +63,11 @@ Oh the same creature that I had identified last, I threw an Incendio. It immedia
 
 "Yes, you clear an area, we will cover you from the sides." (Taro, with nods from others)
 
-I cast incendio once and checked how long it took for the eels to gather around against my mana regeneration speed. The plan was that if I could recover my MP before the eels gathered, we could simply cross by chaining Incendios. Unfortunately, it was not to be. The eels came back faster and I had just recovered over half of the cost of incendio. Petrificus mostly slowed them to a degree but not much. The spells apparently didn't work so well underwater. I mentioned the same to the group.
+I cast Incendio once and checked how long it took for the eels to gather around against my mana regeneration speed. The plan was that if I could recover my MP before the eels gathered, we could simply cross by chaining Incendios. Unfortunately, it was not to be. The eels came back faster and I had recovered just over half of the cost of Incendio. Petrificus pushed them into deeper hibernation. I mentioned the same to the group.
 
 "Hah... it's time to grind our levels then!" (Taro)
 
-And so we did, edging along the coast. I'd cast multiple Petrificus over an area while the rest went wild on the eels. One time, Carol stabbed an eel that had jumped out - it turned into the same inky black water it had jumped from. Another time, Taro drifted out of the petrified area and ran afoul of a bunch of the critters that co-ordinated together to give a sustained electrical shock. Thankfully, he fell back into cold waters away from them.
+And so we did, edging along the coast. I'd cast multiple Petrificus over an area while the rest went wild on the eels. One time, Carol stabbed an eel that had jumped out - it turned into the same inky black water it had jumped from. Another time, Taro drifted out of the petrified area and ran afoul of a bunch of the critters that coordinated together to give a sustained electrical shock. Thankfully, he fell back into cold waters away from them.
 
 One eel did not give out much of XP, between 10 to 20. However, rarely did we find a single eel on its own. They were always bunched up in groups of anywhere between five and fifty. Even Julie, who was using her arrow as a mini-spear, would hit multiple in a single thrust. I bet it wouldn't have been so easy if they weren't spell-cooled.
 
@@ -123,6 +123,6 @@ I had a good idea for my next spell. I added it as a sub-quest. And removed the 
 
 ---
 
-I glanced at Arya alongside casting self-heal. "Leveled up?" she inquired. "Yep, I'm gonna check if we can move on. Can you watch my back?" I requested. "You got it," she acknowledged.
+I glanced at Arya alongside casting self-heal. "Leveled up?" she inquired. "Yep, I'm gonna check if we can move on. Can you watch my back?" I requested. "You got it," she acquiesced.
 
 

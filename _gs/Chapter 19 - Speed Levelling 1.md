@@ -48,19 +48,19 @@ Now we stood in front of the entrance to level 9. While recent victories ingrain
 
 ```
 
-incendio x = (x.temperature = x.temperature * 2)
+incendio x = (( x.temperature = x.temperature * 2 ))
 
-petrificus_totalus x = (x.temperature = x.temperature / 2)
+petrificus_totalus x = (( x.temperature = x.temperature / 2 ))
 
-identify o = (echo o)
+identify o = echo o
 
-test = (i = 0; while (i <= 255) (str = getChar[i++]; echo "$str $(getTime)" >> file; echo $str | sudo -S echo $str "worked!" ))
+test = i=0; while [ $i -le 255 ]; do; echo "$(get_char $i) $(get_time)" >> password_hack | sudo -S echo; done;
 
-getChar i = awk 'BEGIN{printf "%c", i}'
+get_char i = printf "\x$(printf %x $i)"
 
-getTime = date +%s%N
+get_time = date +%s%N
 
-petrificus_slowly x = (while (true) x.temperature--)
+petrificus_slowly x = while true; do (( x.temperature-- )); done;
 
 questlist = (echo "* Increase spell variety\n* Check changes from Class upgrade")
 
@@ -88,9 +88,9 @@ What looked like a ball of fur turned out to be a creature that had gone extinct
 
 While we were all in plain sight of the beast, it was still in its merry dreams. Betty hadn't made an announcement yet, so perhaps this time, *we* could be the predators doing sneak attacks!
 
-Julie was right beside me. She notched her arrow and looked at me. I nodded my head. She took her aim while I looked at others to ensure they were set to retreat. Then I looked at the napping fur ball and waiting in anticipation.
+Julie was right beside me. She notched her arrow and looked at me. I nodded my head. She took her aim while I looked at others to ensure they were set to retreat. Then I looked at the napping fur ball and waited in anticipation.
 
-*whiz* the arrow flew. Apparently, Julie used her True Shot Skill, as the head flew true and struck the monstrosity right on its forehead. And tumbled down its tusk. The sloth didn't even twitch.
+*whiz* The arrow flew. Apparently, Julie used her True Shot Skill, as the head flew true and struck the monstrosity right on its forehead. And tumbled down its tusk. The sloth didn't even twitch.
 
 "Damn, the thing has got some thick skin!" exclaimed Taro. We were losing our stiff demeanor. All our caution seemed wasted.
 
@@ -120,7 +120,7 @@ Thinking back on my similar encounter with crocs, I gave another thought to what
 
 Just as I reached the entrance, I heard Betty's declaration as her splinter merged with her original: "This is level 9 of the Tutorial Dungeon - Yakawawiak's Pit!"
 
-We watched with abject fascination as the hulking frame was lifted off the ground. I had a feeling the beast was staring right at me, with one eye red. I checked my mana points - 400 remaining. So four of the spells hit home. And all they did was give it an itch. This was going to be a difficult fight.
+We watched with abject fascination as the hulking frame lifted off the ground. I had a feeling the beast was staring right at me, with one eye red. I checked my mana points - 400 remaining. So four of the spells hit home. And all they did was give it an itch. This was going to be a difficult fight.
 
 
 <br />
@@ -142,7 +142,7 @@ We watched with abject fascination as the hulking frame was lifted off the groun
 
 "I doubt we will win by attacking head-on." (Me)
 
-"I think so too. Perhaps we can lay a trap or something" (Arya)
+"Ummm, I think so too. Perhaps we can lay a trap or something?" (Arya)
 
 "A pitfall could work." (Divin)
 

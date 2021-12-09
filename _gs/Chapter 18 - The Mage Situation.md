@@ -5,7 +5,7 @@ part: 19
 
 ## Chapter 18 - The Mage Situation
 
-"... found it, it was just lying down. Its breath was forming a mist. We finished it off together. Then it turned into a shadow-like whoosh and disappeared. Next thing I know, we find all this stuff just lying around underneath." I heard Taro's animated voice as soon as I woke up. "Yeah, and soon as 'twas dead, I got a Class upgrade. Out of nowhere, I'm a competent Scout! And I got this cool dagger Skill as well. All better that I got more daggers." Carol continued. I got up and looked around. Everyone was awake, waiting for me. 'Nice of them,' I thought.
+"...found it, it was just lying down. Its breath was forming a mist. We finished it off together. Then it turned into a shadow-like whoosh and disappeared. Next thing I know, we find all this stuff just lying around underneath." I heard Taro's animated voice as soon as I woke up. "Yeah, and soon as 'twas dead, I got a Class upgrade. Out of nowhere, I'm a competent Scout! And I got this cool dagger Skill as well. All better that I got more daggers." Carol continued. I got up and looked around. Everyone was awake, waiting for me. 'Nice of them,' I thought.
 
 We didn't wait for long before starting our march ahead. We were still near the start of the bridge, and this one was slightly longer than all the previous ones. Our feet no longer dragged with the burden of our straining experience - instead, our stride held renewed determination. No doubt spurred by the new clothes, equipment, and Classes. Walking without having to worry about ambush made my mind wander. 'I'm a competent Mage now. But unlike others, I have no special Skills. So the only thing I got is the extra points? Surely not. Betty mentioned a qualitative change! By the way, why doesn't a Mage Class have any Skills?' I wondered.
 
@@ -27,7 +27,7 @@ We didn't wait for long before starting our march ahead. We were still near the 
 
 "Why not just remove the Mage Class then?" (Me)
 
-"Mage Class is one of the base Classes of the simulation and deeply entrenched in the storyline. Removing it is infeasible." (Betty)
+"Mage Class is one of the Base Classes of the simulation and deeply entrenched in the storyline. Removing it is infeasible." (Betty)
 
 "Makes sense. But what about the test subjects who selected Mage is last 84 versions. How did they make it out of the tutorial?" (Me)
 
@@ -47,7 +47,7 @@ We didn't wait for long before starting our march ahead. We were still near the 
 
 "But what is the point of this test though? What is the aim? How does it end?" (Me)
 
-"The main storyline will be explained by the characters when you arrive there." (Betty, seemingly moving away from me as if she didn't like my questions)
+"The main storyline will be explained by the characters when you arrive there." (Betty, moving away from me as if she didn't like my questions)
 
 "What about the Class upgrade? Wasn't there supposed to be qualitative change? All I got were some extra points!" (Me, returning to a hopefully favorable topic)
 
@@ -97,7 +97,7 @@ As I was lost in my thoughts, the entrance to level 5 came up. We quickly decide
 todo = (echo "* Increase spell variety\n* Check changes from Class upgrade")
 ```
 
-'todo sounds very... normal. Since I'm here, might as well go all out!' I changed the function name from 'todo' to 'questlist'.
+'todo sounds so very... normal. Since I'm here, might as well go all out!' I changed the function name from 'todo' to 'questlist'.
 
 We were still near the entrance. Betty hadn't announced anything. I decided to do a quick check. Looking around to ensure there was no threat, I muttered under my breath - "questlist."
 

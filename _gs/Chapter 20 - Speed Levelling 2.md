@@ -9,7 +9,7 @@ Just as I had gone right, Julie went left. My attention was fixed on the creatur
 
 As I stood there contemplating my next move, the furball took action. Ever so slowly, it raised its massive legs and took a step forward. One could be forgiven for thinking that a being of this size was moving at a suitably low speed. I wasn't fooled, however, as I knew of the bursts a rush Skill could cause. Without another thought, I took a step back. The monster would take one step towards me, I'd take a couple of steps back in sync. So it went on for several seconds. Until my back finally touched the solid wall.
 
-I noticed Julie gesturing something to me. 'Stop? Stay here? Can't she see I'm about to become mincemeat?' I almost shook my head. But then I realized that she was rapidly moving towards the blind side of the mammoth. 'Ah, she aims to lure it herself!' I took a step away from the wall, raised my palm, and waited for the thing to come into my range.
+I noticed Julie gesturing something to me. 'Stop? Stay here? Can't she see I'm about to become fucking kebab?' I almost shook my head. But then I realized that she was rapidly moving towards the blind side of the mammoth. 'Ah, she aims to lure it towards herself?' I took a step away from the wall, raised my palm, and waited for the thing to come into my range.
 
 Thankfully, my range was longer than its Skill, for I was able to select it before it rushed me. I again chose the same eye as before, now selecting it directly instead of through the eyelids. I whispered four Incendios. The new spell chain seemingly did the trick, it closed its red eye with a pained grunt. I could see a trickle of orange fluid that must've been its blood flow down. That didn't stop its progress, however.
 
@@ -17,7 +17,7 @@ The beast was about 15 meters away from me now. 'Come on Julie, shoot fast!' I p
 
 13 meters. The creature suddenly stopped in its tracks. For a moment, the very air was stilled. The fur on its body bristled as it bent its hind legs a little. Out from the left, I heard Julies customary *whiz* of an arrow. The arrow struck true, right in its healthy eye. Just as the arrow struck, the quadruped showed off why it was the boss of the arena. With such acceleration that seemingly ignored its massive frame, it rushed at me. Newly blind and howling from the pain, it did not correct its course as I veered far out of its trajectory.
 
-The mammoth thundered towards my previous location as if its tail was on fire. And then it crashed into the wall with resounding cracks. One for the wall, other for its skull. It then slumped down, eyes bleeding freely, with a new orange stream joined from the forehead. Soon, its fur changed from dark brown to bright orange. Then it melted. I stood there utterly mesmerized as what was once a majestic creature was now a rapidly evaporating pool of orange blood. Shortly thereafter, the last vestiges of the creature's existence dissipated, leaving behind a veritable pile of resources. With a slight nudge tt my consciousness, I became aware of my new experience, along with the resulting level up and Class up.
+The mammoth thundered towards my previous location as if its tail was on fire. And then it crashed into the wall with resounding cracks. One for the wall, other for its skull. It then slumped down, eyes bleeding freely, with a new orange stream joined from the forehead. Soon, its fur changed from dark brown to bright orange. Then it melted. I stood there utterly mesmerized as what was once a majestic creature was now a rapidly evaporating pool of orange blood. Shortly thereafter, the last vestiges of the creature's existence dissipated, leaving behind a veritable pile of resources. With a slight nudge to my consciousness, I became aware of my increased XP, along with the resulting level up and Class up.
 
 
 <br />
@@ -29,7 +29,7 @@ The mammoth thundered towards my previous location as if its tail was on fire. A
 
 "Are you both okay?" Arya looked at Julie, then me. "I'm good," Julie said. "Me too," I said with a warm smile. 'I thought her cold and distant when we first met, but she's actually quite sweet,' I reminisced. "I ran away long before it came near me. By the way, that was a hell of a shot, Julie. Might've just saved my life there," I praised Julie. It was truly remarkable - while the aim was not much of an issue on a stationary object with her True Shot Skill, the timing of that was impeccable. A moment earlier and the thing would've just retreated. A moment later and it would've missed entirely. "Thanks! I got lucky this time, so don't count on it to keep happening," she said with equal parts of humility and caution, while checking her newest acquisition - a longbow.
 
-We were standing in front of the pile of clothes and weapons left behind. While my current robe wasn't in as dire replacement as my previous one had been, I took it nonetheless. The new one was not the common brown anymore, but a grey version that was both thicker yet lighter somehow. 'And so comfortable! I think I can sleep on the stone floor with this on without issues.' Everyone had graduated from brown clothes to grey ones. We hadn't changed yet, the place was essentially an open barren land walled off from all sides. No opportunities for private cloth swap.
+We were standing in front of the pile of clothes and weapons left behind. While my current robe wasn't in as dire replacement as my previous clothing had been, I took it nonetheless. The new one was not the common brown anymore, but a grey version that was both thicker yet lighter somehow. 'And so comfortable! I think I can sleep on the stone floor with this on without issues.' Everyone had graduated from brown clothes to grey ones. We hadn't changed yet, the place was essentially an open barren land walled off from all sides. No opportunities for private cloth swap.
 
 Arya took on her new staff. This one had a bit of design on it - not unlike the patterns on the ring. Besides that, it was the same as before. Carol got another set of daggers; her dagger count now reaching a total of four. Taro threw his broken sword away and took the new one. Divin claimed a set of artistic gloves. They had patterns on them as well along with redundant design. 'Redundant design? Since when can I distinguish between useful patterns and otherwise?'
 
@@ -71,7 +71,7 @@ I immediately opened my full Status Window to check for any changes.
 
 "You were looking as if something bit ya," Carol supplied helpfully.
 
-"We were talking about the new Skills and extra points we've got. You zoned out there for a while. Got something good?" Taro said, slightly excited.
+"We were talking about the new Skills we've got. You zoned out there for a while. Got something good?" Taro said, slightly excited.
 
 'Ah, I totally missed the conversation.' "Oh, sorry. There seems to be some effect of Class upgrade that I can't figure out," I apologized. I removed the ring I acquired in the last upgrade and showed it to Betty, pointing at the seemingly innocuous designs on it. "What does this pattern mean, do you know?"
 
@@ -83,9 +83,9 @@ I immediately opened my full Status Window to check for any changes.
 
 "So how do I etch a Rune?" I insisted. By now, we knew that while the bot wouldn't outright refuse to answer a question, there were some she preferred over others. If asked about anything unrelated to this world, she moved away from the interlocutor to signify her disinterest. If asked something related to the system and lore of this world, however, she was unusually forthcoming - mostly.
 
-"Etching a Rune is not dissimilar to casting a spell," she replied as if expecting me to understand.
+"Etching a Rune is similar to casting a Spell, except that it executes at a later time instead of immediately." she replied as if expecting me to understand.
 
-I did not ask anything else, instead trying to internalize the new information. 'So etched spells are just like compiled binaries. Instead of writing the function and calling it, you compile the source and install it on an physical object. Interesting! I wonder if I can reverse engineer it with Identify.' With that thought, I held the ring in my palm and selected it. "Identify," I spoke out loud and a new window opened up.
+I did not ask anything else, instead trying to internalize the new information. 'So etched spells are just like compiled binaries. Instead of writing the function and calling it, you compile the source and "install" it on an physical object. Interesting! I wonder if I can reverse engineer it with Identify.' With that thought, I held the ring in my palm and selected it. "Identify," I spoke out loud and a new window opened up.
 
 ---
 
@@ -114,5 +114,4 @@ x617474756e656d656e74 = x617474756e656d656e742b310a
 "We've made good progress," Taro extolled from ahead. 'Not that we have anything to compare to, but it could've much worse,' I thought. "I agree," I concurred.
 
 I was still lost in thoughts on Runes and hex dumps when we came upon the exit and made our way out.
-
 
