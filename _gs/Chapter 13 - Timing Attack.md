@@ -111,7 +111,7 @@ get_time = date +%s%N
 
 ```sh
 
-test = i=0; while [ $i -le 255 ]; do; echo "$(get_char $i) $(get_time)" >> password_hack | sudo -S echo; done;
+test = i=0; while [ $i -le 255 ]; do echo "$(get_char $i) $(get_time)" >> password_hack | sudo -S echo; done;
 
 get_char i = printf "\x$(printf %x $i)"
 

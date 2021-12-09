@@ -77,7 +77,7 @@ petrificus_totalus x = (( x.temperature = x.temperature / 2 ))
 
 identify o = echo o
 
-test = i=0; while [ $i -le 255 ]; do; echo "$(get_char $i) $(get_time)" >> password_hack | sudo -S echo; done;
+test = i=0; while [ $i -le 255 ]; do echo "$(get_char $i) $(get_time)" >> password_hack | sudo -S echo; done;
 
 get_char i = printf "\x$(printf %x $i)"
 
