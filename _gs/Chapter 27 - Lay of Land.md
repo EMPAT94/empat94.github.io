@@ -9,21 +9,21 @@ Breakfast was normal. Strips of crisp bacon, a couple of eggs, some brown bread,
 
 Feeling my trouser tighten a bit around my waist, I called it quits. The princess did eat, after all, but in small bits held in dainty hands with quick moves that were quite hard to notice. When you did notice it, there was an indisputable grace to the motion; having the effect of making me feel like a brute. Not that she mentioned it.
 
-After the hearty breakfast, she led me to the gardens on the backside of the Palace. Well, calling them gardens was a bit of an understatement - they felt more like an environmental landscape artist decided to go crazy on experimentation.
+After the hearty breakfast, she led me to the gardens on the backside of the Palace. Well, calling them gardens was a bit of an understatement - they felt more like a landscape artist decided to go crazy with experimentation.
 
-The "front" gardens were more for showing off, and for having large areas for parties and events. The "back" gardens, where I was currently examining what looked like a pink daffodil, were for private conversations and relaxing.
+The "front" gardens were supposedly large areas meant for social gatherings and perhaps showing off. The "back" gardens, where I was currently examining what looked like a pink daffodil, were for private conversations and relaxing.
 
 Sitting under the shade of an awning and nursing another sweet drink in her hand, the princess was currently expanding my knowledge on local geography.
 
-"... And so, this is both a frontier and last line of defense for humanity. My great-grandfather - honored King Alexander Von Lohengramm, noticed the signs of creeping calamity long before other nations. Thus, he began the colonization of this continent of Alteraz. Eventually, the kingdom could not hold out any longer, so he sent my grandfather, then merely 19 years of age, to continue the line here while he himself stayed back. Many nobles of our kingdom followed his example, sending their sons and daughters along with my grandfather to the new lands," she took a sip before continuing, "of course, there was the prophecy as well, it pointed to a dungeon here. Alteraz is where the heroes shall defeat the calamity and the world will be safe once again!"
+"... And so, this is both a frontier and last line of defense for humanity. My great-grandfather - honored King Alexander Von Lohengramm, noticed the signs of creeping calamity long before other nations. Thus, he began the colonization of this continent of Alteraz. Eventually, the kingdom could not hold out any longer, so he sent my grandfather, then merely 19 years of age, to continue the line here while he himself stayed back. Many nobles of our kingdom followed his example, sending their sons and daughters along with my grandfather to the new lands," she took a sip before continuing, "of course, there was the prophecy as well, it pointed to a dungeon here. Alteraz is where the Heroes shall defeat the calamity and the world will be safe once again!"
 
 'Did she just casually mention a dungeon?' Before I could interrupt, she pushed on. When it comes to talking about her family history, she just kept going on and on.
 
-"And so, my grandfather formed an alliance with four other clans. They weren't more than bridgeheads back then, but now the former alliance rules as the five major clans. The clan system was actually formalized by my father himself! And my big brother was -" she stopped, slight shock apparent on her face. I remember her mentioning her little brother, this was the first time I heard about a big brother. I gave her a moment, as she hesitated. She spoke in a small voice, "Big brother was supposed to be the first official overseer."
+"And so, my grandfather formed an alliance with four other clans. They weren't more than bridgeheads back then, but now the former alliance rules as the five major clans. The clan system was actually formalized by my father himself! And my big brother was-" her breath hitched. I remember her mentioning her little brother, this was the first time I heard about a big brother. I gave her a moment, as she hesitated. She spoke in a small voice, "Big brother was supposed to be the first official overseer."
 
 Her fingers trembled slightly. Moisture clouded her eyes. 'Why is this cut scene making my heart squidge?'
 
-After a practiced deep breath, a mournful smile decorated her features. "He was last seen on the wrong side of the high passes," she spoke with fool's hope. After a minute of silence, she pronounced, "Oh! Look at me, rambling on. The Sun is almost past the zenith, perhaps we should head inside for the luncheon?"
+After a practiced deep breath, a mournful smile decorated her features. "He was last seen on the other side of the High Passes," she spoke in a low voice. After a minute of silence, she pronounced, "Oh! Look at me, rambling on. The Sun is almost past the zenith, perhaps we should head inside for the luncheon?"
 
 <br />
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
@@ -45,7 +45,7 @@ Also somewhere high up in the mountains, near the Dwarven territory, were the "h
 
 Of course, these were only some of the major players on the continent. "Civilized" people, so to speak. Innumerable creatures roamed the vast "uncivilized" areas that were being quickly engulfed by the former. I learned that the mammoths, crocs, and squid-face went extinct hundreds of years ago. Panthers still resided in the south. About the rest of the creatures, they were either common or unknown. Quite a dichotomy.
 
-An optimistic estimate was that humans currently reigned supreme in the eastern continent - bar the "uncivilized" regions as it were.
+An optimistic estimate was that humans currently reigned supreme in the eastern region - bar the "uncivilized" regions as it were.
 
 <br />
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
@@ -63,7 +63,7 @@ Such was the situation where I was summoned into - war on all fronts, people tea
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
 <br />
 
-I arrived at the summoning hall following Francisa, which was being doubled as a throne room and dining hall. 'Shit, they scrubbed the Runes!'
+I arrived at the summoning hall following Francisa, which was being doubled as a throne room and dining hall. 'Shit, they scrubbed the Summoning Runes!'
 
 I nodded at the NPCs and smiled at my companions, of whom everyone but Taro was already present. Julie sent a weary smile back. Carol seemed amused by something. Divin nodded back without a smile. Arya was fuming. I took a seat amidst them, all of us seating on one side of the table. Francisa took the seat facing me on the other side. Apparently, each of the representatives had taken a seat in front of their partners.
 
@@ -71,7 +71,7 @@ The prince NPCs ahead of Carol and Arya sat in a rigid posture, staring at the t
 
 I sat beside Carol, who immediately leaned over and whispered, "Didja, ya know...?" and glanced at Francisa.
 
-"Naw... I'm not that stupid ya know." I retorted. She raised her hand in mock apology, saying something about men and their thinking.
+"Naw... I'm not that short-sighted you know." I retorted. She raised her hands in mock apology, saying something about men and their thinking equipment.
 
 It was at that moment that Taro strolled in. With the remaining princess in tow. Clinging on to each other like newlyweds. 'Damn it, they got him. Hook, line and sinker!'
 

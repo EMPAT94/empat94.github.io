@@ -17,7 +17,7 @@ I did the necessities, coming out of the bath a while later with my Tutorial rob
 
 "Today is a fine day, isn't it Sir Pat?" she uttered, caressing out non-existent wrinkles on her expensive purple-hued dress. This was the same variant of the one she wore when we first met. An "important event" NPC costume, I figured.
 
-"Yep. You're looking quite nice in the dress." I casually complimented and sat down. "And please Francisa, just call me Pat." A maid hovered by to drop dollops of orangish stuff into my plate. And some bread. These guys love their bread.
+"Yep. You're looking quite nice in the dress." I casually complimented and sat down. "And please Francisa, just call me Pat." A maid hovered by to drop dollops of orangish stuff into my plate. And some bread. These guys loved their bread.
 
 "T-thanks, Sir Pat. I mean, Pat." She blushed a little. 'Cute.' "Ah, my apologies. It would get some getting used to. Please try the bhuna pumpkin sauce, it's a specialty where we come from. Or rather, used to be." She tapered into silence at the end but perked up again by proclaiming my tasks for today. "Today we'll be going around the Noble quarters and the town square in commoner's district in the ceremonial chaises. Hero and their representatives in each one. Hopefully, we'll be back by lunch, where we will meet Hamilton, my dear friend. The evening will be taken up for your discourse with the Royal Mages. They shall lay out your tutelage for the coming weeks. I shall attend to you whenever I can, of course."
 
@@ -27,13 +27,13 @@ I just nodded, quietly savoring the bitter-sweet taste of the orange sauce, a bi
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
 <br />
 
-We gathered into the main hall - the one that had doubled as a throne room, a dining hall, and a summoning room so far.
+We gathered into the main hall - the one that had served as a throne room, a dining hall, and a summoning room so far.
 
 'This is it!' Today, I was actually venturing out beyond the safe zone. A whole new world and all I'd seen were a couple of rooms and a backyard. Sure, being gawked at by the masses sucked the fun out a bit, but I was excited to step out nonetheless. 'What sort of wonders shall I see today?'
 
 Each "hero" - 'Heh.' I still chuckled at that - was standing beside their representative and a couple of Royal Guards. The guards did not have shining armor or magic swords. Instead, they carried spears and round shields like aspis, reminding me of Spartan Hoplites. They did look stone-cold deadly.
 
-Divin and Anna were having a whispered conversation. Not romantic. No. More like mafiosos discussing an underground business deal. Taro, still grinning but with bags under his eyes, had the other princess clutching his arm like a vise. 'What had Francisa called her? Prissy?'
+Divin and Anna were having a whispered conversation. Not romantic. No. More like mafiosos discussing an underground business deal. Taro, still stupidly grinning but with bags under his eyes, had the other princess clutching his arm like a vise. 'What had Francisa called her? Prissy?'
 
 Carol still had her representative beside her, but the wide distance between them left no one in doubt about their relationship. Arya was with a little kid that had the same sky blue eyes and dirty blond hair as Francisa. 'Her little brother?'
 

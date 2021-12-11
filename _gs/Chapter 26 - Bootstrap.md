@@ -29,11 +29,19 @@ Thankfully, the guy ended his speech quickly. I bet he took pity on us. 'I ain't
 
 As soon as he said that, a young girl NPC from the side latched onto Taro. Another guy came and conversed with Julie. I noticed some hesitation from the remaining two women when the other ran to Divin. The one who stared at me earlier walked towards me with a bland face.
 
-"Greetings sir," she said - bending down and picking up her flowing gown slightly, "I'm princess Francisa Von Lohengramm, at your service. May I have the pleasure of knowing your name?"
+"Greetings sir," she said - bending down and picking up her flowing purple gown slightly, "I'm princess Francisa Von Lohengramm, at your service. May I have the pleasure of knowing your name?"
 
-'Oh... A princess NPC?' I was a bit surprised. I assumed we were summoned by a cult, given the introduction by "clan head", but there was actually a princess here. 'Another thing to investigate, if time permits.'
+'Oh... A princess NPC?' I was a bit surprised. I assumed we were summoned by a cult, given the introduction by "clan head", but there was actually a princess here. 'Another thing to investigate, if time permits.' I directed a discreet Identify in her direction.
 
-"I'm Pat. Nice to meet ya. Guess you're stuck with me, eh?" I joked, hoping to break the ice a bit.
+---
+
+### [???] Princess - Level ???
+
+---
+
+'What the shit? Oh damn, she is waiting for my reply.'
+
+"I'm Pat. Nice to meet ya. Guess you're stuck with me, eh?" I joked, hoping to break the ice a bit. 'Just how high leveled is she?'
 
 She let her gown go and took an unwavering posture, giving off a smile that didn't reach her eyes. 'This is not _approaching_ creepy, it totally is. This NPC is giving me the stink-eye!'
 
@@ -53,7 +61,7 @@ I slowly opened the door, then stopped right there, stunned for a moment at the 
 
 'Doesn't this part come later, typically at the end?'
 
-And yet in the reversal of common lore, here stood this young woman, bare a couple of years younger than me. I did not know why she was doing this, but I was pretty sure she did not fall for me in the few minutes that we talked and walked. Whatever her circumstances were, I myself was a bit alarmed about the whole situation. It would've felt just right in a dream; in the real world (or as real as this simulation could get), I had other concerns. First, I had great reservations about such an obviously reluctant offer. Second, I doubted there was any protection method present. I did not want to catch anything nor leave anything behind. My decision made, I coughed lightly to bring her attention back from the clouds.
+And yet in the reversal of common lore, here stood this young woman, a few years younger than me. I did not know why she was doing this, but I was pretty sure she did not fall for me in the few minutes that we talked and walked. Whatever her circumstances were, I myself was a bit alarmed about the whole situation. It would've felt just right in a dream; in the real world (or as real as this simulation could get), I had other concerns. First, I had great reservations about such an obviously reluctant offer. Second, I doubted there was any protection method present. I did not want to catch anything nor leave anything behind. My decision made, I coughed lightly to bring her attention back from the clouds.
 
 She looked up startled, almost dropping a dollop of porridge-like stuff on the table. 'Hmm... Even the reactions are exceptionally life-like. I wonder what manner of data-structures are driving these? There's surely an ML layer behind all this, perhaps even multiple pseudo-intelligent overseer AIs like Betty.'
 
@@ -67,7 +75,7 @@ I mentally kicked myself for missing that. My hunger soon brought my attention b
 
 We ate dinner in silence. I was indeed curious about many things, but it could wait. The food demanded and deserved my full attention. I did not know what the princess ate, or if she had at all, but she was done before I was. As I wiped my plate clean and gave a sigh of satisfaction with a rub over my tight belly, I felt sweet fatigue wash over me.
 
-I excused myself from the table and went to wash off, assuming the maids would clean the table off later. 'The princess should get a clue with this.' I immediately jumped into bed and dragged the covers on my prone form. It was damn cold, and that was okay. It felt right somehow.
+I excused myself from the table and went to wash off, assuming the maids would clean the table off later. Then immediately jumped into bed and dragged the covers on my prone form, ready to sleep the night away. 'The princess should get a clue with this.' It was damn cold, and that was okay. It felt right somehow, after enduring the same temperature daily for a month.
 
 <br />
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
@@ -99,9 +107,9 @@ A light knock brought me out of my stupor. I removed the dirt from my eyes and s
 
 "Yes, if sir Pat doesn't mind my company?" she said. I replied an affirmative and she signal another maid, who was presumably standing outside waiting for the order, to lay out the food.
 
-I got out of the bed and drank deeply from the jar, making my way towards the toilet. Yes, with sleep and food, the other parts of my anatomy had kick-started as well. The toilet itself was, from a distance at least, no different than a modern western toilet. Get close and you'd notice that it was actually a proper chair with a hole in the center. Closer still and you'd notice all the Runes decorating it inside and out. I noticed at least three different disinfection Runes. Either way, I was thankful I did not have to go in a pot.
+I got out of the bed and drank deeply from the jar, making my way towards the washroom. Yes, with sleep and food, the other parts of my anatomy had kick-started as well. The mechanism itself was, from a distance at least, no different than a modern commode. Get close and you'd notice that it was actually a proper chair with a hole in the center. Closer still and you'd notice all the Runes decorating it inside and out. I Identified at least three different disinfection Runes.
 
-Soon after finishing my business, I made my way to the bath after the earlier maid vacated, just in time to see a Rune fizzle out. 'A temporary heat Rune? I've learned more about Runes in the last 24 hours than the entire previous month!' Cursing the futility of the Tutorial and not loitering long like last night, I quickly made my way towards breakfast, sitting in front of the beaming princess.
+Soon after finishing my business, I made my way to the bath after the earlier maid vacated, just in time to see a Rune fizzle out in the water. 'A temporary heat Rune? I've learned more about Runes in the last 24 hours than the entire previous month!' Cursing the futility of the Tutorial and not loitering long like last night, I quickly made my way towards breakfast, sitting in front of the beaming princess.
 
 "I shall show sir Pat around the palace grounds after breakfast, then we shall attend to the throne room for lunch with the other heroes and clan heads," she laid out my agenda like it was natural, "if sir Pat obliges, I would like to give a small tour of the noble quarters in the evening as well." I wondered how the nights of the rest of my fellow test-subjects had been. 'Guess we'll talk at lunch directly.'
 

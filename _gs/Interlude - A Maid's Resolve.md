@@ -19,7 +19,7 @@ As I grew up, I wished for _anyone_ to come take me away. My ways of smearing my
 
 One evening, when some drunk bastard decided he wanted the daughter along with the mother for company, _I_ decided I had enough. Fuck princes, if I waited any longer I'd end up like my Ma - stumbling from one drunk fool at day to another violent ass come night.
 
-That very night, I packed my bags. I was gone by the time dawn broke. "One day Ma, I'll return," I swore, "and _I_ will come to pick you up from this shit-hole and take you to a better place."
+That very night, I packed my meager belongings in a rug-sack. I was gone by the time dawn broke. "One day Ma, I'll return," I swore, "and _I_ will come to pick you up from this shit-hole and take you to a better place."
 
 I did not say goodbye. It would've broken her weak heart. Besides, I was planning to return someday. She would understand.
 
@@ -51,7 +51,7 @@ And then I caught his seed.
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
 <br />
 
-Soon, I learned that some Nobles were no less cruel than the filthy slum dwellers I had escaped from. Just wrapped in fancy threads speaking fancy words.
+Soon, I learned that some Nobles were no less cruel than the drunk assholes I had escaped from. Just wrapped in fancy threads speaking fancy words.
 
 They threw me out when I started to show. With rags on my back and a few coppers to my name.
 
@@ -65,7 +65,7 @@ It was Minny's sixth summer when the signs started showing. A dizzy moment here,
 
 I reached out to her father once again. Age may have turned the boy into a stoic young man, but his heart still thrummed with compassion. Against his dear wife's wishes, he arranged for a healer. Not the magical mender - they were too costly for a bastard daughter - but an Alchemist who dabbled in healing potions.
 
-The Alchemist, in turn, contrived a potion that would delay her symptoms. "I've done what I can, but she needs a proper Healer," He warned. Where in the clear blue sky is a "proper Healer" gonna drop from in this backwater village? I was at my wit's end. Why does the world persist in fucking me around? Had I not suffered enough?
+The Alchemist, in turn, contrived a potion that would delay her symptoms. "I've done what I can, but she needs a proper Healer," He warned. Where in the hell is a "proper Healer" gonna pop up from in this backwater village?
 
 <br />
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
@@ -113,7 +113,7 @@ I got down on my knees and got to work like a golem from the bard's story. Stone
 
 "Humph." His words came out quickly as his breathing hitched. "I'll show Siegfried. Even I- ah, that's good. Um..." He holds my skull in a vise-like grip. Gods, I always hated this part.
 
-After a few moments of short grunts, I got off my sore knees. The blubber pulls his britches up and walked over to his shiny cupboard. A few fancy hand-wavy gestures and muttered words later, he procured a finger-long vial of clear liquid.
+After a few moments and swallowing my disgust, I got off my sore knees. The blubber pulled his britches up and walked over to his shiny cupboard. A few fancy hand-wavy gestures and muttered words later, he procured a finger-long vial of clear liquid.
 
 "Now, I spoke with a Healer friend of mine. And he is willing to cure your daughter. But-" He walked up to me, sickly sweet perfume wafting through my nostrils.
 

@@ -27,9 +27,9 @@ Arya neither acknowledged his words nor stopped her pacing. He nodded at his kid
 
 “Pat, this simulation… It’s too real. Even on our first night here, that prince - He… I almost… And now Carol. Oh, God!” Arya started hyperventilating.
 
-I willed my feet to move. “Can you give us a minute?” I spoke to Francisa while keeping an eye on Arya. “Of course” she whispered, her voice small. Her little brother followed.
+I willed my feet to move. “Can you give us a minute?” I spoke to Francisa while keeping an eye on Arya. “Of course” she whispered, her voice small. Her little brother followed obediently.
 
-As they reached the door, I walked towards Arya. She had a single tear sliding down her cheek. “Hey,” I placed my hand on her shoulder, “remember when Carol had to hide from those baboons?” I gently guided her towards the table where the water jar was present.
+As they reached the door, I walked towards Arya. She had a single tear sliding down her cheek. “Hey,” I placed my hand on her shoulder, “remember when Carol had to hide from those baboons?” I gently guided her towards the table where the water jar was placed.
 
 “She was so silent that the thing never noticed her, not even when her dagger pierced its heart.” I sat her down. The maid poured a mug of water from the jar. ‘Bless her.’ I did not even notice her there. “And that dragon? She even hid from a god-damn dragon!”
 
@@ -39,7 +39,7 @@ That did get a chuckle. But her mirth vanished just as quickly.
 
 “About this prince thing, do you wanna talk about it?” I asked lightly.
 
-“No. Not now. Right now we have to do something about Carol.”
+“No. Not right now. Right now we have to do something about Carol.”
 
 “I agree. What can we do though?” I wondered. Sitting here doing nothing was unnerving. I took a sip of water myself. “We don’t even know who took her or why.”
 
@@ -67,11 +67,9 @@ The maid, Elise, thrust a hand in her multi-layered but well-hidden skirt pocket
 
 “And who was it that told you to do it?” Arya asked, her knuckles white.
 
- 
-
-¤ ¤ ¤
-
- 
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
 
 We took the news to Francisa and her father. The night was quite frantic.
 
@@ -105,47 +103,53 @@ Now here we stood in the empty throne room, no opulent NPCs nor table laden with
 
 “Towards the Centaur lands.” He lamented.
 
- 
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
 
-¤ ¤ ¤
+We had a choice - continue our training in the palace while our host’s forces retrieved our mate or we join said force for the retrieval. Of course, we chose the latter; despite the insistence of the NPC leader and Francisa. Not the least because we weren’t training so much as simply reading books for now. Arya’s tutor hadn’t showed up and I didn’t really need to "learn" so much as practice to improve. So off we went to rescue the damsel in distress. Francisa wanted to follow us but NPC leader whispered a few words and she stayed put with slouched shoulders.
 
- 
-
-We had a choice - continue our training in the palace while our host’s forces retrieved our mate or we join said force for the retrieval. Of course, we chose the latter; despite the insistence of the NPC leader and Francisa. Not the least because we weren’t training so much as simply reading books for now. Arya’s tutor hadn’t shown and I don’t really need to learn so much as practice to improve. So off we went to rescue the damsel in distress.
-
-The Rangers, who had sniffed out the empty house of New Church member, were already in pursuit. Another force comprised of Royal Warriors, Rangers, Mages, Archers, and one Healer was being mobilized. Arya and I stood outside the gates, hefting a burly sack filled with essential supplies. No magic dimensional super pouch to the rescue.
+The Rangers, who had sniffed out the empty house of New Church member, were already in pursuit. Another force was being mobilized as reinforcement. Arya and I stood outside the gates, hefting a burly sack filled with essential supplies. No magic dimensional super pouch to the rescue.
 
 “This is Captain Godart, an esteemed Warrior of the clan. He will be leading this rescue party,” NPC leader gestured towards a tanned gruff NPC with biceps competing with tree trunks. Said man grunted in our direction, then continued monitoring his men. “Not a man of many words, but he more than makes up for it with his skills. And this -“
 
 “Hi-Hi!” another NPC, a woman this time, in light grey armor exclaimed with a cheery voice. She made her way towards us, slipping between the throng of busy soldiers with the grace of a lithe cat. “I’m the second in command, Seline. Level 56 Sniper. At your service!”
 
-Both Arya and I politely nodded our heads and said our hellos. ‘Sniper, eh?’
+Both Arya and I politely nodded our heads and said our hellos. ‘Level 56 Sniper, eh? Let's see what Identify shows for this NPC.’
 
-“Wondering what a Sniper is?” ‘Well, not really.’ “Ha, even I was surprised when I got this choice. Apparently, it was because I could shoot from afar. A Sniper is just a more specialized type of Archer. Care to guess from how far away I can shoot a man’s helmet off?”
+---
+
+### [??] Sniper - Level ??
+
+---
+
+'Huh, so given my current level 20, I see a single question mark for those above me but not far ahead, possibly levels 21 to 44. I can see their skills and special effects sometimes. Double question mark for those who have one "evolution", apparently above level 45. And triple for those with "double evolution" I guess? Following the scheme, should be levels 65 to 80. How the hell is Francisa above level 65 already?'
+
+“Wondering what a Sniper is, are you?” ‘Well, not really.’ “Ha, even I was surprised when I got this option. Apparently, it was because I could shoot from _really_ far away. A Sniper is just a more specialized type of Archer. Care to guess from how far away I can shoot a man’s helmet off?”
+
+'Option? And did she get a Sniper Class _because_ she could shoot from far? Shouldn't it be the other way around? What's the point otherwise?'
 
 She looked expectantly in our direction. “Seline…” NPC Captain growled, his unspoken threat cutting through the hustle and bustle.
 
-“Oh! Duty calls. And yeah, don’t worry about your friend. My husband is leading the Rangers following her trail. He’ll get her soon enough, you’ll see.” She waved and retreated into the crowd.
+“Oh! Duty calls. And yeah, don’t worry about your friend. My husband is leading the Rangers following her trail. He’ll get her soon enough, you’ll see. He never fails to find his prey.” She waved and retreated into the crowd.
 
 Eventually, the preparations were completed. We bid farewell to our hosts and got inside a posh carriage. If I had to compare it to something in our world, it’d come close to a small RV. With magical suspension. It proved quite the life-saver when we launched like a missile and sped into the distance, the city soon a spot on the horizon. Needless to say, there wasn’t much in the way of sightseeing.
 
 The carriage thundered ahead without stop until the shadows were right below us. The horses needed to rest. It was going to be a long road, so we had to pace ourselves. That is what we were informed at least. We opened up our bags and took out our rations - a fried egg sandwich with minced vegetables. Honestly, this wouldn’t be out of place at a picnic. And it was god-damn delicious to boot. I mulled over the smell that wafted from the still-hot sandwich - I won’t be able to enjoy it later after all. Unfortunately, my indulgence was cut short when a piece of cloth covering our luggage moved in the corner. The cloth fell and revealed a young face with dirty blond hair and familiar sky blue eyes. We had a royal stowaway.
 
- 
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
 
-¤ ¤ ¤
-
- 
-
-“We continue,” Captain gruff intoned, and that was it.
+“We continue,” the Captain decided, and that was it.
 
 The NPC prince glanced from where he was hiding behind Arya. Looking closer, he must be around six or seven years old.
 
 Now that the captain was gone, his face blossomed into a smile - a smile of someone who got away with mischief. The kid had somehow sneaked into the RV just before we departed.
 
-I floated the idea of sending the brat back with one of the soldiers. I had long realized that I need not be a simple observer in these cut scenes. According to Captain, however, the prince was safer with us. They were assigned to guard Arya and me as well, besides being a rescue team. What’s one more ward? I had to agree. The Captain ordered Seline to send a message back to the palace about the new development. I wondered how they would do that.
+I floated the idea of sending the kid back with one of the soldiers. I had long realized that I need not be a simple observer in these cut-scenes. According to Captain, however, the prince was safer with us. They were assigned to guard Arya and me as well, besides being backup for the Rangers. What’s one more ward? I had to agree. The Captain ordered Seline to send a message back to the palace about the new development. I wondered how they would do that.
 
-Yet, I was more interested in the ongoings inside our carriage. Upon some coaxing from Arya, the kid, Philippe, confessed that he was scolded by his father and had decided to run away with “big sis”. And so we had one more guest sharing our carriage - and my sandwich.
+Yet, I was more interested in the ongoings inside our carriage. Upon some coaxing from Arya, the kid, Philippe, confessed that he was scolded by his father and had decided to run away with “big sis hero”. And so we had one more guest sharing our carriage - and my sandwich.
 
 The soft texture of the carriage seat was almost comparable to the lush bed. I barely felt the rapid progress we made, even relishing in a refreshing nap after the filling lunch. One moment I closed my eyes and the next, it was evening already.
 
@@ -157,4 +161,4 @@ The soft texture of the carriage seat was almost comparable to the lush bed. I b
 
 “I don’t know. That’s where the Rangers are headed tough. And she better be there.” The setting Sun turning her eyes into liquid fire. A question died on my lips. The sandwich was forgotten for the moment, the slight melancholy on her face offsetting my hunger. The moment stretched on, as she took a deep breath and pursed her lips. Since when did the golden sunlight of the evening make everything so gorgeous? I was so lost in the view that I almost missed the significance of the words she uttered next.
 
-“Because it’s the last human city before the border.”
+“Because it’s the last human city in this direction. Beyond that? It's a war-zone.”

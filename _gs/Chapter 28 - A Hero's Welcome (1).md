@@ -37,11 +37,11 @@ part: 30
 
 "Um, sorry was just lost in thought." (Arya)
 
-"'Twas that goon prince, bloody minger." (Carol, bursting out) "He was quite insistent on Arya last night. I saw 'em scurry off after lunch."
+"'Twas that goon prince, bloody minger." (Carol, bursting out) "He was quite insistent with Arya last night. I saw 'em scurry off after lunch."
 
 "What happened?" (Divin, severely)
 
-"Nothing! It wasn't as bad as Carol made it sound. I'm slightly astounded, is all." (Arya, smiling slightly)
+"Nothing happened! It wasn't as bad as Carol made it sound." (Arya)
 
 'Ah, I guess the courting manners of medieval princes do not suit the sensibilities of modern women. Heh.'
 
@@ -61,7 +61,7 @@ No prize for guessing his destination. The rest looked on with complicated expre
 
 "How did you come to these conclusions?" (Divin, with the rest listening in rapt attention)
 
-"Hmm, this whole setup feels like a video game to me. And games end when you defeat the final boss. As for our time spent here, I think we aren't actually here physically. Simply because the Simulation itself is virtual. We are something like game characters or avatars, just based on our exact physical appearances. That is what I think, in theory." (Me)
+"Hmm, this whole setup feels like an RPG video game campaign to me. And games end when you defeat the final boss. As for our time spent here, I think we aren't actually here physically. Simply because the Simulation itself is virtual. We are something like game characters or avatars, just based on our exact physical appearances. That is a guess though." (Me)
 
 'At least I hope so. We could just as well be copies of our original consciousness to be discarded after the test is finished.'
 
@@ -85,7 +85,7 @@ The NPCs planned to have one hero attach to one clan. That clan would take respo
 
 Arya decided to stay at the palace. Carol opted to stay with her as well. Neither had warmed up to their prince. The girls had decided this together last night sometime. Divin presumed everyone was splitting up so he planned to go out as well. After hearing that he could've refused, he made a sour face for a while. As for the former two, Arya was getting help from the Lohengramm clan like myself. She had refused all support from the assigned representative clan. Carol instead was having her "tutor" coming over. As for me? I would have to check things out with Francisa later.
 
-Regarding our Classes, while we _were_ at the baseline, it was merely the lowest standard required to get official jobs out here. People started their leveling as young as 6 years old. By the time they grew up to 15 years, they comfortably reached level 20. A human was considered an adult at that point. Some leveled up earlier, some later in the age bracket of 13 to 19.
+Regarding our Classes, while we _were_ at the baseline, it was merely the lowest standard required to get official jobs out here. People started their leveling as young as 6 years old. By the time they grew up to 15 years, they comfortably reached level 20. A human was considered an adult at that point. Some leveled up earlier, some later but most reach the threshold by their late-teens.
 
 The fun began beyond this milestone. People take up jobs befitting their Class, usually under a mentor. What they do with their mastery of Base Classes ends up affecting the next Class Upgrade. A Craftsman who takes up farming gets a Farmer Class. A Healer who joins the clergy and starts preaching gets a priest-like Class. And there is no limit on the variety of Classes one could achieve depending on the jobs they take. Assuming they are in their evolutionary tree, of course. A Scout would end up as a very poor stable-boy if he even gets that Class. As far as Julie knew, and she was the one who knew the most in this area, the Craftsman Class had the most known branches and the Mage class had the least.
 
@@ -109,7 +109,7 @@ Eventually, we broke off, planning to meet again tomorrow to discuss and work ou
 
 "I understand. Do forgive me though, the tea has gone cold. The cakes are still edible though." She declared, proffering the sweets on the table. "I had offered to acquaint a few of my friends to Sir Pat. Shall we move it to tomorrow evening?"
 
-"Of course. I'll be happy to meet your friends." 'No need to antagonize her further.' I took a piece of the spongy cake with a fork and placed it in my mouth, sitting down in front of her. "The cake's nice!" I idly commented.
+"Of course. I'll be happy to meet your friends." 'No need to antagonize a friendly NPC.' I took a piece of the spongy cake with a fork and placed it in my mouth, sitting down in front of her. "The cake's nice!" I idly commented.
 
 "I'm sure Anna would've appreciated your words. She'll be departing tomorrow with Sir Divin, however. Though, Hamilton will be glad to convene." She mused.
 
@@ -123,13 +123,10 @@ Soon, the Sun dipped below the horizon. I failed to notice it last night, but no
 
   - Escape simulation
     - ~~Complete tutorial~~
-    - Another Portal? Find Exit.
+    - Find Exit. Related to a dungeon somehow.
 
 - Side Quests
   - Create a new rune
-    - Study magic candle Rune
-    - Study heat Rune in bath
-    - Study Runes in the toilet
   - Extract core password
   - Save the world?
 
@@ -179,7 +176,7 @@ I was a bit disheartened that all the monsters I killed in level 20 gave me no e
 
 'Francisa mentioned I'll be meeting the Royal Mages who drew the Circle tomorrow. Wonder what's in store? Not looking forward to the "parade" though. Ugh. Anyway, gonna get back in the grove come morn. So much to discover!'
 
-I smiled. In a way, I was glad to be here. 'Magic and Code being the same are awesome!'
+I smiled. In a way, I was glad to be here. 'Magic and code being the same is awesome!'
 
 And so I slept fitfully, dreaming of Runes of flight and confetti.
 

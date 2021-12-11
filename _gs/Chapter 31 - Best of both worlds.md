@@ -31,13 +31,13 @@ An NPC who appeared on died of French Fries and Cheeseburgers sauntered into the
 
 Then he ambled around the table and sat down in front of me. The rest took their seats as well. He held up his palm at the crystal and whispered something too low for me to hear, and the Runes on the crystal shined with a whitish-blue glow.
 
-"Place your hand on the sphere." He spoke in a bored tone.
+"Place your hand on the sphere." He spoke, boredom coming off in waves from his tone.
 
 I looked at the glowing crystal. I sort of knew what it was, but couldn't help myself. "What is this crystal?"
 
 It was Fredrick who answered. "It's a Status Sphere. It shows your Status Window. Every Noble worth their salt has access to one. Even commoners get to access it when they come of age. To think the hero has never even seen it -"
 
-"Enough banter, Fredrick. Do not waste time." The Archmage admonished Fredrick. Perhaps it was angled at me as well?
+"Enough banter, Fredrick. Do not waste time." The Archmage admonished Fredrick. 'Perhaps it was angled at me as well?'
 
 'But why do they need an artifact to check their Status Windows. Do they not have Spells for it?' I stashed the mystery for another time. Apparently, the guy had a tight schedule. Without hesitation, I placed my hand on the crystal and a small window became visible above just my hand after a second.
 
@@ -77,7 +77,7 @@ _Special Effects:_
 
 "No, I don't." 'The Mages here get Skills? Betty mentioned something like that.'
 
-Fredrick chimed in. "A hero with no Skills. Barely at level 20. Deliver us from calamity? Even my younger brother could do better, and he is not thirteen summers yet!" There was still a faint echo of hilarity in his expression.
+Fredrick chimed in. "A hero with no Skills. Barely at level 20. Deliver us from the calamity? Even my younger brother could do better, and he is not thirteen summers yet!" There was still a faint echo of hilarity in his expression.
 
 Francisa soon came out of her daze. "It matters not. He may still use Runes as he sees fit." She gave me a small smile.
 
@@ -135,17 +135,17 @@ I decided against broaching the subject again. We had a full dinner again, with 
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
 <br />
 
-"Aye, and he just disappears right in front of my eyes; like poof!"
+"Aye, and he just disappears right in front of my eyes; like poof, gone!"
 
 We were in my room. Carol, Arya, and I were sitting at the table laden with bread and some hot green liquid. It was not tea. Carol was currently engaged in recalling her introduction with her mentor. My usual maid was frolicking in the corner. 'What was her name again? Elaine? Damn it, I forgot.'
 
-"Looks like you both got along well with your tutors. And _I_ have to read the daily journal, or I should say fanatic mutterings, of some dead old woman." Arya complained as she tore her bread with a vengeance. Her tutor had still not been decided. In the meantime, she was provided with Francisa's great-grandmother's effects to study. Effects as in, a few ancient books and a broken staff to be precise. Somehow related to a Church of Healers.
+"Looks like you both got along well with your tutors. And _I_ have to read the daily journal, or I should say fanatic mutterings, of some dead old woman." Arya complained as she tore her bread with a vengeance. Her tutor had still not been decided. In the meantime, she was provided with Francisa's great-grandmother's effects to study. A couple of ancient books and a broken staff to be precise.
 
 I had already regaled them with the description of the new NPCs and my interactions with them from last night. "Heh, don't worry Arya, you'll get yours soon enough. And did your mentor get your Status checked as well Carol?"
 
-"Oh, yea. He did place a wee shiny bauble in my hands. It was missing some effects though." Carol mused. "He said I was very lucky with my Skills. They are quite rare, he says."
+"Oh, yea. He did place a wee shiny bauble in my hand. It was missing some effects though." Carol mused. "He said I was very lucky with my Skills. They are quite rare, he said."
 
-"And I was almost laughed out the room for having no Skills." I sniffed.
+"And I was almost laughed out the room for not having Skills." I sniffed.
 
 "But it doesn't matter for you, right? What with your magic spells and stuff." Arya queried while taking a sip of the bitter not-tea.
 
@@ -163,5 +163,5 @@ I had already regaled them with the description of the new NPCs and my interacti
 
 "And then _you_ have your Spells," Carol smirked.
 
-"And then I have my Spells." I smiled. "Best of both worlds. And then some."
+"And then I have my Spells." I smiled. "Best of both worlds."
 

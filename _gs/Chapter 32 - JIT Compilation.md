@@ -60,11 +60,11 @@ She stared at me silently, unsure of how to react. I was expecting this, however
 <p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
 <br />
 
-With the current war efforts and scarce manpower, all manner of research not directly beneficial to wiping out the enemy was put on hold. In fact, most of the effort was focused on producing as many items and consumables as possible. Neysaa was no exception. We had lunch in the small room inside the tower, then leaving to read a book about possible interpretations of the prophecy, she left to finish her quota of Scrolls for the day. If nothing else, the book did explain why the NPCs were so well prepared for our arrival.
+With the current war efforts and scarce manpower, all manner of research not directly beneficial to defeating the enemy was put on hold. In fact, most of the effort was focused on producing as many items and consumables as possible. Neysaa was no exception. We had lunch in the small room inside the tower, then leaving to read a book about possible interpretations of the prophecy, she left to finish her quota of Scrolls for the day. If nothing else, the book did explain why the NPCs were so well prepared for our arrival.
 
 There were many advantages I had that over the NPCs here. Being left alone with a chock full of magical artifacts was a perfect opportunity for me to exercise those advantages.
 
-I kept the large book - a tome, she called it - aside. Snagging a two-Rune Scroll, I started my experimentation.
+I kept the large book - a tome, as she called it - aside. Snagging a two-Rune Scroll, I started my experimentation.
 
 "Identify" I whispered.
 
@@ -100,7 +100,7 @@ Given that their world was about the end, I assumed they would loosen their wall
 
 I could make Spells. But I needed more references on how to actually make some. Blind experimentation can only take one so far. I'm glad I had not imploded into singularity yet, given Neysaa's horror stories of how new Scrolls and Circles came to be.
 
-Thought I had grasped what the Runes were in their entirety. While the Spell in my repository was the "source code", Runes were the compiled "byte-code" of the same. From a similar perspective, the number of modules or the overall complexity of the source determined the resultant pattern formed. A simple function, say to induce heat, formed a single Rune. To have complex behavior with multiple functions required "connections" between the Runes. Scrolls were simple, crude, low complexity programs while the Circles were the exact opposite. One major thing that separated my understanding of this system from the NPCs was that for me, there was no difference between a Rune, a Scroll, or a Circle. From my point of view, they were all bundles of compiled code.
+Thought I had grasped what the Runes were in their entirety. While the Spell in my repository was the "source code", Runes were the compiled "machine code" of the same. From a similar perspective, the number of modules or the overall complexity of the source determined the resultant pattern formed. A simple function, say to induce heat, formed a single Rune. To have complex behavior with multiple functions required "connections" between the Runes. Scrolls were simple, crude, low complexity programs while the Circles were the exact opposite. One major thing that separated my understanding of this system from the NPCs was that for me, there was no difference between a Rune, a Scroll, or a Circle. From my point of view, they were all bundles of compiled code.
 
 I held the Humidity Scroll in my hands, caressing the soft surface. 'Should I just forget about Runes? I can use Spells after all.'
 
@@ -134,7 +134,7 @@ I had wrongly believed that Spell used mana to manifest. Though not entirely inc
 
 My method of creating a Rune was to somehow stop after compiling the Spell. To copy the compiled data onto the surface and defer execution for later.
 
-As with all things in this Simulation, the intent to do something mattered a lot. I had to precisely visualize exactly how I wanted the whole process to go.
+As with all things in this Simulation, the conscious intent to perform an action mattered a lot. I had to precisely visualize exactly how I wanted the whole process to go.
 
 On a whim, I selected the yet untarnished piece of paper. "Stupefy," I murmured.
 
