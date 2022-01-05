@@ -22,6 +22,10 @@ As a teenager, his magical talents led him to a long working relationship and fr
 
 </blockquote>
 
+<br />
+<p style="text-align:center"><strong>¤ ¤ ¤</strong></p>
+<br />
+
 "We must start from the bare beginnings, it seems."
 
 Neysaa frowned, her thoughts churning around the latest predicament. All my "syllabus" was based on the assumption of knowledge known to a Mage of my level. Hell, much of it was simply common knowledge.
@@ -161,4 +165,3 @@ Before I had more time to ruminate on my success, Neysaa returned. She wasn't al
 "Arya? What happened?" I forgot all about Runes and Circles for the moment.
 
 "It's Carol." Arya stammered, taking short strained breaths. "She's missing."
-

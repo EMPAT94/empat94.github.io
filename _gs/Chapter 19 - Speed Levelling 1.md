@@ -1,9 +1,9 @@
 ---
-title: Chapter 19 - Speed Levelling 1
+title: Chapter 19 - Speed Levelling (1)
 part: 20
 ---
 
-## Chapter 19 - Speed Levelling 1
+## Chapter 19 - Speed Levelling (1)
 
 On level 5 we encountered a grassland filled with insectoids that were a cross between beetles and grasshoppers. Incendio worked quite well against them.
 

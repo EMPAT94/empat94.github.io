@@ -1,9 +1,9 @@
 ---
-title: Chapter 20 - Speed Levelling 2
+title: Chapter 20 - Speed Levelling (2)
 part: 21
 ---
 
-## Chapter 20 - Speed Levelling 2
+## Chapter 20 - Speed Levelling (2)
 
 Just as I had gone right, Julie went left. My attention was fixed on the creature, so I could not see how the digging was progressing. Quite poorly, I feared. That being said, my job was to gain as much time as possible and keep the monster distracted. With that in mind, I stood there staring at it while it stared right back. I saw Julie, thoroughly ignored, creep closer to her position. She, the mammoth, and I were now at an obtuse angle with about 50 meters between each in that order. Behind me was the pit wall, perhaps to stop the prey from escaping.
 

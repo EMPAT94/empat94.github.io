@@ -164,7 +164,7 @@ I finally had some information on what the calamity was. Seemingly no one here h
 _Special Effects:_
 
 - Magic Boost - You get extra Intelligence, Perception, and/or Wisdom points on every Class Upgrade.
-- Hero's Boost - You get 10-30% extra experience.
+- Hero's Boost - You get 100-300% extra experience.
 - Test Subject Perk - Unlock special areas.
 - Other Worlder Perk - Immune to perpetual illusions and mind control Spells.
 

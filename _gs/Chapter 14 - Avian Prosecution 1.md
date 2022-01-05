@@ -1,9 +1,9 @@
 ---
-title: Chapter 14 - Avian Prosecution 1
+title: Chapter 14 - Avian Prosecution (1)
 part: 15
 ---
 
-## Chapter 14 - Avian Prosecution 1
+## Chapter 14 - Avian Prosecution (1)
 
 I was getting used to the variations in the landscape by now. First the plain fields, then the ruins, finally the hills. I was almost looking forward to seeing what the upcoming level would throw at us. Whatever it was, I did not expect it to be *this*.
 

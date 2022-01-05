@@ -65,7 +65,7 @@ It was Fredrick who answered. "It's a Status Sphere. It shows your Status Window
 _Special Effects:_
 
 - Magic Boost - You get extra Intelligence, Perception, and/or Wisdom points on every Class Upgrade.
-- Hero's Boost - You get 10-30% extra experience.
+- Hero's Boost - You get 100-300% extra experience.
 
 ---
 
@@ -81,7 +81,7 @@ Fredrick chimed in. "A hero with no Skills. Barely at level 20. Deliver us from 
 
 Francisa soon came out of her daze. "It matters not. He may still use Runes as he sees fit." She gave me a small smile.
 
-"Humph. Not even worth all the trouble..." Arkanis was muttering something to himself. Eventually, he got up with a flourish, picked up the crystal, and left the room; dictating an "I leave this to you" to Neysaa, who was still lost in her own world.
+"Humph. Extra experience. Not even worth all the trouble..." Arkanis was muttering something to himself. Eventually, he got up with a flourish, picked up the crystal, and left the room; dictating an "I leave this to you" to Neysaa, who was still lost in her own world.
 
 Fredrick leered at Francisa. "See you around, Francisa!" He followed his master out.
 

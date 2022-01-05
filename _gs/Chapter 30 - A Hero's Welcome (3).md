@@ -1,6 +1,6 @@
 ---
 title: Chapter 30 - A Hero's Welcome (3)
-part: 32
+part: 31
 ---
 
 ## Chapter 30 - A Hero's Welcome (3)

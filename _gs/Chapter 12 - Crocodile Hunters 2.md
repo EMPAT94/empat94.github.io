@@ -1,9 +1,9 @@
 ---
-title: Chapter 12 - Crocodile Hunters 2
+title: Chapter 12 - Crocodile Hunters (2)
 part: 13
 ---
 
-## Chapter 12 - Crocodile Hunters 2
+## Chapter 12 - Crocodile Hunters (2)
 
 This was the second time I was dumbstruck by the sheer utility of a spell. First, when it popped the slime into a steaming puddle. Now, when it stunned a giant reptile into near immobility.
 

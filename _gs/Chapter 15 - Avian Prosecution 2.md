@@ -1,9 +1,9 @@
 ---
-title: Chapter 15 - Avian Prosecution 2
+title: Chapter 15 - Avian Prosecution (2)
 part: 16
 ---
 
-## Chapter 15 - Avian Prosecution 2
+## Chapter 15 - Avian Prosecution (2)
 
 Looking back on it, I was astonished that killing living beings en masse was not enough to deter me from moving forward. Leaving this place was enough motivation at first, but later on, I doubt that was true. Perhaps I just didn't care as much when it actually mattered? The mental acclimation sure was working its magic. Carol and Divin didn't think twice before attacking. I had no room for hesitation myself since I was critical support. However, I did see Taro and Julie fighting a losing battle against creeping apathy. I wonder how Arya would've fared if she wasn't a Healer. Her poking at a small vulture with her staff when it tried to attack Julie from the side made it clear she was being affected too, more or less.
 

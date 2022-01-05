@@ -1,9 +1,9 @@
 ---
-title: Chapter 11 - Crocodile Hunters 1
+title: Chapter 11 - Crocodile Hunters (1)
 part: 12
 ---
 
-## Chapter 11 - Crocodile Hunters 1
+## Chapter 11 - Crocodile Hunters (1)
 
 Taro, Divin, and I were moving forward with the ladies trailing behind us at a distance. This was our new formation, where the three guys had become meat shields for some reason.
 

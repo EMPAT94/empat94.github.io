@@ -1,6 +1,6 @@
 ---
 title: Interlude - A Maid's Resolve
-part: 31
+part: 32
 ---
 
 ## Interlude - A Maid's Resolve
