@@ -1,9 +1,9 @@
 ---
-title: Chapter 16 - Mini-Boss?
+title: Chapter 16 - Mini Boss?
 part: 17
 ---
 
-## Chapter 16 - Mini-Boss?
+## Chapter 16 - Mini Boss?
 
 As we stepped past the entrance and inched our way towards the trees, I noticed that this level was slightly different than all the previous ones. The dusky light that had accompanied us so far seemed to have given way to darker shades of itself. A heavy fog hung over the arena, getting denser inside the trees. The trees themselves were rooted quite close together and looked uninviting. Unlike the withered old bunch of the last level, these ones were teeming with vitality. Dark green leaves swayed silently to the tender breeze that shifted the fog ever so slightly. The terrain felt alive. Dangerously so.
 
