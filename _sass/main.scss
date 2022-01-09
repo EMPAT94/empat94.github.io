@@ -83,6 +83,11 @@ table {
   color: grey;
 }
 
+/* For changing svg fill color */
+.white-filter { 
+ filter: invert(98%) sepia(100%) saturate(11%) hue-rotate(314deg) brightness(104%) contrast(100%);
+}
+
 .container {
   display: grid;
   grid-template-areas: "navBar" "mainContent";
