@@ -107,7 +107,7 @@ A light knock brought me out of my stupor. I removed the dirt from my eyes and s
 
 "Yes, if sir Pat doesn't mind my company?" she said. I replied an affirmative and she signal another maid, who was presumably standing outside waiting for the order, to lay out the food.
 
-I got out of the bed and drank deeply from the jar, making my way towards the washroom. Yes, with sleep and food, the other parts of my anatomy had kick-started as well. The mechanism itself was, from a distance at least, no different than a modern commode. Get close and you'd notice that it was actually a proper chair with a hole in the center. Closer still and you'd notice all the Runes decorating it inside and out. I Identified at least three different disinfection Runes.
+I got out of the bed and drank deeply from the jar, making my way towards the washroom. Yes, with sleep and food, the other parts of my anatomy had kick-started as well. The mechanism itself was, from a distance at least, no different than a modern commode. Get close and you'd notice that it was actually a proper chair with a hole in the center. Closer still and you'd notice all the Runes decorating it inside and out. I Identified at least three different disinfection Circles.
 
 Soon after finishing my business, I made my way to the bath after the earlier maid vacated, just in time to see a Rune fizzle out in the water. 'A temporary heat Rune? I've learned more about Runes in the last 24 hours than the entire previous month!' Cursing the futility of the Tutorial and not loitering long like last night, I quickly made my way towards breakfast, sitting in front of the beaming princess.
 

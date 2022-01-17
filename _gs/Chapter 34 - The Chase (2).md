@@ -37,7 +37,7 @@ I thought about it. It really had been a while since I added a new spell to my r
 
 I glanced below the opening title and read out the contents. "But hate not the Dark, for it is a vessel. A child new to the world in an empty vessel, born in the dark and came to Light. It learns the lessons of its ancestors and thus the vessel is filled with knowledge. And Dark turns to Light."
 
-"Hmm..." Arya hummed and pointed to a section on the page. "I think this is the meat of this Spell, the rest if fluff. Here," She began reading, "Wield the knowledge that fills thy vessel, as a fire rages against the wind and yet cannot survive without it; as the Sun - the greatest of the holy fires, dispels the ignorance of night; so shall thee harness thy... blah blah... lightning in the storm... blah blah... sparks of Light into a steady lamp that burns through the night. Hmm, it keeps going like that."
+"Hmm..." Arya hummed and pointed to a section on the page. "I think this is the meat of this Spell, the rest is fluff. Here," She began reading, "Wield the knowledge that fills thy vessel, as a fire rages against the wind and yet cannot survive without it; as the Sun - the greatest of the holy fires, dispels the ignorance of night; so shall thee harness thy... blah blah... lightning in the storm... blah blah... sparks of Light into a steady lamp that burns through the night. Hmm, it keeps going like that."
 
 "Yes, that tells me exactly what to do." I stared into her eyes with a deadpan face.
 

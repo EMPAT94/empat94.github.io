@@ -99,15 +99,15 @@ The shadows lengthened as the sky turned orange. For a while, I imagined myself 
 
 Similar bursts happened at regular distances all across the garden. "Magical Lights," Divin explained quietly.
 
-I calmed myself. 'Getting worked up over nothing.' Besides, it was quite late. I remembered Princess had some plans for the eve. I added, "Check Magical Lights" to my quest list.
+I calmed myself. 'Getting worked up over nothing.' Besides, it was quite late. I remembered Princess had some plans for the eve.
 
-Eventually, we broke off, planning to meet again tomorrow to discuss and work out future arrangements. I arrived at my room, not surprised to see Francisa already waiting, with a badly-concealed pout.
+Eventually, we broke off, planning to meet again the next day to discuss and work out future arrangements. I arrived at my room, not surprised to see Francisa already waiting, with a badly-concealed pout.
 
 "Greetings, _Sir_ Pat." 'Ah. Here we go.'
 
 "Hello there Francisa. Sorry, I'm a bit late; our meeting went off the rails there a bit." 'That should do it?'
 
-"I understand. Do forgive me though, the tea has gone cold. The cakes are still edible though." She declared, proffering the sweets on the table. "I had offered to acquaint a few of my friends to Sir Pat. Shall we move it to tomorrow evening?"
+"I understand. Do forgive me though, the tea has gone cold. The cakes are still edible however." She declared, proffering the sweets on the table. "I had offered to acquaint a few of my friends to Sir Pat. Shall we move it to tomorrow evening?"
 
 "Of course. I'll be happy to meet your friends." 'No need to antagonize a friendly NPC.' I took a piece of the spongy cake with a fork and placed it in my mouth, sitting down in front of her. "The cake's nice!" I idly commented.
 
@@ -115,7 +115,7 @@ Eventually, we broke off, planning to meet again tomorrow to discuss and work ou
 
 "Hmm... So Francisa, about the dungeon you mentioned..." I shot off one question after another, which she answered promptly and precisely. Francisa was quite the conversationalist once you got her going. Her formality dropped to yesterday's favorable milieu as our discussion continued. We talked at length about prophecies, monsters, magic, and of all things, civil duty and filial responsibilities, among other topics fantastical and mundane.
 
-Soon, the Sun dipped below the horizon. I failed to notice it last night, but now I realized that instead of candles, the maids had placed magical sticks in the corner. It had Runes! And obviously, I amended my earlier to-do. Along with the magical candle came tonight's dinner, again in the company of the princess. And again I stuffed myself, just slightly lesser than yesterday. I was never a voracious eater either way. Francisa bid her goodnight, thankfully bereft of any irritation over my tardiness. I still sat in the chair going through my new quests.
+Soon, the Sun dipped below the horizon. I failed to notice it last night, but now I realized that instead of candles, the maids had placed magical sticks in the corner. It had Runes! Along with the magical candle came the night's dinner, again in the company of the princess. And again I stuffed myself, just slightly lesser than yesterday. I was never a voracious eater either way. Francisa bid her goodnight, thankfully bereft of any irritation over my tardiness. I still sat in the chair going through my quest list.
 
 ---
 
