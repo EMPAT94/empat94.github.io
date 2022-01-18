@@ -20,7 +20,6 @@ body {
 }
 
 p {
-  // margin: 1%;
   padding: 0.5%;
 }
 
@@ -41,7 +40,6 @@ code {
   color: navy;
   overflow-x: scroll;
   max-width: 60vw;
-
 }
 
 @media only screen and (max-width: 960px) {
@@ -107,8 +105,9 @@ blockquote {
 }
 
 /* For changing svg fill color */
-.white-filter { 
- filter: invert(98%) sepia(100%) saturate(11%) hue-rotate(314deg) brightness(104%) contrast(100%);
+.white-filter {
+  filter: invert(98%) sepia(100%) saturate(11%) hue-rotate(314deg)
+    brightness(104%) contrast(100%);
 }
 
 .container {
@@ -226,15 +225,18 @@ blockquote {
   .navModal {
     display: none;
     position: fixed;
-    width: 100%;
-    height: 100%;
+    overflow-y: auto;
+    width: 100vw;
+    height: 100vh;
+    max-width: 100vw;
+    max-height: 100vh;
     padding: 0;
     margin: 0;
     z-index: 999;
     background-color: rgba(0, 0, 0, 0.95);
 
     .menuBtnClose {
-      font-size: 1.2em;
+      font-size: 1.3em;
       position: absolute;
       top: 1em;
       right: 1em;

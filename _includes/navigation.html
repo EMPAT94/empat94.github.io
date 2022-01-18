@@ -13,11 +13,8 @@
       <li><a href="/foa">Fate of Arda</a></li>
       <li><a href="/gs">Grand Simulation</a></li>
       <li>
-        <a
-          rel="noopener"
-          target="_blank"
-          href="https://www.priteshtupe.com/creatures"
-          >Creatures
+        <a rel="noopener" target="_blank" href="../creatures/index.html">
+          Creatures
         </a>
         <img
           width="20"
@@ -28,11 +25,8 @@
         />
       </li>
       <li>
-        <a
-          rel="noopener"
-          target="_blank"
-          href="https://www.priteshtupe.com/binary-clock"
-          >Binary Clock
+        <a rel="noopener" target="_blank" href="../binary-clock/index.html">
+          Binary Clock
         </a>
         <img
           width="20"
@@ -42,12 +36,10 @@
           src="/assets/icons/external-link.svg"
         />
       </li>
+
       <li>
-        <a
-          rel="noopener"
-          target="_blank"
-          href="https://www.priteshtupe.com/impossible-xo"
-          >Impossible XO
+        <a rel="noopener" target="_blank" href="../impossible-xo/index.html">
+          Impossible XO
         </a>
         <img
           width="20"
@@ -62,7 +54,8 @@
           rel="noopener"
           target="_blank"
           href="https://www.github.com/empat94/nvim-rss"
-          >Nvim-Rss
+        >
+          Nvim-Rss
         </a>
         <img
           width="20"
@@ -80,7 +73,12 @@
 
 <script>
   function toggleMenu(open) {
-    if (open) document.getElementById("navMenu").style.display = "block";
-    else document.getElementById("navMenu").style.display = "none";
+    if (open) {
+      document.getElementById("navMenu").style.display = "block";
+      document.body.style.overflow = "hidden";
+    } else {
+      document.getElementById("navMenu").style.display = "none";
+      document.body.style.overflow = "scroll";
+    }
   }
 </script>
