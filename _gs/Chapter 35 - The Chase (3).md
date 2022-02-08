@@ -16,10 +16,16 @@ part: 38
 
 Centaurs are some of the last beast-kin that remain fully independent on the Eastern Alteraz after the mass-migration of humans in the last decades. Some beast-kin are closer to humans like the rabbit-based species. Some are closer to their animal nature, like the rat-based species. Centaurs - based on human and horse species, are somewhere in the middle - quite literally so by sporting a human torso hosted on equine bodies. Two main factors contributed to their independence so far - first, their relatively isolated location coupled with nomadic nature, and second, their fierce blood-thirsty glory-based warrior culture.
 
+<br />
+<br />
 The first factor refers to the vast grassy plains in north-eastern Alteraz that the Centaurs call home. The plains are also home to several monster species that roam the lands frequently. When the clans first made landfall, they took over the entire eastern coast before foraying into the central region. The conquest to the south was stopped short by faerie magic. Once the strip of land from the eastern coast to central mountains was under clan control, they turned their eyes north. And thus the Centaur wars began.
 
+<br />
+<br />
 Speaking of the war, it was unlike a usual clash of armies. The most common tactic was raiding, either by clan allies on Centaur outposts or the other way around. It was understood that Centaurs were on the losing side - they had no access to magic on large scale. Only known magic casters are the so-called "elders" who would "beg understanding" from their "ancestors" to cast "miracles" - as reported by a High-level Ranger. The clans refer to them as "shamans" in their war-meets. Despite being magicless, the Centaurs are fierce warriors. They ride like the wind herself on their strong horse legs, and their arms carry the strength of a dozen men. One peculiar facet of their culture is their idea of glory. They believe in meeting foes on equal grounds. Clashing weapons as a measure of strength. Usually, they shoot a warning arrow at an unwary outpost Scout to herald their arrival and then ride in like the storm itself. This stratagem works well on open grounds, coming in fast and leaving behind dismembered remains of their enemies.
 
+<br />
+<br />
 The clan allies raise enchanted walls.
 
 </blockquote>
