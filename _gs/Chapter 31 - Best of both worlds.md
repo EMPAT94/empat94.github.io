@@ -43,7 +43,7 @@ It was Fredrick who answered. "It's a Status Sphere. It shows your Status Window
 
 ---
 
-### [Expert] Mage - Level 20
+### [Master] Mage - Level 20
 
 | Status     | Points    |
 | ---------- | --------- |

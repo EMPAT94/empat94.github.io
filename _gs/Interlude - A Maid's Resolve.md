@@ -107,7 +107,7 @@ I got his plate. He slurped on the sauce like a damn pig in heat. Minerva would 
 
 I got down on my knees and got to work like a golem from the bard's story. Stone-faced soul-less automaton.
 
-"He wants lessons! Can you believe it? I told him that there is no need to summon green-skinned outsiders - prophesy be damned, but Siegfried won't pay heed." He gushed as he licked the pumpkin sauce clean off the plate. Nobles got quite unnoble-like when they thought no one was looking. At least no one important.
+"He wants lessons! Can you believe it? I told him that there is no need to summon green-skinned outsiders - prophecy be damned, but Siegfried won't pay heed." He gushed as he licked the pumpkin sauce clean off the plate. Nobles got quite unnoble-like when they thought no one was looking. At least no one important.
 
 "And then he asks me to tutor that pile of grime? _ME_? Archmage Arkanis? Even today, the beast-kin tremble upon hearing that name." 'Yes, yes. That would be the ninth time I hear of his glorious conquest this week. '
 

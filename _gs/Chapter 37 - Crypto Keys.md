@@ -9,7 +9,7 @@ part: 40
 
 "I see..." I nodded. I figured the main campaign would come bite me in the ass _some_ day, but this was too soon. "What exactly is this calamity?" I asked, hoping I'd get a straight answer for once. "And people around here seem quite chilled out considering their world is about to end."
 
-"The Calamity is... depravation manifest. It hungers for life itself, seeking to twist it towards a vile purpose. It consumes all it comes across from the smallest insect to the eldest tree. I have no knowledge of how or why it was unleashed, the spirits of ancestors answer those questions with silence. But they do say that it cannot be fought by mortal means. And that soon it shall cover the entire the whole world." Kai spoke with a heavy voice. "The people here, they are born distant from the horrors of the Calamity. They _know_ what they face, for their ancestor pass the stories onwards, but they do not _understand_ the terrible devastation of it. For them, it is a danger still far into the future, and the prophesy promises that the heroes will take care of it, so they have discarded all responsibility."
+"The Calamity is... depravation manifest. It hungers for life itself, seeking to twist it towards a vile purpose. It consumes all it comes across from the smallest insect to the eldest tree. I have no knowledge of how or why it was unleashed, the spirits of ancestors answer those questions with silence. But they do say that it cannot be fought by mortal means. And that soon it shall cover the entire the whole world." Kai spoke with a heavy voice. "The people here, they are born distant from the horrors of the Calamity. They _know_ what they face, for their ancestor pass the stories onwards, but they do not _understand_ the terrible devastation of it. For them, it is a danger still far into the future, and the prophecy promises that the heroes will take care of it, so they have discarded all responsibility."
 
 'Alright, alright. Forget about the NPC attitudes for now, focus on the main villain. So the Calamity is like a... Plague? Yeah, that's a good mental model. How is it spreading across oceans though?' I stared at Kai cradling what looked to be a ceremonial drum, giving me time to parse her words. 'Assuming it is a plague, it must be incurable even by healing magic for it to have affected so much. Must be magical in nature. And according to Francisa, the onset of this Calamity is marked by crazed beasts. So the plague turns everyone into monsters. If this hypothesis is correct, then it means the cure would be some magical anti-biotic spell. How does a dungeon factor into this then? Is the spell locked up in there?'
 
@@ -29,7 +29,7 @@ Kai smiled, more fully than she had before. Then showed me her colorful drum, li
 
 She set it down on the ground between us and leaned back to rummage through her back coverings. "Ah, there it is." She withdrew a small black knife with a bone handle. "The realization came with little sorrow, for I knew that the artifact held a greater value to the world than it did to me. Rather, I felt pride that I would finally fulfill the purpose that has been handed forward by my betters since ages uncounted." She clutched the drum again, gazing fondly at the instrument. "The spirits whispered of this moment, of when I would hand over the key to a Hero. I always feared, however, if it would ever come to pass, especially as the blood cooled in my veins with the years. For all their knowledge, they are not all-knowing."
 
-"Wha-" Before I could finish speaking up, she plunged her knife into the drum, tearing out a segment across the diameter of the head. Then she placed the knife aside and plunged her hand in, apparently digging for something. Before long, she pulled out a bright white round object with golden filigree the size of a ball bearing. An insane number of runes immediately lit up in my perception. I quickly threw an Identify at it.
+"Wha-" Before I could finish speaking up, she plunged her knife into the drum, tearing out a segment across the diameter of the head. Then she placed the knife aside and plunged her hand in, apparently digging for something. Before long, she pulled out a bright white round object with golden filigree the size of a ball bearing. An insane number of Runes immediately lit up in my perception. I quickly threw an Identify at it.
 
 ---
 
@@ -39,7 +39,7 @@ She set it down on the ground between us and leaned back to rummage through her 
 
 'Just great. Thanks for nothing System!'
 
-Kai handed the thingy to me. It felt like polished marble. Cold and hard to touch. It fit snugly in my palm. The golden circles were etched such that they didn't make any groves on the white surface, making the entire thing incredibly smooth. The design was so advanced that I couldn't even make out individual circles, let alone the minute runes. After examining the supposed key for a while, I looked up at Kai. She noticed my attention and immediately wiped a morose expression that had crept on her face, putting the drum behind her and pointedly ignoring it. I decided not to comment on that, instead focusing on the reason I had been kidnapped.
+Kai handed the thingy to me. It felt like polished marble. Cold and hard to touch. It fit snugly in my palm. The golden circles were etched such that they didn't make any grooves on the white surface, making the entire thing incredibly smooth. The design was so advanced that I couldn't even make out individual Circles, let alone the minute Runes. After examining the supposed key for a while, I looked up at Kai. She noticed my attention and immediately wiped a morose expression that had crept on her face, putting the drum behind her and pointedly ignoring it. I decided not to comment on that, instead focusing on the reason I had been kidnapped.
 
 "It's a key eh? What door does it open?" I asked, rolling the sleek stone in my hand.
 
@@ -49,7 +49,7 @@ Kai made a noise halfway between a snort and a laugh. "I'm afraid that is one pu
 
 "Indeed, there will be trials for the other keys. However, circumstances forced the hands of my ancestors. My great-grandmother was a great Seer. One who claimed to have spoken with the spirit of _Lady Nostradame_ herself! She was warned of the upcoming conflict and took measures to ensure that it would not hamper the Heroes' ability to eradicate the Calamity, which spreads wider even as we speak. One such measure was to secure the key into a treasure of the tribe. Another was to provide fore-knowledge of certain events and how to ensure that our race, and the world, survive to the end. Our meeting has long been in the works." She spoke at length and was starting to pant again. I offered her the mug Tyee had brought in and she shuffled on the pillow to get into another comfortable position.
 
-I was again starting to feel as if all this was again scripted, and the NPCs were somehow subverting the script. Could her ancestors peek into the future? "Can Seers look into the future?"
+I was again starting to feel as if all this was scripted, and the NPCs were somehow subverting the script. Could her ancestors peek into the future? "Can Seers look into the future?"
 
 "Ha." She snorted her amusement. "Alas, no. The forewarnings come from the Prophet herself, or her spirit at least. A Seer seeks wisdom from nature and spirits. Our ancestors are especially vast fonts of knowledge."
 
@@ -83,7 +83,7 @@ Kai eyed me up and down for a minute, her expression unreadable. "Vast ocean... 
 
 "Uh..." 'Shit!' I didn't know what to say. I surveyed the inside of the tent, foolishly hoping for some justification to jump at me. 'Should I just come clean?' I hesitated in replying, cursing myself for the blunder. I dithered for a good while before I heard a chuckle. I glanced up and saw Kai smiling kindly. "We all have our secrets, my dear. Fear not, I won't pry into yours."
 
-"T-Thanks," I exhaled out. The talk stalled for a bit until Kai had another sip and queried, "Would you tell me some tales for your homeworld?"
+"T-Thanks," I exhaled out. The talk stalled for a bit until Kai had another sip and queried, "Would you tell me some tales of your home world?"
 
 Soon we slid back into an amiable conversation as the sun slowly crested the horizon, the vibrant colors of the tent fading into shades of grey.
 
@@ -93,7 +93,7 @@ Soon we slid back into an amiable conversation as the sun slowly crested the hor
 
 It was not long after that Tyee trotted in. While Kai was greatly enthusiastic about varying topics and eager to let the conversation flow, even I could see that it was starting to take an increasing effort for her to continue doing so.
 
-As Tyee laid another thick blanket over her shoulders citing a cold night, she idly mused. "Did you know that there is a vast landmass up north entirely covered in ice, Hero? It snows there no matter the season. And the winds seek to flay the flesh off your bones. Or so the tales go." She adjusted the makeshift shawl tighter around herself, then sighed. "Look at me, dreaming of icy wonders when my decrepit self can barely keep the nightly chill off with a dozen wrappings. It was a good conversation we had, Hero. But now it is time to let my infirm limbs rest. Tyee, be a dear and show our guest to his dwellings. Ah, and do return later, I must have words with you before the moon graces the sky."
+As Tyee laid another thick blanket over her shoulders citing a cold night, she idly mused. "Did you know that there is a vast landmass up north entirely covered in ice, Hero? It snows there no matter the season. And the winds seek to flay the flesh off your bones. Or so the tales go." She adjusted the makeshift shawl tighter around herself, then sighed. "Look at me, dreaming of icy wonders when my decrepit self can barely keep the nightly chill off with a dozen wrappings. It was a good conversation we had, Hero. But now it is time to let my infirm limbs rest. Tyee, be a dear and show our guest to his dwelling. Ah, and do return later, I must have words with you."
 
 Nodding to Kai at my gentle dismissal, I followed Tyee out of the tent. The air outside bit into the skin even with my robes on, in contrast to the comfortable cool inside. Tyee glanced behind at me trying to shake the cold off. As I walked up beside him, he queried, "Why not use the Circle on your robe to ward the chill off? Do not worry, you are safe here. No need to conserve your mana."
 
@@ -127,7 +127,7 @@ Before I knew it, I was standing in front of an unassuming tent, with Tyee stand
 
 "What, no guards?" I asked Tyee, more to ward off the eerie silence than anything. He took it more seriously than I expected.
 
-"You are a _guest_ here, Hero." He spoke firmly. "Not a prisoner, despite what the initial circumstances may have present."
+"You are a _guest_ here, Hero." He spoke firmly. "Not a prisoner, despite what the initial circumstances may have presented."
 
 "So I am free to leave then?" I countered.
 

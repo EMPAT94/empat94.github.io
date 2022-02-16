@@ -142,7 +142,7 @@ I finally had some information on what the calamity was. Seemingly no one here h
 
 ---
 
-### [Expert] Mage - Level 20
+### [Master] Mage - Level 20
 
 | Status     | Points    |
 | ---------- | --------- |
