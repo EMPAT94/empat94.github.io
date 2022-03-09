@@ -50,7 +50,7 @@ It was Fredrick who answered. "It's a Status Sphere. It shows your Status Window
 | Health     | 873/873   |
 | Mana       | 2732/2762 |
 | Stamina    | 81/81     |
-| Experience | 0/1600    |
+| Experience | 0/2100    |
 
 | Attributes   | Points |
 | ------------ | ------ |

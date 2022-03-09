@@ -149,7 +149,7 @@ I finally had some information on what the calamity was. Seemingly no one here h
 | Health     | 873/873   |
 | Mana       | 2762/2762 |
 | Stamina    | 81/81     |
-| Experience | 0/2200    |
+| Experience | 0/2100    |
 
 | Attributes   | Points |
 | ------------ | ------ |
