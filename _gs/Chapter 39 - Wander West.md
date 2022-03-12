@@ -68,7 +68,7 @@ _Special Effects:_
 
 ---
 
-```sh
+```
 
 # 10 mana
 identify o = echo o
