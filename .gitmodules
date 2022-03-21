@@ -7,3 +7,6 @@
 [submodule "impossible-xo"]
 	path = impossible-xo
 	url = https://github.com/EMPAT94/impossible-xo.git
+[submodule "Notes"]
+	path = Notes
+	url = git@github.com:EMPAT94/Notes.git
