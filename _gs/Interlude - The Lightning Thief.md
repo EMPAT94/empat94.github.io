@@ -89,7 +89,7 @@ For a second, nothing happened. And suddenly the entirety of the timber stack bl
 
 <br />
 
-_"For our world to survive, a Hero must endure." she spoke wistfully, cradling her favorite artifact. I noticed she stressed **a Hero** on purpose. "I was expecting the Scout Hero, but perhaps fate has other plans."_
+_"For our world to survive, a Hero must endure." she spoke wistfully, cradling her favorite artifact. Tyee noticed she stressed **a Hero** on purpose. "I was expecting the Scout Hero, but perhaps fate has other plans."_
 
 _She turned to him, as he noticed the giant tear on the otherwise perfectly maintained instrument. "However, we cannot simply bend to the whims of fate. We must take charge of our own destiny."_
 
