@@ -19,6 +19,9 @@
     <meta name="msapplication-TileColor" content="#da532c" />
     <meta name="theme-color" content="#ffffff" />
 
+    <title>{{ page.title | default: "" }}</title>
+
+    {% if jekyll.environment == "production" %}
     <script
       async
       defer
@@ -27,9 +30,7 @@
       data-do-not-track="true"
     ></script>
 
-    <title>{{ page.title | default: "" }}</title>
-
-    {% feed_meta %} {% seo %}
+    {% feed_meta %} {% seo %} {% endif %}
   </head>
 
   <body>
@@ -37,7 +38,8 @@
       {% include navigation.html %}
 
       <div class="mainContent">
-        {{ content }} {% if page.collection %} {% include footer.html %} {% endif %}
+        {{ content }} {% if page.collection %} {% include footer.html %} {%
+        endif %}
       </div>
     </div>
   </body>

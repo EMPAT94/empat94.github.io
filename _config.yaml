@@ -7,6 +7,8 @@ collections:
     output: true
   gs:
     output: true
+  notes:
+    output: true
 
 defaults:
   - scope:
@@ -29,11 +31,17 @@ defaults:
       type: "gs"
     values:
       layout: "default"
+  - scope:
+      path: ""
+      type: "notes"
+    values:
+      layout: "default"
 
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-optional-front-matter
 
 jekyll-minifier:
   uglifier_args:
@@ -44,3 +52,6 @@ sass:
 
 include:
   - node_modules/uglifier/index.js
+
+optional_front_matter:
+  remove_originals: true
