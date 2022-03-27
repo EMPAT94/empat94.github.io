@@ -87,7 +87,7 @@ incendio_slowly x = while true; do (( x.temperature++ )); done;
 
 # Exponential; helpers
 create_low_point l = while true; do (( l.potential-- )); done;
-create_low_point h = while true; do (( h.potential++ )); done;
+create_high_point h = while true; do (( h.potential++ )); done;
 
 # High exponential cost; does not damage much but very good distraction
 stupefy xs = i=0;

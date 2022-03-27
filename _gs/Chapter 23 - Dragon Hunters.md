@@ -131,7 +131,7 @@ incendio_slowly x = while true; do (( x.temperature++ )); done;
 
 create_low_point l = while true; do (( l.potential-- )); done;
 
-create_low_point h = while true; do (( h.potential++ )); done;
+create_high_point h = while true; do (( h.potential++ )); done;
 
 ```
 ---

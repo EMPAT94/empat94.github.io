@@ -17,7 +17,7 @@ The journey across the swamps was simple thereafter if tiring nonetheless. I cha
 
 create_low_point l = while true; do (( l.potential-- )); done;
 
-create_low_point h = while true; do (( h.potential++ )); done;
+create_high_point h = while true; do (( h.potential++ )); done;
 
 ```
 
