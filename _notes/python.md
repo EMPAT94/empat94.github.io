@@ -1,7 +1,7 @@
 ---
 ---
 
-# python
+# Python
 
 ## Links
 
@@ -9,33 +9,67 @@
 
 - [Official docs](https://docs.python.org/3/tutorial/index.html)
 
-- [Exercism site](https://exercism.org/tracks/python)
+- [Standard Lib](https://docs.python.org/3/py-modindex.html)
 
-- [Awsome python github](https://github.com/vinta/awesome-python)
+- [Exercism site: Guided Exercises](https://exercism.org/tracks/python)
 
-## Notes from official docs (v3.10.2)
+- [Awsome python collection github](https://github.com/vinta/awesome-python)
+
+- [Automate The Boring Stuff: Book](https://automatetheboringstuff.com/2e/)
+
+- [Think Python: Book](https://www.greenteapress.com/thinkpython/html/index.html)
+
+- [Practical Python: Series of Article](https://dabeaz-course.github.io/practical-python/)
+
+- [Snarky Canadian: Blog series of python](https://snarky.ca/)
+
+## End-Goal : Learn basics of python and be proficient enough to write ad-hoc scripts
+
+## Milestones
+
+1. Go through official docs (2 weeks) (~ Apr 14)
+2. Reproduce current scripts (esp backup and monitoring) in python (2 weeks) (~ Apr 30)
+
+## Notes
+
+### Installing packages in a Virtual Environment
+
+- [Source](https://snarky.ca/a-quick-and-dirty-guide-on-how-to-install-packages-for-python/)
+
+  ```python
+  python3.10 -m venv --prompt . .venv
+  echo "*" > .venv/.gitignore
+  source .venv/bin/activate
+  python3.10 -m pip install --upgrade pip
+  ```
+
+  To deactivate: `source .venv/bin/deactivate`
+
+### From official docs and exercism
 
 - [Basics](./python/basics.md)
 
-Next: https://docs.python.org/3/tutorial/datastructures.html
+- Datastructures https://docs.python.org/3/tutorial/datastructures.html
 
-## Upcoming
+- More Data Type
 
-More Data Type
+- Modules and Packaging
 
-Modules and Packaging
+- I/O
 
-I/O
+- Error Handling
 
-Error Handling
+- Classes
 
-Classes
+- Standard Library
 
-Standard Library
+- Virtual Environment and External Packages
 
-Virtual Environment and External Packages
+- Decided on a minor project?
 
-Decided on a minor project?
+### From Exercism Syllabus
+
+- [Source](https://exercism.org/tracks/python/concepts)
 
 ## May be useful
 
