@@ -1,0 +1,28 @@
+{
+  "name": "empat94.github.io",
+  "version": "1.0.0",
+  "description": "Personal Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy --output=docs --incremental"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EMPAT94/empat94.github.io.git"
+  },
+  "keywords": [
+    "personal",
+    "website",
+    "blog",
+    "articles"
+  ],
+  "author": "Pritesh Tupe <mail@priteshtupe.com>",
+  "bugs": {
+    "url": "https://github.com/EMPAT94/empat94.github.io/issues"
+  },
+  "homepage": "https://www.priteshtupe.com",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
