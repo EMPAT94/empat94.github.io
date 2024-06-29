@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Flora, Fauna, Foods, Landscapes..." />
+    <meta property="og:title" content="Photos" />
+    <meta property="og:description" content="Flora, Fauna, Foods, Landscapes..." />
+    
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="Pritesh Tupe's Personal Website" />
+    <meta property="og:url" content="https://www.priteshtupe.com/" />
+    <meta
+      name="theme-color"
+      media="(prefers-color-scheme: light)"
+      content="white" />
+    <meta
+      name="theme-color"
+      media="(prefers-color-scheme: dark)"
+      content="black" />
+
+    <link rel="canonical" href="https://www.priteshtupe.com/" />
+    <link rel="icon" href="/assets/icons/favicon.ico" />
+    <link rel="icon" href="/assets/icons/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="stylesheet" href="/assets/css/output.css" />
+
+    <script>
+      /*
+       * Theme toggle (Dark - Light Mode)
+       */
+      const html = document.documentElement.classList
+
+      if (
+        localStorage.theme === "dark" ||
+        (!localStorage.theme &&
+          window.matchMedia("(prefers-color-scheme: dark)").matches)
+      ) {
+        darkMode()
+      }
+
+      function darkMode() {
+        html.add("dark")
+        localStorage.theme = "dark"
+        if (window.REMARK42) window.REMARK42.changeTheme("dark")
+      }
+
+      function lightMode() {
+        html.remove("dark")
+        localStorage.theme = "light"
+        localStorage.themeColor = "#ffffff"
+        if (window.REMARK42) window.REMARK42.changeTheme("light")
+      }
+
+      function toggleTheme() {
+        localStorage.theme === "dark" ? lightMode() : darkMode()
+      }
+    </script>
+
+    <!---->
+
+    
+    <title>Photos | Pritesh Tupe</title>
+    
+  </head>
+
+  <body class="bg-slate-50 dark:bg-zinc-900 text-slate-900 dark:text-slate-50">
+    <div class="fixed flex flex-row w-full justify-between pt-4 px-4">
+  <div class="flex flex-row">
+    
+    <div
+      title="Home"
+      class="text-slate-400 hover:text-slate-700 dark:text-slate-700 dark:hover:text-indigo-400 mr-4"
+      onclick="window.location.href = '/'">
+      <svg width="22" height="22" class="fill-current" viewBox="0 0 16 16">
+        <path
+          d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5z" />
+      </svg>
+    </div>
+    
+
+    <div
+      title="Dark Mode Toggle"
+      class="text-slate-400 hover:text-slate-700 dark:text-slate-700 dark:hover:text-indigo-400"
+      onclick="toggleTheme()">
+      <svg width="24px" height="24px" viewBox="0 0 24 24" class="fill-current">
+        <path
+          d="M12 16C14.2091 16 16 14.2091 16 12C16 9.79086 14.2091 8 12 8V16Z" />
+        <path
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2ZM12 4V8C9.79086 8 8 9.79086 8 12C8 14.2091 9.79086 16 12 16V20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4Z" />
+      </svg>
+    </div>
+  </div>
+
+  <div
+    title="Side Menu Toggle"
+    class="text-slate-400 hover:text-slate-700 dark:text-slate-700 dark:hover:text-indigo-400"
+    onclick="toggleNavBar()">
+    <svg class="fill-current" width="24px" height="24px" viewBox="0 0 512 512">
+      <path
+        d="M32 96v64h448V96H32zm0 128v64h448v-64H32zm0 128v64h448v-64H32z" />
+    </svg>
+  </div>
+</div>
+ <div
+  id="side-nav"
+  class="transition-transform fixed hidden h-full w-full m-0 p-0 z-50">
+  <div class="flex flex-row">
+    <div
+      class="w-0 md:w-2/3 lg:w-4/5 h-full bg-black opacity-90 fixed left-0"
+      onclick="toggleNavBar()"></div>
+    <div
+      class="p-4 w-full md:w-1/3 lg:w-1/5 h-full bg-slate-100 fixed right-0 dark:bg-zinc-900">
+      <div
+        class="float-right text-slate-400 hover:text-slate-700 dark:hover:text-indigo-400"
+        onclick="toggleNavBar()">
+        <svg
+          width="32"
+          height="32"
+          class="fill-current fixed right-4 top-4"
+          viewBox="0 0 16 16">
+          <path
+            d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z" />
+        </svg>
+      </div>
+      <div class="prose prose-slate dark:prose-invert prose-xl lg:prose-2xl">
+        <ul class="list-none max-h-screen overflow-y-scroll pb-8">
+          <li><a href="/">Home</a></li>
+          <li><a href="/posts">Posts</a></li>
+          <li><a href="/notes">Notes</a></li>
+          <li><a href="/travels">Travels</a></li>
+          <li><a href="/photos">Photos</a></li>
+          <li>Web Novels</li>
+          <ul class="list-none">
+            <li><a href="/foa">Fate of Arda</a></li>
+            <li><a href="/gs">Grand Simulation</a></li>
+          </ul>
+          <li>Projects</li>
+          <ul class="list-none">
+            <li>
+              <a href="https://github.com/EMPAT94/creatures">Creatures</a>
+            </li>
+            <li>
+              <a href="https://github.com/EMPAT94/binary-clock">Binary Clock</a>
+            </li>
+            <li><a href="https://github.com/EMPAT94/nvim-rss">Nvim Rss</a></li>
+            <li>
+              <a href="https://github.com/EMPAT94/impossible-xo"
+                >Impossible XO</a
+              >
+            </li>
+            <li><a href="https://github.com/EMPAT94/pingmon">Pingmon</a></li>
+            <li>
+              <a href="https://github.com/EMPAT94/zettel-merken"
+                >Zettel Merken</a
+              >
+            </li>
+            <li>
+              <a href="https://github.com/EMPAT94/flashcards">Flashcards</a>
+            </li>
+          </ul>
+          <li><a href="/about">About</a></li>
+          <li><a href="/feed.xml">Rss</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+ 
+<div class="container pt-16 prose prose-slate dark:prose-invert mx-auto">
+  <h1 class="text-center">Photography Archive Scroll</h1>
+</div>
+
+<div
+  id="scroll-container"
+  class="gap-4 p-4 space-y-4 mb-10 lg:mx-32 columns-1 lg:columns-2"><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240627_001641504~2.jpg"
+      alt="Backwater Paradise"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Backwater Paradise</h2>
+      <span class="mb-5 text-xs">
+        Lake Hope Rd, Algoma, ON | Wed Jun 24, 2024 8:34 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240622_014253219.jpg"
+      alt="Near Lac de l'Achigan"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Near Lac de l'Achigan</h2>
+      <span class="mb-5 text-xs">
+        La Vallée-de-la-Gatineau Regional County Municipality, QC | Fri Jun 21, 2024 9:42 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240620_192624461.jpg"
+      alt="Sandwich Mi Bao"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Sandwich Mi Bao</h2>
+      <span class="mb-5 text-xs">
+        1073 Saint Denis St, Montreal, Quebec H2X 3J3 | Thu Jun 20, 2024 3:26 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240616_210457514.jpg"
+      alt="Montreal Biodome"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Montreal Biodome</h2>
+      <span class="mb-5 text-xs">
+        4777 Pierre-de Coubertin Ave, Montreal, Quebec H1V 1B3 | Sun Jun 16, 2024 5:05 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240616_130505903~2.jpg"
+      alt="La Grande Roue de Montréal"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">La Grande Roue de Montréal</h2>
+      <span class="mb-5 text-xs">
+        362 Rue de la Commune E, Montréal, QC H2Y 0B4 | Sun Jun 16, 2024 9:05 am
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240612_203354229~3.jpg"
+      alt="Off-road beauty #2"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Off-road beauty #2</h2>
+      <span class="mb-5 text-xs">
+        Chem. de la Croix, Clermont, QC G4A 1E8 | Wed Jun 12, 2024 4:33 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240612_202013427~2.jpg"
+      alt="Site Patrimonial de la Montagne de la Croix"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Site Patrimonial de la Montagne de la Croix</h2>
+      <span class="mb-5 text-xs">
+        Chem. de la Croix, Clermont, QC G4A 1E8 | Wed Jun 12, 2024 4:20 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240610_202012941.jpg"
+      alt="La jetée de Pointe-au-Pic"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">La jetée de Pointe-au-Pic</h2>
+      <span class="mb-5 text-xs">
+        100 Chem. du Havre, La Malbaie, QC G5A 2Y9 | Mon Jun 10, 2024 4:20 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240610_200205092.jpg"
+      alt="Musée de Charlevoix"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Musée de Charlevoix</h2>
+      <span class="mb-5 text-xs">
+        10 Chem. du Havre, La Malbaie, QC G5A 2Y8 | Mon Jun 10, 2024 4:02 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240605_020039078~2.jpg"
+      alt="Église catholique Saint-Bonaventure"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Église catholique Saint-Bonaventure</h2>
+      <span class="mb-5 text-xs">
+        99, av de Grand-Pré, Bonaventure, Quebec G0C 1E0 | Tue Jun 4, 2024 10:00 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240604_000156837~2.jpg"
+      alt="Plage de l'Île"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Plage de l'Île</h2>
+      <span class="mb-5 text-xs">
+        Rte de l'Île, Saint-Siméon-de-Bonaventure, QC G0C 3A0 | Mon Jun 3, 2024 8:01 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240603_201220762.jpg"
+      alt="Grand Greve"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Grand Greve</h2>
+      <span class="mb-5 text-xs">
+        La Côte-de-Gaspé Regional County Municipality, Quebec | Mon Jun 3, 2024 4:12 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240601_141415600~2.jpg"
+      alt="Hopewell Rocks Provincial Park "
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Hopewell Rocks Provincial Park </h2>
+      <span class="mb-5 text-xs">
+        131 Discovery Rd, Hopewell Cape, NB E4H 4Z5 | Sat 1 Jun, 2024 11:14 am
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240525_134153388~2.jpg"
+      alt="Green Gables Heritage Place"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Green Gables Heritage Place</h2>
+      <span class="mb-5 text-xs">
+        8619 Cavendish Rd, Cavendish, PE C0A 1N0 | Sat May 25, 2024 10:41 am
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240525_214846571~2.jpg"
+      alt="Tulips at Three Sisters Lamp"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Tulips at Three Sisters Lamp</h2>
+      <span class="mb-5 text-xs">
+        Prince William St, Saint John, NB | Sat May 25, 2024 6:48 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240520_210613758~2.jpg"
+      alt="Blue Mussel Cafe"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Blue Mussel Cafe</h2>
+      <span class="mb-5 text-xs">
+        312 Harbourview Dr, North Rustico, PE C0A 1X0 | Mon May 20, 2024 5:48 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240518_190329718~2.jpg"
+      alt="Daily Driver"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Daily Driver</h2>
+      <span class="mb-5 text-xs">
+        Off-road | Sat May 18, 2024 8:06 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240517_215926701.PORTRAIT~2.jpg"
+      alt="Paddy"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Paddy</h2>
+      <span class="mb-5 text-xs">
+        Twillingate, NL | Fri May 17, 2024 7:29 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240517_200117607~2.jpg"
+      alt="On the edge"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">On the edge</h2>
+      <span class="mb-5 text-xs">
+        Twillingate Lighthouse, Lighthouse Rd, NL-340, Crow Head, NL A0G 4M0 | Fri May 12, 2024 6:48 pm
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240514_113938889.jpg"
+      alt="Breakfast Bagel with a side of Fruit bowl"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Breakfast Bagel with a side of Fruit bowl</h2>
+      <span class="mb-5 text-xs">
+        The Bagel Cafe, 246 Duckworth St, St. John's, NL A1C 1G8 | Sun May 12, 2024 9:09 am
+      </span>
+    </div>
+  </div><div class="relative group rounded-xl bg-white dark:bg-black shadow-lg">
+    <img
+      loading="lazy"
+      src="https://static.priteshtupe.com/PXL_20240505_150332824~2.jpg"
+      alt="Le Bistro By Liz"
+      class="rounded-t-xl lg:rounded-xl lg:shadow-md lg:opacity-90 lg:transition lg:duration-200 lg:hover:scale-105 lg:hover:opacity-100 cursor-pointer"
+      onclick="toggleFullscreen(this)" />
+    <div
+      class="p-5 prose prose-slate dark:prose-invert lg:m-0 lg:absolute lg:bottom-5 lg:p-10 lg:bg-white lg:dark:bg-black lg:opacity-80 lg:group-hover:invisible">
+      <h2 class="font-bold m-0">Le Bistro By Liz</h2>
+      <span class="mb-5 text-xs">
+        1333 South Park St, Halifax, NS B3J 2K9 | Sun May 5, 2024 12:03 pm
+      </span>
+    </div>
+  </div></div>
+
+<script>
+  function toggleFullscreen(elem) {
+    if (!document.fullscreenElement) {
+      elem.requestFullscreen().catch(err => {
+        alert(
+          `Error attempting to enable fullscreen mode: ${err.message} (${err.name})`,
+        )
+      })
+    } else {
+      document.exitFullscreen()
+    }
+  }
+</script>
+
+
+    <script defer>
+      /*
+       * Side Nav Bar Toggle
+       */
+      const sideNav = document.getElementById("side-nav").classList
+
+      function toggleNavBar() {
+        sideNav.contains("hidden") ? showNavBar() : hideNavBar()
+      }
+
+      function showNavBar() {
+        document.body.style.overflow = "hidden"
+        sideNav.remove("hidden")
+      }
+
+      function hideNavBar() {
+        document.body.style.overflow = "scroll"
+        sideNav.add("hidden")
+      }
+    </script>
+  </body>
+</html>
