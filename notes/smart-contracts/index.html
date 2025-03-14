@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta property="og:title" content="Notes" />
+    <meta property="og:description" content="" />
+    
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="Pritesh Tupe's Personal Website" />
+    <meta property="og:url" content="https://www.priteshtupe.com/" />
+    <meta
+      name="theme-color"
+      media="(prefers-color-scheme: light)"
+      content="white" />
+    <meta
+      name="theme-color"
+      media="(prefers-color-scheme: dark)"
+      content="black" />
+
+    <link rel="canonical" href="https://www.priteshtupe.com/" />
+    <link rel="icon" href="/assets/icons/favicon.ico" />
+    <link rel="icon" href="/assets/icons/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="stylesheet" href="/assets/css/output.css" />
+
+    <script>
+      /*
+       * Theme toggle (Dark - Light Mode)
+       */
+      const html = document.documentElement.classList
+
+      if (
+        localStorage.theme === "dark" ||
+        (!localStorage.theme &&
+          window.matchMedia("(prefers-color-scheme: dark)").matches)
+      ) {
+        darkMode()
+      }
+
+      function darkMode() {
+        html.add("dark")
+        localStorage.theme = "dark"
+        if (window.REMARK42) window.REMARK42.changeTheme("dark")
+      }
+
+      function lightMode() {
+        html.remove("dark")
+        localStorage.theme = "light"
+        localStorage.themeColor = "#ffffff"
+        if (window.REMARK42) window.REMARK42.changeTheme("light")
+      }
+
+      function toggleTheme() {
+        localStorage.theme === "dark" ? lightMode() : darkMode()
+      }
+    </script>
+
+    <!---->
+
+    
+    <title>Notes | Pritesh Tupe</title>
+    
+  </head>
+
+  <body class="bg-slate-50 dark:bg-zinc-900 text-slate-900 dark:text-slate-50">
+    <div class="fixed flex flex-row w-full justify-between pt-4 px-4">
+  <div class="flex flex-row">
+    
+    <div
+      title="Home"
+      class="text-slate-400 hover:text-slate-700 dark:text-slate-700 dark:hover:text-indigo-400 mr-4"
+      onclick="window.location.href = '/'">
+      <svg width="22" height="22" class="fill-current" viewBox="0 0 16 16">
+        <path
+          d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5z" />
+      </svg>
+    </div>
+    
+
+    <div
+      title="Dark Mode Toggle"
+      class="text-slate-400 hover:text-slate-700 dark:text-slate-700 dark:hover:text-indigo-400"
+      onclick="toggleTheme()">
+      <svg width="24px" height="24px" viewBox="0 0 24 24" class="fill-current">
+        <path
+          d="M12 16C14.2091 16 16 14.2091 16 12C16 9.79086 14.2091 8 12 8V16Z" />
+        <path
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2ZM12 4V8C9.79086 8 8 9.79086 8 12C8 14.2091 9.79086 16 12 16V20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4Z" />
+      </svg>
+    </div>
+  </div>
+
+  <div
+    title="Side Menu Toggle"
+    class="text-slate-400 hover:text-slate-700 dark:text-slate-700 dark:hover:text-indigo-400"
+    onclick="toggleNavBar()">
+    <svg class="fill-current" width="24px" height="24px" viewBox="0 0 512 512">
+      <path
+        d="M32 96v64h448V96H32zm0 128v64h448v-64H32zm0 128v64h448v-64H32z" />
+    </svg>
+  </div>
+</div>
+ <div
+  id="side-nav"
+  class="transition-transform fixed hidden h-full w-full m-0 p-0 z-50">
+  <div class="flex flex-row">
+    <div
+      class="w-0 md:w-2/3 md:w-4/5 h-full bg-black opacity-90 fixed left-0"
+      onclick="toggleNavBar()"></div>
+    <div
+      class="p-4 w-full md:w-1/3 md:w-1/5 h-full bg-slate-100 fixed right-0 dark:bg-zinc-900">
+      <div
+        class="float-right text-slate-400 hover:text-slate-700 dark:hover:text-indigo-400"
+        onclick="toggleNavBar()">
+        <svg
+          width="32"
+          height="32"
+          class="fill-current fixed right-4 top-4"
+          viewBox="0 0 16 16">
+          <path
+            d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z" />
+        </svg>
+      </div>
+      <div class="prose prose-slate dark:prose-invert prose-xl md:prose-2xl">
+        <ul class="list-none max-h-screen overflow-y-scroll pb-8">
+          <li><a href="/">Home</a></li>
+          <li><a href="/posts">Posts</a></li>
+          <li><a href="/notes">Notes</a></li>
+          <li><a href="/travels">Travels</a></li>
+          <li><a href="/photos">Photos</a></li>
+          <li>Web Novels</li>
+          <ul class="list-none">
+            <li><a href="/foa">Fate of Arda</a></li>
+            <li><a href="/gs">Grand Simulation</a></li>
+          </ul>
+          <li>Projects</li>
+          <ul class="list-none">
+            <li>
+              <a href="https://p-tupe.github.io/creatures" target="_blank"
+                >Creatures</a
+              >
+            </li>
+            <li>
+              <a href="https://p-tupe.github.io/binary-clock" target="_blank"
+                >Binary Clock</a
+              >
+            </li>
+            <li>
+              <a href="https://github.com/p-tupe/nvim-rss" target="_blank"
+                >Nvim Rss</a
+              >
+            </li>
+            <li>
+              <a href="https://p-tupe.github.io/impossible-xo" target="_blank"
+                >Impossible XO</a
+              >
+            </li>
+            <li>
+              <a href="https://github.com/p-tupe/pingmon" target="_blank"
+                >Pingmon</a
+              >
+            </li>
+            <li>
+              <a href="https://github.com/p-tupe/zettel-merken" target="_blank"
+                >Zettel Merken</a
+              >
+            </li>
+            <li>
+              <a href="https://p-tupe.github.io/flashcards" target="_blank"
+                >Flashcards</a
+              >
+            </li>
+          </ul>
+          <li><a href="/about">About</a></li>
+          <li><a href="/feed.xml">Rss</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+ 
+<div
+  class="prose prose-slate dark:prose-invert mx-auto py-16 prose md:prose-lg px-4 md:px-0">
+  <h1>Blockchain and friends</h1>
+<h2>Resources</h2>
+<ul>
+<li>
+<p><a href="https://info.etherscan.com/">https://info.etherscan.com/</a></p>
+</li>
+<li>
+<p><a href="https://ethereum.org/en/learn/">https://ethereum.org/en/learn/</a></p>
+</li>
+<li>
+<p><a href="https://wagmi.sh/core/why">https://wagmi.sh/core/why</a></p>
+</li>
+<li>
+<p><a href="https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html">https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart.contracts.html</a></p>
+</li>
+<li>
+<p><a href="https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc">https://github.com/ethereumbook/ethereumbook/blob/develop/01what-is.asciidoc</a></p>
+</li>
+<li>
+<p><a href="https://ethereum.org/en/developers/docs/intro-to-ethereum/">https://ethereum.org/en/developers/docs/intro-to-ethereum/</a></p>
+</li>
+<li>
+<p><a href="https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0">https://stark.mirror.xyz/n2UpRqwdf7yjuiPKVICPpGoUNeDhlWxGqjulrlpyYi0</a></p>
+</li>
+</ul>
+<hr>
+<h2>Blockchain</h2>
+<p>Consider a ledger, that is, a list of transactions. A ledger that is not owned by anyone; instead it is stored on computers called “nodes” on the internet. Anyone interested can become/create a node and get the ledger.</p>
+<p>When a User A sends some money to User B, that transaction is batched along with all the other transactions happening around the same time nearby. This batch is called a “block”. The block is sent to all the nearest nodes(?), who check if the transactions in the block follow proper rules (termed “protocols”) and connect it (“atomically”) to the earier blocks, forming a unique immutable “chain” of blocks. This is called Blockchain.</p>
+<h2>Smart Contract</h2>
+<p>A “transaction” in a blockchain does not have to be a money transfer, though it usually is.</p>
+<p>At its core, it is basically a “if X then Y” condition. For example, say User A wants to comissions a digital artwork from User B that they need to use as a brand logo before their product launch in 3 months. A smart contract would be:</p>
+<pre><code>If
+    1. Artwork Received by User A
+    2. Date is not more than 3 months from signing date
+Then
+    Pay User B an amount of X
+</code></pre>
+<p>If the logo is received within 3 months, the contract would be fulfilled and User B will automatically be paid.</p>
+<h2>Wallets</h2>
+<p>Wallets don’t hold money, instead they hold the keys. Specifically, a private key that proves your identity.</p>
+<p>All transactions are on blockchain and signed by each participating party using their keys. Thus, when a User A received amount X from User B, that transaction is added on top of the blockchain and when User A checks their balance, the wallet uses the private key to get all transactions by A and calculated the balance at the end, which now would be previous balance + X.</p>
+<h2>Smart Contracts on a Blockchain with Wallets</h2>
+<p>As mentioned earlier, a contract does not necessarily have to be a money transfer. Expanding on the core of “if X then Y”, a smart contract is a collection of data (state) and functions (actions) - like an OOP class.</p>
+<p>When a contract is added on a chain, an address is generated for it.</p>
+<p>For eg, this contract</p>
+<pre><code class="language-js">artWork = P
+signingDate = D
+amount = X
+fulfilled = false
+
+function checkArtwork(address A) {
+     // check if artwork P is received by User A
+}
+
+function checkDate() {
+    // check if current date is within 3 months of D
+}
+
+function transfer(address B) {
+    // Transfer Amount X to User B if not already fulfilled
+}
+</code></pre>
+<p>will genereate an address 0x0Aak…ajad, using which we can check if the contract is fulfilled and can transfer the amount using the address as the namespace.</p>
+<p>This means a “blockchain” is similar to a global namespace holding all the addresses, not dissimilar to a virtual runtime holding state/functions.</p>
+<h2>Oracles</h2>
+<p>Since blockchains are by nature unchanging, they don’t have access to external world. So, how would a smart contract determine if the the conditions have been fulfilled? Enter oracles. They are “queries” to the outside world that let a smart contract know if a condition has been fulfilled.</p>
+<h2>Consensus Mechanisms</h2>
+<p>The consensus mechanism is the mechanism that ensures all nodes agrees that a given blockchain is in fact correct.</p>
+<h3>Proof-of-Stake</h3>
+<h3>Proof-of-Work</h3>
+<h3>Proof-of-Authority</h3>
+<h2>Web3</h2>
+<h2>Cryptocurrencies</h2>
+<h2>NFTs</h2>
+<h2>Gas</h2>
+<h2>TestNets</h2>
+<h2>Contracts ABI</h2>
+<h3>ERC720 vs ERC721</h3>
+
+</div>
+
+
+    <script defer>
+      /*
+       * Side Nav Bar Toggle
+       */
+      const sideNav = document.getElementById("side-nav").classList
+
+      function toggleNavBar() {
+        sideNav.contains("hidden") ? showNavBar() : hideNavBar()
+      }
+
+      function showNavBar() {
+        document.body.style.overflow = "hidden"
+        sideNav.remove("hidden")
+      }
+
+      function hideNavBar() {
+        document.body.style.overflow = "scroll"
+        sideNav.add("hidden")
+      }
+    </script>
+  </body>
+</html>

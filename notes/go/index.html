@@ -1,0 +1,462 @@
+<!DOCTYPE html>
+<html lang="en" class="no-js">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="" />
+    <meta property="og:title" content="Notes" />
+    <meta property="og:description" content="" />
+    
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="Pritesh Tupe's Personal Website" />
+    <meta property="og:url" content="https://www.priteshtupe.com/" />
+    <meta
+      name="theme-color"
+      media="(prefers-color-scheme: light)"
+      content="white" />
+    <meta
+      name="theme-color"
+      media="(prefers-color-scheme: dark)"
+      content="black" />
+
+    <link rel="canonical" href="https://www.priteshtupe.com/" />
+    <link rel="icon" href="/assets/icons/favicon.ico" />
+    <link rel="icon" href="/assets/icons/favicon.svg" type="image/svg+xml" />
+    <link rel="apple-touch-icon" href="/assets/icons/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="stylesheet" href="/assets/css/output.css" />
+
+    <script>
+      /*
+       * Theme toggle (Dark - Light Mode)
+       */
+      const html = document.documentElement.classList
+
+      if (
+        localStorage.theme === "dark" ||
+        (!localStorage.theme &&
+          window.matchMedia("(prefers-color-scheme: dark)").matches)
+      ) {
+        darkMode()
+      }
+
+      function darkMode() {
+        html.add("dark")
+        localStorage.theme = "dark"
+        if (window.REMARK42) window.REMARK42.changeTheme("dark")
+      }
+
+      function lightMode() {
+        html.remove("dark")
+        localStorage.theme = "light"
+        localStorage.themeColor = "#ffffff"
+        if (window.REMARK42) window.REMARK42.changeTheme("light")
+      }
+
+      function toggleTheme() {
+        localStorage.theme === "dark" ? lightMode() : darkMode()
+      }
+    </script>
+
+    <!---->
+
+    
+    <title>Notes | Pritesh Tupe</title>
+    
+  </head>
+
+  <body class="bg-slate-50 dark:bg-zinc-900 text-slate-900 dark:text-slate-50">
+    <div class="fixed flex flex-row w-full justify-between pt-4 px-4">
+  <div class="flex flex-row">
+    
+    <div
+      title="Home"
+      class="text-slate-400 hover:text-slate-700 dark:text-slate-700 dark:hover:text-indigo-400 mr-4"
+      onclick="window.location.href = '/'">
+      <svg width="22" height="22" class="fill-current" viewBox="0 0 16 16">
+        <path
+          d="M6.5 14.5v-3.505c0-.245.25-.495.5-.495h2c.25 0 .5.25.5.5v3.5a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5v-7a.5.5 0 0 0-.146-.354L13 5.793V2.5a.5.5 0 0 0-.5-.5h-1a.5.5 0 0 0-.5.5v1.293L8.354 1.146a.5.5 0 0 0-.708 0l-6 6A.5.5 0 0 0 1.5 7.5v7a.5.5 0 0 0 .5.5h4a.5.5 0 0 0 .5-.5z" />
+      </svg>
+    </div>
+    
+
+    <div
+      title="Dark Mode Toggle"
+      class="text-slate-400 hover:text-slate-700 dark:text-slate-700 dark:hover:text-indigo-400"
+      onclick="toggleTheme()">
+      <svg width="24px" height="24px" viewBox="0 0 24 24" class="fill-current">
+        <path
+          d="M12 16C14.2091 16 16 14.2091 16 12C16 9.79086 14.2091 8 12 8V16Z" />
+        <path
+          fill-rule="evenodd"
+          clip-rule="evenodd"
+          d="M12 2C6.47715 2 2 6.47715 2 12C2 17.5228 6.47715 22 12 22C17.5228 22 22 17.5228 22 12C22 6.47715 17.5228 2 12 2ZM12 4V8C9.79086 8 8 9.79086 8 12C8 14.2091 9.79086 16 12 16V20C16.4183 20 20 16.4183 20 12C20 7.58172 16.4183 4 12 4Z" />
+      </svg>
+    </div>
+  </div>
+
+  <div
+    title="Side Menu Toggle"
+    class="text-slate-400 hover:text-slate-700 dark:text-slate-700 dark:hover:text-indigo-400"
+    onclick="toggleNavBar()">
+    <svg class="fill-current" width="24px" height="24px" viewBox="0 0 512 512">
+      <path
+        d="M32 96v64h448V96H32zm0 128v64h448v-64H32zm0 128v64h448v-64H32z" />
+    </svg>
+  </div>
+</div>
+ <div
+  id="side-nav"
+  class="transition-transform fixed hidden h-full w-full m-0 p-0 z-50">
+  <div class="flex flex-row">
+    <div
+      class="w-0 md:w-2/3 md:w-4/5 h-full bg-black opacity-90 fixed left-0"
+      onclick="toggleNavBar()"></div>
+    <div
+      class="p-4 w-full md:w-1/3 md:w-1/5 h-full bg-slate-100 fixed right-0 dark:bg-zinc-900">
+      <div
+        class="float-right text-slate-400 hover:text-slate-700 dark:hover:text-indigo-400"
+        onclick="toggleNavBar()">
+        <svg
+          width="32"
+          height="32"
+          class="fill-current fixed right-4 top-4"
+          viewBox="0 0 16 16">
+          <path
+            d="M4.646 4.646a.5.5 0 0 1 .708 0L8 7.293l2.646-2.647a.5.5 0 0 1 .708.708L8.707 8l2.647 2.646a.5.5 0 0 1-.708.708L8 8.707l-2.646 2.647a.5.5 0 0 1-.708-.708L7.293 8 4.646 5.354a.5.5 0 0 1 0-.708z" />
+        </svg>
+      </div>
+      <div class="prose prose-slate dark:prose-invert prose-xl md:prose-2xl">
+        <ul class="list-none max-h-screen overflow-y-scroll pb-8">
+          <li><a href="/">Home</a></li>
+          <li><a href="/posts">Posts</a></li>
+          <li><a href="/notes">Notes</a></li>
+          <li><a href="/travels">Travels</a></li>
+          <li><a href="/photos">Photos</a></li>
+          <li>Web Novels</li>
+          <ul class="list-none">
+            <li><a href="/foa">Fate of Arda</a></li>
+            <li><a href="/gs">Grand Simulation</a></li>
+          </ul>
+          <li>Projects</li>
+          <ul class="list-none">
+            <li>
+              <a href="https://p-tupe.github.io/creatures" target="_blank"
+                >Creatures</a
+              >
+            </li>
+            <li>
+              <a href="https://p-tupe.github.io/binary-clock" target="_blank"
+                >Binary Clock</a
+              >
+            </li>
+            <li>
+              <a href="https://github.com/p-tupe/nvim-rss" target="_blank"
+                >Nvim Rss</a
+              >
+            </li>
+            <li>
+              <a href="https://p-tupe.github.io/impossible-xo" target="_blank"
+                >Impossible XO</a
+              >
+            </li>
+            <li>
+              <a href="https://github.com/p-tupe/pingmon" target="_blank"
+                >Pingmon</a
+              >
+            </li>
+            <li>
+              <a href="https://github.com/p-tupe/zettel-merken" target="_blank"
+                >Zettel Merken</a
+              >
+            </li>
+            <li>
+              <a href="https://p-tupe.github.io/flashcards" target="_blank"
+                >Flashcards</a
+              >
+            </li>
+          </ul>
+          <li><a href="/about">About</a></li>
+          <li><a href="/feed.xml">Rss</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+ 
+<div
+  class="prose prose-slate dark:prose-invert mx-auto py-16 prose md:prose-lg px-4 md:px-0">
+  <h1>Go</h1>
+<ul>
+<li>
+<p><a href="https://golang.org">Official Site</a></p>
+</li>
+<li>
+<p><a href="https://go.dev/learn/">Official Learning Resource</a></p>
+</li>
+<li>
+<p><a href="https://go101.org/">Go101: Beginners’ Book</a></p>
+</li>
+<li>
+<p><a href="https://www.youtube.com/watch?v=YzLrWHZa-Kc">Golang Tutorial: YouTube video tutorial</a></p>
+</li>
+</ul>
+<h2>Notes</h2>
+<h3>From “A tour of Go”</h3>
+<p>| module &gt; package &gt; functions</p>
+<ul>
+<li>Starting a go project:
+<ul>
+<li>Make a project dir: <code>mkdir project_dir</code></li>
+<li>Make a src dir: <code>mkdir package_name</code> (This will be the name of final executable)</li>
+<li>Initialize go modules: <code>go mod init project_dir/package_name</code></li>
+</ul>
+</li>
+</ul>
+<h3>From LinkedIn Learning “Learning Go” tutorial</h3>
+<ul>
+<li>
+<p>Go has 3 things (from OOP perspective):</p>
+<ol>
+<li>Type - Definition of a thing</li>
+<li>Struct - Data of a thing</li>
+<li>Interface - Behavior of a thing</li>
+</ol>
+<p>Everything in Go has a type, every type has an interface.</p>
+</li>
+<li>
+<p>Go <em>doesn’t</em> have these:</p>
+<ol>
+<li>No (type) inheritance (Also, no classes/objects, duh)</li>
+<li>No overloading</li>
+<li>No “structured” exception handling (try/catch/finally)</li>
+<li>No implicit casting</li>
+</ol>
+</li>
+<li>
+<p>Case-sensitive syntax; If first letter of symbol is Uppercase, then it is publicly available (exported)</p>
+</li>
+<li>
+<p>Builtin functions: <a href="https://golang.org/pkg/builtin">golang.org/pkg/builtin</a></p>
+</li>
+<li>
+<p>Types:</p>
+<ul>
+<li>Everything has a type</li>
+<li>Some built-in data types: <code>bool</code> <code>string</code> <code>[u]int(8 | 16 | 32 | 64)</code> <code>float(32 | 64)</code> <code>complex(64 | 128)</code></li>
+<li>Some built-in data type aliases: <code>[u]int</code> = <code>[u]int(32 | 64)</code> <code>byte</code> <code>uintptr</code> <code>rune</code></li>
+<li>Some built-in collection types: Arrays, Slices, Maps, Structs</li>
+<li>Some built-in language types: Functions, Interfaces, Channels, Pointers</li>
+<li>Use printf’s <code>%T</code> to find type of something</li>
+<li>Note that strings are in double quotes <code>&quot;&quot;</code> and <em>characters</em> (int32 | byte) in single <code>''</code> like Java</li>
+</ul>
+</li>
+<li>
+<p>Variables:</p>
+<ul>
+<li>Declaration: <code>var &lt;name&gt; &lt;type&gt;</code>; Example: <code>var someString string</code></li>
+<li>Initialization: <code>&lt;name&gt; = &lt;value&gt;</code>; Example: <code>someString = &quot;this is a string&quot;</code></li>
+<li>Shortcut: <code>&lt;name&gt; := &lt;value&gt;</code>; Example: <code>anotherStr = &quot;this is another string&quot;</code>
+<ul>
+<li>Shortcut only works inside functions.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Constants:</p>
+<ul>
+<li>Definition: <code>const &lt;name&gt; &lt;type&gt; = &lt;value&gt;</code></li>
+<li>Cannot be reassigned</li>
+</ul>
+</li>
+<li>
+<p><code>new()</code> vs <code>make()</code></p>
+<ul>
+<li><code>new</code> is used to return a pointer of a “type” to an uninitialized memory location</li>
+<li><code>make</code> is used specifically with slices, maps and chans to allocate and initialize memory; it returns the object (as opposed to the pointer)</li>
+</ul>
+</li>
+<li>
+<p>Pointers:</p>
+<ul>
+<li>Declare a pointer: <code>var ptr *int</code></li>
+<li>Declare &amp; Initialize a pointer to val: <code>ptr := &amp;val</code></li>
+<li>Address of val : <code>&amp;val</code> == <code>ptr</code></li>
+<li>Value of val : <code>val</code> == <code>*ptr</code></li>
+</ul>
+</li>
+<li>
+<p>Arrays:</p>
+<ul>
+<li>Syntax: <code>var &lt;name&gt; = [&lt;capacity&gt;]&lt;type&gt;</code>, Example: <code>var rgb = [3]string</code></li>
+<li>Shorter syntax with Initialization: <code>rgb := [3]string{&quot;red&quot;, &quot;green&quot;, &quot;blue&quot;}</code></li>
+<li>Arrays are not usually preferred, since they cannot be sorted or capacity-changed</li>
+</ul>
+</li>
+<li>
+<p>Slices:</p>
+<ul>
+<li>Slices used Arrays behind the scene, but are preferred over Arrays because their capacity can be changed at runtime</li>
+<li>The syntax for slices is same as arrays, except the omission of <code>&lt;capacity&gt;</code> in square brackets</li>
+<li>Another syntax: <code>&lt;name&gt; := make([]&lt;type&gt;, &lt;init_size&gt;, [&lt;capacity&gt;])</code></li>
+<li>If <code>capacity</code> is added, slice behaves like an array</li>
+<li>Slice functions:
+<ul>
+<li><code>append(&lt;slice&gt;, &lt;value&gt;)</code> - Add <code>&lt;value&gt;</code> to <code>&lt;slice&gt;</code></li>
+<li><code>append(&lt;slice&gt;[&lt;from&gt;:&lt;to&gt;])</code> - Splice the slice</li>
+<li><code>sort.&lt;type&gt;(&lt;slice&gt;)</code> - Sort slice</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Maps:</p>
+<ul>
+<li>Like Object in JS, Dict in Python, Hash Table</li>
+<li>Syntax: <code>&lt;name&gt; := make(map[&lt;key_type&gt;]&lt;value_type&gt;)</code> (Here, <code>[]</code> does not mean optional, is part of the definition)</li>
+<li>Example: <code>countryCodes := make(map[string]string)</code> <code>countryCodes[&quot;CA&quot;] = &quot;Canada&quot;</code></li>
+<li>Map functions:
+<ul>
+<li><code>delete(&lt;map_name&gt;, &lt;key&gt;)</code> - deletes <code>key</code> from <code>map_name</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p>Structs:</p>
+<ul>
+<li>
+<p>Like a Class in Java, Can encapsulate both data and methods (optional)</p>
+</li>
+<li>
+<p>Example:</p>
+<pre><code class="language-go">type dog struct {
+  age int
+}
+
+d := dog{5}
+fmt.Printf(&quot;%+v\n&quot;, d)
+d.age += 1
+fmt.Printf(&quot;%+v\n&quot;, d)
+</code></pre>
+</li>
+</ul>
+</li>
+<li>
+<p>Channels:</p>
+</li>
+<li>
+<p>If Statements:</p>
+<pre><code>// Syntax (no brackets around conditions)
+if &lt;condition&gt; {}
+else if &lt;condition&gt; {}
+else {}
+</code></pre>
+</li>
+<li>
+<p>Switch Statements:</p>
+<pre><code>// Syntax
+switch &lt;expression&gt; {
+    case &lt;val&gt;: &lt;statements&gt;
+    ...
+    default: &lt;statement&gt;
+  }
+</code></pre>
+<ul>
+<li>case don’t fall through by default (they break if satisfied)</li>
+<li>must add <code>fallthrough</code> explicitly at the end of case statements</li>
+</ul>
+</li>
+<li>
+<p>For Loops:</p>
+<ul>
+<li>
+<p>Syntax 1 (same old):</p>
+<pre><code>for i := 0; i &lt; &lt;some_int&gt;; i++ { }
+</code></pre>
+</li>
+<li>
+<p>Syntax 2 (for <em>each</em>):</p>
+<pre><code>for x, y := range &lt;map | slice&gt; {
+  // x = key | index
+  // y = value
+}
+</code></pre>
+</li>
+<li>
+<p>Syntax 3 (while like):</p>
+<pre><code>for &lt;condition&gt; {
+  // break and continue work as expected
+}
+</code></pre>
+</li>
+</ul>
+</li>
+<li>
+<p>Functions:</p>
+<pre><code>func &lt;name&gt;(&lt;args&gt;) &lt;return_type&gt; {}
+</code></pre>
+</li>
+<li>
+<p>I/O:</p>
+<ul>
+<li>
+<p>Console:</p>
+<pre><code class="language-go">ip := bufio.NewReader(os.Stdin)
+fmt.Print(&quot;Enter something: &quot;)
+name, _ := ip.ReadString('\n')
+fmt.Println(&quot;You entered: &quot;, name)
+</code></pre>
+</li>
+<li>
+<p>File:</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Math:</p>
+<ul>
+<li><code>import &quot;math&quot;</code></li>
+<li><a href="https://pkg.go.dev/math">Go Math Package</a></li>
+<li>Arithmetic built-in: <code>+</code> <code>-</code> <code>*</code> <code>/</code> <code>%</code></li>
+<li>Bitwise built-in: <code>&amp;</code> <code>|</code> <code>^</code> <code>&amp;^</code> <code>&lt;&lt;</code> <code>&gt;&gt;</code></li>
+</ul>
+</li>
+<li>
+<p>Date/Time:</p>
+<ul>
+<li><code>import &quot;time&quot;</code></li>
+<li><a href="https://pkg.go.dev/time">Go Math Package</a></li>
+<li><code>time.Now()</code></li>
+<li><code>time.Date(...)</code></li>
+</ul>
+</li>
+</ul>
+
+</div>
+
+
+    <script defer>
+      /*
+       * Side Nav Bar Toggle
+       */
+      const sideNav = document.getElementById("side-nav").classList
+
+      function toggleNavBar() {
+        sideNav.contains("hidden") ? showNavBar() : hideNavBar()
+      }
+
+      function showNavBar() {
+        document.body.style.overflow = "hidden"
+        sideNav.remove("hidden")
+      }
+
+      function hideNavBar() {
+        document.body.style.overflow = "scroll"
+        sideNav.add("hidden")
+      }
+    </script>
+  </body>
+</html>
